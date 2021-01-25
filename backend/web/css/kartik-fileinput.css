@@ -1,0 +1,195 @@
+.help-block {
+    color: red;
+}
+
+
+#basketListCountCont {
+    width: 25px !important;
+    height: 15px !important;
+    background-color: red !important;
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 10px;
+    right: 25px;
+    top: 15px;
+    font-weight: bold;
+}
+
+
+.shop-cart a i {
+    font-size: 30px !important;
+    padding: 0 10px !important;
+    color: white !important;
+}
+
+.card {
+    background-color: #1b1b1a !important;
+}
+
+.card-actions {
+    position: absolute;
+    z-index: 10;
+    right: 13px;
+    top: 13px;
+    padding: 5px;
+    background: black;
+    opacity: 0.5;
+}
+
+span.plus, span.minus {
+    cursor: pointer;
+}
+
+button.btn.btn-outline-primary.btn-sm.float-right.font-weight-bold:disabled:hover {
+    background-color: transparent !important;
+    color: #267056 !important;
+    border-color: #267056 !important;
+    cursor: not-allowed !important;
+}
+
+.card-actions a {
+    color: white;
+}
+
+.prodCount {
+    width: 100%;
+    height: calc(1.6rem + 2px);
+    border-radius: 0 !important;
+}
+
+#basket-table tbody tr, #order-table tbody tr {
+    height: 100px
+}
+
+#basket-table td, i, #order-table td, i {
+    vertical-align: middle;
+    color: white;
+}
+
+.m-portlet__head-caption .m-nav__item {
+    padding: 0 !important;
+}
+
+.glyphicon {
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    color: white !important;
+    font-size: 15px;
+}
+
+.glyphicon.glyphicon-triangle-left::before {
+    content: "\f0d9";
+    font-size: 70px;
+}
+
+.glyphicon.glyphicon-triangle-right::before {
+    content: "\f0da";
+    font-size: 70px;
+}
+
+.glyphicon.glyphicon-zoom-in::before {
+    content: "\f00e";
+}
+
+.glyphicon.glyphicon-trash::before {
+    content: "\f2ed";
+}
+
+.glyphicon.glyphicon-resize-vertical::before {
+    content: "\f338";
+}
+
+.glyphicon.glyphicon-fullscreen::before {
+    content: "\f0b2";
+}
+
+.glyphicon.glyphicon-resize-full::before {
+    content: "\f35d";
+}
+
+.glyphicon.glyphicon-remove::before {
+    content: "\f00d";
+}
+
+.glyphicon.glyphicon-move::before {
+    content: "\f0b2";
+}
+
+.ug-slider-control.ug-arrow-left.ug-skin-default, .ug-slider-control.ug-arrow-right.ug-skin-default {
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.kjope_modal {
+    position: absolute;
+    z-index: 1000;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.kjope-modal {
+    background-color: black;
+    padding: 10px;
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    z-index: 1000;
+    /*left: 0;*/
+    right: 10px;
+    margin: auto;
+    bottom: 10px;
+    display: none;
+}
+
+td.truncate {
+    text-overflow: ellipsis;
+    overflow: visible;
+    white-space: normal;
+}
+
+button.kv-file-upload.btn.btn-sm.btn-kv.btn-default.btn-outline-secondary {
+    display: none;
+}
+
+a.news-download-link {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+a.news-download-link:hover {
+    color: #2ca189 !important;
+    text-decoration: none !important;
+}
+
+
+span[data-category-link] {
+    cursor: pointer;
+}
+
+.popover  {
+    background-color: black;
+    opacity: 0.8;
+}
+
+.popover .arrow:after {
+    border-top-color: black;
+    opacity: 0.8;
+}
+
+
+/*#news-form .file-actions {*/
+/*    margin-top: 3rem !important;*/
+/*}*/
+
+/*#news-form .file-caption-info, #news-form .file-size-info {*/
+/*    margin-top: 0.5rem !important;*/
+/*}*/

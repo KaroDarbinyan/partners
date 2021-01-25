@@ -1,0 +1,355 @@
+#calendar {
+    font-family: sans-serif;
+}
+
+#calendar, #send-email {
+    margin: 2rem auto;
+    width: 100%;
+}
+
+#calendar .modal-content, #send-email .modal-content {
+    background-color: #383838;
+    border: 1px solid #1e1e1e;
+    box-shadow: 0 0 30px 0 #000000
+}
+
+#calendar .modal-header, #send-email .modal-header {
+    padding: .3rem;
+    background-color: #2a2a2a;
+    color: white;
+    border: none;
+}
+
+#calendar .modal .modal-content .modal-header .modal-title,
+#send-email .modal .modal-content .modal-header .modal-title {
+    font-weight: 400;
+    font-size: .9rem;
+    color: white;
+    margin-left: 10px
+}
+
+#calendar .modal label, #send-email #mailing-form > label {
+    background-color: #9e846e !important;
+    border: none;
+}
+
+#calendar .modal label span .custom-title, #send-email .modal label span .custom-title {
+    color: white !important;
+}
+
+#calendar .modal-header .close, #send-email .modal-header .close {
+    padding: 1rem;
+    color: red;
+    box-shadow: unset;
+    opacity: 1;
+    border: none;
+    text-shadow: unset;
+}
+
+button[type=button].fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+    background: linear-gradient(#77614d, #a88d75);
+    border: none !important;
+    outline: none !important;
+    color: white;
+    width: 130px;
+    position: initial;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 0.75rem 0.5rem !important;
+    /*padding-left: 40px;*/
+    /*padding-right: 40px;*/
+}
+
+button[type=button].fc-prev-button.fc-button.fc-state-default.fc-corner-left,
+button[type=button].fc-next-button.fc-button.fc-state-default.fc-corner-right,
+button[type=button].fc-prev-button.fc-button.fc-state-default.fc-corner-left:hover,
+button[type=button].fc-next-button.fc-button.fc-state-default.fc-corner-right:hover {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+
+button[type=button].fc-prev-button.fc-button.fc-state-default.fc-corner-left span.fc-icon.fc-icon-left-single-arrow:before,
+button[type=button].fc-next-button.fc-button.fc-state-default.fc-corner-right span.fc-icon.fc-icon-right-single-arrow:before {
+    font-size: 3.1rem;
+}
+
+
+.close-on {
+    color: #9e846e;
+    position: relative;
+    /*right: 0;*/
+    z-index: 11;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 3px;
+    float: right;
+}
+
+.close-on:before {
+    content: "✕";
+}
+
+
+#send-email #mail-email label {
+    background-color: transparent;
+    margin: 10px 0
+}
+
+#send-email input, #send-email textarea, #mail-email {
+    background-color: #383838 !important;
+    border: 1px solid #495057;
+    color: white;
+}
+
+#send-email #mail-email label input[type=radio] {
+    margin: 0 5px 0 0
+}
+
+.fc-unthemed .fc-toolbar .fc-left h2, .fc-unthemed .fc-toolbar .fc-right h2, .fc-unthemed .fc-toolbar .fc-center h2 {
+    display: inline-block;
+}
+
+.fc-toolbar.fc-header-toolbar {
+    margin-bottom: 3em;
+}
+
+.fc .fc-row .fc-content-skeleton table, .fc .fc-row .fc-content-skeleton td, .fc .fc-row .fc-helper-skeleton td {
+    position: relative;
+}
+
+#event-list, #send-email-modal {
+    margin: 20px auto;
+    z-index: 9999;
+}
+
+.add-on {
+    position: absolute;
+    z-index: 20;
+    font-size: 16px;
+    cursor: pointer;
+    color: #1a4447;
+    width: 90%;
+    height: 160%;
+    opacity: 0;
+}
+
+#kt_calendar .fc-today {
+    background-color: #9e846e !important;
+}
+
+.modal-events {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.event-list .modal-content {
+    z-index: 99;
+    margin: 0 auto;
+}
+
+.event-checkbox {
+    opacity: 0;
+}
+
+.event-list .modal-content .modal-body label {
+    display: block;
+}
+
+.event-list .modal-content .modal-body {
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+#calendar .fc-unthemed #event-list.fc-popover, #send-email .fc-unthemed #event-list.fc-popover {
+    background-color: transparent;
+    border: unset;
+    width: 100%;
+}
+
+#calendar .btn, #send-email .btn {
+    background-color: unset;
+}
+
+.fc-unthemed .fc-toolbar .fc-button:focus,
+.fc-unthemed .fc-toolbar .fc-button:active,
+.fc-unthemed .fc-toolbar .fc-button.fc-state-active {
+    background: #5e252c !important;
+    border: 1px solid #d85362 !important;
+}
+
+.fc-unthemed th,
+.fc-unthemed td,
+.fc-unthemed thead,
+.fc-unthemed tbody,
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-row,
+.fc-unthemed .fc-content,
+.fc-unthemed .fc-popover,
+.fc-unthemed .fc-list-view,
+.fc-unthemed .fc-list-heading td {
+    border-color: #333 !important;
+}
+
+.fc-unthemed .fc-toolbar .fc-button {
+    border: 1px solid #333 !important;
+}
+
+@media (min-width: 576px) {
+    .modal-sm {
+        max-width: 500px;
+    }
+}
+
+.fc-unthemed .fc-event.fc-not-start.fc-end.fc-event-solid-success,
+.fc-unthemed .fc-event.fc-not-start.fc-not-end.fc-event-solid-success,
+.fc-unthemed .fc-event.fc-start.fc-event-solid-success,
+.fc-unthemed .fc-event-dot.fc-not-start.fc-end.fc-event-solid-success,
+.fc-unthemed .fc-event-dot.fc-not-start.fc-not-end.fc-event-solid-success,
+.fc-unthemed .fc-event-dot.fc-start.fc-event-solid-success {
+    background: #0e0e0e;
+}
+
+.fc-unthemed .fc-event.fc-not-start.fc-end.fc-event-solid-success .fc-title,
+.fc-unthemed .fc-event.fc-not-start.fc-not-end.fc-event-solid-success .fc-title,
+.fc-unthemed .fc-event.fc-start.fc-event-solid-success .fc-title,
+.fc-unthemed .fc-event-dot.fc-not-start.fc-end.fc-event-solid-success .fc-title,
+.fc-unthemed .fc-event-dot.fc-not-start.fc-not-end.fc-event-solid-success .fc-title,
+.fc-unthemed .fc-event-dot.fc-start.fc-event-solid-success .fc-title {
+    color: #9c9a9a;
+}
+
+.fc-unthemed .fc-event .fc-title,
+.fc-unthemed .fc-event-dot .fc-title {
+    font-size: 0.7rem;
+    color: white !important;
+}
+
+.fc-unthemed .fc-event,
+.fc-unthemed .fc-event-dot {
+    border: unset !important;
+}
+
+.fc-unthemed .fc-event .fc-content,
+.fc-unthemed .fc-event-dot .fc-content {
+    padding: .3rem;
+}
+
+.fc-unthemed .fc-event.fc-start.fc-event-danger .fc-content:before,
+.fc-unthemed .fc-event-dot.fc-start.fc-event-danger .fc-content:before {
+    background: transparent;
+}
+
+.fc-unthemed .fc-popover .fc-body .fc-event {
+    padding: .5rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+tr:first-child > td > .fc-day-grid-event {
+    margin-top: 0;
+}
+
+.fc-day-grid-event .fc-content {
+    white-space: unset !important;
+}
+
+.fc-unthemed a.fc-more {
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: white;
+}
+
+#mail-emails, .send_broker {
+    border: 1px solid #495057;
+}
+
+#mail-emails, .send_broker, #mail-emails label, .send_broker label {
+    background-color: #383838 !important;
+    color: white;
+    border-radius: 4px;
+}
+
+td.fc-day-top.fc-past {
+    color: #999999 !important;
+    cursor: not-allowed !important;
+}
+
+/*td.fc-day-top.fc-past span.fc-day-number {*/
+/*    color: red !important;*/
+/*}*/
+
+td.fc-future span.fc-day-number, td.fc-today span.fc-day-number {
+    color: white !important;
+}
+
+td.fc-other-month.fc-future span.fc-day-number {
+    color: #ffffff94 !important;
+}
+
+span.fc-day-number {
+    font-size: 20px !important;
+}
+
+.fc-unthemed th, .fc-unthemed td, .fc-unthemed thead, .fc-unthemed tbody, .fc-unthemed .fc-divider, .fc-unthemed .fc-row, .fc-unthemed .fc-content, .fc-unthemed .fc-popover, .fc-unthemed .fc-list-view, .fc-unthemed .fc-list-heading td {
+    border-color: #626262 !important;
+}
+
+.fc-day-header.fc-widget-header span {
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.fc-day-top.fc-other-month {
+    opacity: unset !important;
+}
+
+.fc-day-number {
+    color: #626262 !important;
+    float: left !important;
+}
+
+.fc-day, .fc-day-header {
+    background-color: rgba(0, 0, 0, .5) !important;
+    border-style: solid !important;
+    border-width: 4px !important;
+}
+
+.fc-more {
+    text-decoration: underline white !important;
+}
+
+
+.fc th, .fc td {
+    border-width: 4px !important;
+}
+
+.fc-unthemed .fc-day-grid td:not(.fc-axis) {
+    padding: 0.6rem 0.6rem !important;
+}
+
+.fc-scroller.fc-day-grid-container {
+    overflow: unset !important;
+}
+
+.fc-unthemed .fc-toolbar .fc-button {
+    padding: 0 !important;
+}
+
+
+.fc-toolbar {
+    padding: 1.75rem 0;
+}
+
+/*.fc-event-solid-success .event-check-mark {*/
+/*    display: block;*/
+/*}*/
+
+.event-check-mark {
+    width: 25px;
+    float: right;
+    display: none;
+}
+

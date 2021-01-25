@@ -1,0 +1,55 @@
+web_id,navn,username,tittel,firma_id,id_avdelinger,role,inaktiv_status
+3001423,Arild Berentzen,arild@aursnespartners.no,Daglig leder / Partner,3000049,3000081,director,-1
+3001424,Marianne  Stenseth,marianne@aursnespartners.no,Eiendomsmegler MNEF / Partner,3000049,3000081,broker,-1
+3001656,Vegard Lianes,vegard@aursnespartners.no,Eiendomsmeglerfullmektig MNEF,3000049,3000081,broker,-1
+3000598,Elisabeth  Bakke,elisabeth@bs-partners.no,Daglig leder / Eiendomsmegler,3000021,3000028,director,-1
+3000597,Jeanette  Sørvik,jeanette@bs-partners.no,Eiendomsmegler,3000021,3000028,broker,-1
+3000600,Preben Rakfjord,preben@bs-partners.no,Eiendomsmeglerfullmektig,3000021,3000028,broker,-1
+3001392,Jens Roland Pettersen,Jens@bs-partners.no,Eiendomsmegler,3000021,3000028,broker,-1
+3001422,Rikke  Steneby,rikke@bs-partners.no,Eiendomsmeglerfullmektig,3000021,3000028,broker,-1
+3000599,Henrik A Berg,henrik@bs-partners.no,Eiendomsmegler/oppgjørsansvarlig,3000021,3000028,broker,-1
+3001327,Kaja Tveiten,Kaja@bs-partners.no,Fag ansvarlig / Eiendomsmegler,3000021,3000028,broker,-1
+3000808,Caroline Wivestad Grøtt,caroline@bs-partners.no,Eiendomsmeglerfullmektig,3000021,3000028,broker,-1
+3001515,Jonas Nikolai Grimsøen,jonas@gpartners.no,Eiendomsmegler,3000052,3000090,director,-1
+3001514,Jonas  Bergtun,bergtun@gpartners.no,Eiendomsmegler / Partner,3000052,3000090,broker,-1
+3001674,Heine Kristoffer Aas,heine@gpartners.no,Eiendomsmegler / Partner,3000052,3000090,broker,-1
+3001513,Hilde Due Rismark,hilde@gpartners.no,Eiendomsmegler,3000052,3000090,broker,-1
+3001654,Joakim Furulund,joakim@gpartners.no,Meglerkoordinator,3000052,3000090,broker,-1
+3000830,Inger Johanne Mauland Frivold,inger@huuspartners.no,Eiendomsmegler MNEF,3000032,3000051,broker,-1
+3000827,Eirik  Huus,eirik@huuspartners.no,Megler MNEF / Siv. Økonom,3000032,3000051,director,-1
+3000824,Anne Grethe Nygaard Huus,anne.grethe@huuspartners.no,Eiendomsmegler MNEF,3000032,3000051,broker,-1
+3000833,Karianne Mauland,karianne@huuspartners.no,Oppgjør / Regnskap / Controller,3000032,3000051,broker,-1
+3000336,Knut  Leinæs,knut@leinaes.no,"Advokat, Megler, Partner",3000011,3000014,broker,-1
+3000880,Kristin  Sundling,kristin@leinaes.no,Daglig leder / Eiendomsmegler / Partner,3000011,3000014,director,-1
+3000337,Marius Strøm Grønn,marius@leinaes.no,Eiendomsmegler / Fagansvarlig,3000011,3000014,broker,-1
+3000435,Cecilie  Moe,cecilie@leinaes.no,Eiendomsmegler / Partner,3000011,3000014,broker,-1
+3000340,Wenke  Hvaal,wenke@leinaes.no,Medhjelper Oppgjør,3000011,3000014,broker,-1
+3001628,Martin Larsen Sundet,martin@leinaes.no,Eiendomsmeglerfullmektig,3000011,3000014,broker,-1
+3000989,Camilla Bjaaland,camilla@leinaes.no,Eiendomsmeglerfullmektig,3000011,3000014,broker,-1
+3000774,Glenn J. Olsen,glenn@arendalpartners.no,Daglig leder,3000031,3000047,director,-1
+3000236,Nina Widerøe,nw@partners.no,Eiendomsmegler MNEF,8,11,broker,-1
+3000327,Øystein Liverud,ol@partners.no,Eiendomsmegler,8,11,director,-1
+3000314,Anders  Ødenes,ao@partners.no,Eiendomsmegler,8,11,broker,-1
+3000312,Sarah Wennes,sw@partners.no,Backoffice / Eiendomsmegler,8,11,broker,-1
+3000684,Simen Eknes Slotsvig,slotsvig@partners.no,Eiendomsmeglerfullmektig,8,11,broker,-1
+3001231,Emilie Fredriksen,ef@partners.no,Eiendomsmeglerfullmektig,8,11,broker,-1
+3001484,Juliane Jacobsen,jj@partners.no,Eiendomsmeglerfullmektig,8,11,broker,-1
+3000637,Torben Olden,torben@oldenpartners.no,Daglig leder,3000023,3000034,director,-1
+101,Bjørn Tore Strømmen,bts@oldenpartners.no,Eiendomsmegler,3000023,3000034,broker,-1
+3000823,May Helen Hestnes Arntsen,mayhelen@oldenpartners.no,Eiendomsmeglerfullmektig,3000023,3000034,broker,-1
+102,Elisabeth Sandvik,elisabeth@oldenpartners.no,Eiendomsmeglerfullmektig,3000023,3000034,broker,-1
+3000955,Ida Sommerfeldt Hjelmtvedt,ida@partnerseiendomsmegling.no,Eiendomsmegler MNEF,4,3000060,broker,-1
+3000956,Jan Tore Ringen,jantore@partnerseiendomsmegling.no,Eiendomsmegler MNEF,4,3000060,broker,-1
+3000958,Caroline Svensrud,caroline@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,3000061,broker,-1
+3000959,Trine Grini,trine@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,3000061,broker,-1
+3001290,Marianne Bergseng,marianne@partnerseiendomsmegling.no,Medhjelper,4,3000061,broker,-1
+3000224,Runa Skumlien,runa@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,6,broker,-1
+3000181,Silje F. Aandalen,silje@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,6,broker,-1
+3001486,Kristian Løkken,kristian@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,6,broker,-1
+3000320,Ole Kristian F. Taralrud,taralrud@partnerseiendomsmegling.no,Eiendomsmegler MNEF ,4,6,broker,-1
+3001667,Gunnar Putten,gunnar@partnerseiendomsmegling.no,Eiendomsmegler MNEF ,4,6,broker,-1
+3000184,Silje A. Enger,sa@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,4,6,broker,-1
+3000183,Mette Aa. Sivesind,mette@partnerseiendomsmegling.no,Eiendomsmegler MNEF,4,6,broker,-1
+3001326,Sara Hichour,sara@partnerseiendomsmegling.no,Eiendomsmeglerfullmektig,4,6,broker,-1
+3000175,Ida Helene B. Balke,balke@lohnekrokeide.no,Faglig leder / Advokat,4,6,broker,-1
+3000174,Jøran  Martinsen,joran.martinsen@gobb.no,Daglig leder,4,6,director,-1

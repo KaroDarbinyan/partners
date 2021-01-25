@@ -1,0 +1,89 @@
+<?php
+
+use common\models\PropertyDetails;
+use common\models\Vindulosning;
+use frontend\widgets\BootstrapLinkPager;
+use yii\bootstrap\Html;
+use yii\data\Pagination;
+use yii\helpers\StringHelper;
+
+/* @var $this yii\web\View */
+/* @var $maxMin integer */
+/* @var $maxMinArea array */
+/* @var $price integer */
+/* @var $areas array */
+/* @var $typesOfOwnership array */
+/* @var $roomCounts array */
+/* @var $count integer */
+/* @var $archives boolean */
+/* @var $propertiesData array */
+/* @var $this yii\web\View */
+/* @var $properties PropertyDetails[] */
+/* @var $pages Pagination */
+/* @var $vindulosning Vindulosning */
+
+$this->title = 'Eiendomene til salgs, kjøpe eiendom';
+
+?>
+
+<?php $this->beginBlock('advertising'); ?>
+
+<div class="owl-carousel owl-theme container-fluid mt-5">
+
+    <?php foreach ($propertiesData["properties"] as $property): ?>
+        <div class="col-12 col-md-12">
+            <div class="property-item portfolio_item mb_30"
+                 title="<?= $property->overskrift . ', ' . $property->adresse ?>">
+                <a href="<?= $property->path() ?>">
+                    <div class="box_img w-100 h-auto <?= $property->isSold() ? 'is-sold' : '' ?>">
+                        <?php if ($property->isSold()): ?>
+                            <img src="/img/sold.png" alt="Solgt" class="is-sold">
+                        <?php endif ?>
+                        <?= Html::img($property->posterPath('1200x')); ?>
+                    </div>
+
+                    <div class="box_text">
+                        <div class="text-left d-flex align-items-start flex-column">
+                            <?php if ($property->isOwnedSchalaPartners()): ?>
+                                <h4 class="mb-auto"><?= StringHelper::truncate(ltrim($property->title . ', ' . $property->overskrift . ', ' . $property->adresse, ', '), 300) ?></h4>
+                            <?php else: ?>
+                                <h4 class="mb-auto"><?= StringHelper::truncate($property->overskrift . ', ' . $property->adresse, 350) ?></h4>
+                            <?php endif ?>
+                            <div class="box-text-bottoms">
+                                <span class="property-price"><?= $property->getCost() ?></span>
+                                <span class="property-desc">
+                                    <?php if ($property->getProm()): ?><?= $property->getProm() ?> m
+                                        <sup>2</sup>, <?php endif ?><?= $property->type_eiendomstyper ?><?php if ($property->soverom): ?>, <?= $property->soverom ?> soverom<?php endif ?>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    <?php endforeach ?>
+
+</div>
+
+<?php $this->endBlock() ?>
+
+<?php $this->registerJs("
+    $(function() {
+        $('.owl-carousel').on('initialized.owl.carousel', function () {
+            setTimeout(function () {
+                $('.property-details').show();
+            }, 200);
+        });
+
+        $('.owl-carousel').owlCarousel({
+            items: " . (Yii::$app->mobileDetect->isMobile() ? 1 : 12 / $vindulosning->column) . ",
+            navigation: false,
+            dots: false,
+            loop: true,
+            lazyLoad:true,
+            autoplay: true,
+            autoplayTimeout: 2000,
+            autoplayHoverPause: true
+        });
+    });
+"); ?>

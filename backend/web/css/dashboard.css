@@ -1,0 +1,137 @@
+.income-count-first {
+    margin-bottom: 0 !important;
+}
+
+.income-count-last {
+    margin-bottom: -25px !important;
+}
+
+.check-all-users {
+    cursor: pointer;
+}
+
+.check-all-users i {
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 2px;
+    color: white !important;
+}
+
+.check-all-users i:before {
+    opacity: 0;
+}
+
+i.checked:before {
+    opacity: 1;
+}
+
+.check-all-users:hover {
+    color: #0d1016 !important;
+}
+
+.m-accordion__item {
+    background-color: #474747 !important;
+}
+
+.remove-incomes {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.remove-incomes:hover i.fas.fa-times {
+    color: red !important;
+}
+
+.broker-row {
+    display: flex !important;
+    height: 90px;
+}
+
+@media only screen and (max-width: 375px) {
+    .table-maina2 td {
+        padding: 0.4rem !important;
+        vertical-align: middle !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+
+    .m-widget24 .m-widget24__item .m-widget24__number {
+        margin-bottom: 0 !important;
+    }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+
+    .broker-row span {
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 600px) {
+    .table-maina2 td {
+        padding: 0.8rem !important;
+        vertical-align: middle !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+    #user-incomes .user-info{
+        background-color: #5f5f5f !important;
+        padding: 15px 0 !important;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 1024px) {
+
+    .broker-row span {
+        display: none !important;
+    }
+
+    .table-maina2 td {
+        padding: 1rem !important;
+        vertical-align: middle !important;
+    }
+
+}
+
+@media only screen and (min-width: 425px) and (max-width: 768px) {
+
+    .m-widget24__stats {
+        margin-right: .3rem !important;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .first-last-radius > div > div > div:last-child > div {
+        border-radius: 0 !important;
+    }
+
+    .first-last-radius > div > div > div:first-child > div {
+        border-radius: 0 !important;
+    }
+
+    .m-widget24 {
+        height: 100% !important;
+    }
+
+    .m-widget24 .m-widget24__item .m-widget24__number {
+        margin-bottom: 0; !important;
+    }
+
+}
+
+@media (max-width: 1440px) {
+    .broker-row span {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1440px) {
+    #user-income .m-widget24__number {
+        display: flex !important;
+    }
+}

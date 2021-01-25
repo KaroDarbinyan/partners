@@ -1,0 +1,110 @@
+<?php
+/*id="m_table_1"*/
+/** @var \yii\data\ActiveDataProvider $dataProvider */
+/** @var yii\data\Sort $sort */
+
+use yii\data\Sort;
+use yii\helpers\Url;
+use yii\widgets\ListView;
+use yii\widgets\Pjax;
+
+$labels = [
+    "Eiendom" => [
+        'slug' => 'adresse',
+        'class' => 'sorting',
+        SORT_ASC => 'la-sort-alpha-asc',
+        SORT_DESC => 'la-sort-alpha-desc'
+    ],
+    "Registrert" => [
+        'slug' => 'created_at',
+        'class' => 'sorting_desc',
+        SORT_ASC => 'la-sort-amount-asc',
+        SORT_DESC => 'la-sort-amount-desc'
+    ],
+    "Sist endret" => [
+        'slug' => 'updated_at',
+        'class' => 'sorting',
+        SORT_ASC => 'la-sort-amount-asc',
+        SORT_DESC => 'la-sort-amount-desc'
+    ],
+    "Megler" => [
+        'slug' => 'megler',
+        'class' => 'sorting',
+        SORT_ASC => 'la-sort-alpha-asc',
+        SORT_DESC => 'la-sort-alpha-desc'
+    ],
+    "Oppdragsnummer" => [
+        'slug' => 'oppdragsnummer',
+        'class' => 'sorting',
+        SORT_ASC => 'la-sort-amount-asc',
+        SORT_DESC => 'la-sort-amount-desc'
+    ],
+];
+$route = '/oppdrag';
+
+?>
+<?php ob_start(); ?>
+<table class="dataTable table table-striped- table-bordered table-hover table-checkable" >
+    <thead>
+    <tr>
+        <?php foreach ($labels as $name => $label) {
+            $iconClass = isset($label[$sort->getAttributeOrder($label['slug'])])
+                ? $label[$sort->getAttributeOrder($label['slug'])] : ''
+            ;
+            ?>
+            <th >
+                <a class="" href="<?= $sort->createUrl($label['slug']) ?>"
+                   data-sort="<?= $label['slug'] ?>"
+                ><?= $name ?><i class="la <?= isset($label[$sort->getAttributeOrder($label['slug'])])
+                        ? $label[$sort->getAttributeOrder($label['slug'])] : '' ?>"></i></a>
+            </th>
+        <?php } ?>
+    </tr>
+    </thead>
+    <tbody>{items}</tbody>
+    <tfoot>
+    <tr>
+        <?php foreach ($labels as $name => $label) { ?>
+            <th>
+                <a
+                    class=""
+                    href="<?= $sort->createUrl($label['slug']) ?>"
+                    data-sort="<?= $label['slug'] ?>"
+                ><?= $name ?><i class="la <?= $iconClass ?>"></i></a>
+            </th>
+        <?php } ?>
+    </tr>
+    </tfoot>
+</table>
+{pager}
+<?php $layout = ob_get_clean(); ?>
+
+
+<?php
+// Display the content buffered above
+Pjax::begin([
+    'formSelector' => '[data-active-form-header]',// this form is submitted on change
+    'submitEvent' => 'change',
+]);
+echo ListView::widget([
+    'dataProvider' => $dataProvider,
+    'itemView' => '_post',
+    'pager' => [
+        'prevPageLabel' => '<i class="la la-angle-left"></i>',
+        'nextPageLabel' => '<i class="la la-angle-right"></i>',
+        'maxButtonCount' => 7,
+
+        // Customzing options for pager container tag
+        'options' => [
+            'class' => 'copy-datatable-pagination',
+        ],
+
+        // Customzing CSS class for pager link
+        'activePageCssClass' => 'active',
+        'disabledPageCssClass' => 'disabled',
+    ],
+    'layout' => $layout,
+]);
+Pjax::end();
+?>
+

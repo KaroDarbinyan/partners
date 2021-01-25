@@ -1,0 +1,83 @@
+{
+  "name": "yiisoft/yii2-app-advanced",
+  "description": "Yii 2 Advanced Project Template",
+  "keywords": [
+    "yii2",
+    "framework",
+    "advanced",
+    "project template"
+  ],
+  "homepage": "http://www.yiiframework.com/",
+  "type": "project",
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+    "forum": "http://www.yiiframework.com/forum/",
+    "wiki": "http://www.yiiframework.com/wiki/",
+    "irc": "irc://irc.freenode.net/yii",
+    "source": "https://github.com/yiisoft/yii2"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "mobiledetect/mobiledetectlib": "^2.8",
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.14",
+    "yiisoft/yii2-bootstrap": "~2.0.0",
+    "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
+    "devgroup/yii2-jsoneditor": "*",
+    "ext-json": "*",
+    "aws/aws-sdk-php": "^3.90",
+    "moonlandsoft/yii2-phpexcel": "*",
+    "kartik-v/yii2-widget-switchinput": "*",
+    "kartik-v/yii2-widget-fileinput": "*",
+    "fedemotta/yii2-cronjob": "*",
+    "borales/yii2-phone-input": "*",
+    "ext-curl": "*",
+    "ext-simplexml": "*",
+    "ext-zlib": "*",
+    "ext-zip": "*",
+    "ext-dom": "*",
+    "yidas/yii2-jquery": "^3.0",
+    "2amigos/yii2-tinymce-widget": "~1.1",
+    "2amigos/yii2-file-upload-widget": "~1.0",
+    "firebase/php-jwt": "^5.0",
+    "nullref/yii2-datatables": "^1.1",
+    "ext-calendar": "*",
+    "yiisoft/yii2-httpclient": "^2.0",
+    "consik/yii2-websocket": "^1.0",
+    "mpdf/mpdf": "^8.0",
+    "kreait/firebase-php": "^4.39",
+    "cornernote/yii2-linkall": "*",
+    "kartik-v/yii2-widget-select2": "@dev",
+    "edofre/yii2-fullcalendar": "V1.0.11",
+    "kartik-v/yii2-widget-datetimepicker": "dev-master",
+    "ext-fileinfo": "*",
+    "tecnick.com/tcpdf": "^6.3"
+  },
+  "require-dev": {
+    "yiisoft/yii2-debug": "~2.0.0",
+    "yiisoft/yii2-gii": "~2.0.0",
+    "yiisoft/yii2-faker": "~2.0.0",
+    "codeception/base": "^2.4.0",
+    "phpunit/phpunit": "~6.5.5",
+    "codeception/verify": "~1.0.0",
+    "yiithings/yii2-dotenv": "*"
+  },
+  "autoload": {
+    "files": [
+      "common/helpers.php"
+    ]
+  },
+  "config": {
+    "process-timeout": 1800,
+    "fxp-asset": {
+      "enabled": false
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+web_id,navn,username,tittel,id_avdelinger,role,inaktiv_status,urlstandardbilde
+3001423,Arild Berentzen,arild@aursnespartners.no,Daglig leder / Partner,3000081,director,-1,/img/user/aursnes-alesundArild-Berentzen.jpg
+3001424,Marianne Stenseth,marianne@aursnespartners.no,Eiendomsmegler MNEF / Partner,3000081,broker,-1,/img/user/aursnes-alesundMarianne-Stenseth.jpg
+3001656,Vegard Lianes,vegard@aursnespartners.no,Eiendomsmeglerfullmektig MNEF,3000081,broker,-1,/img/user/aursnes-alesundVegard-Lianes.jpg
+3000598,Elisabeth Bakke,elisabeth@bs-partners.no,Daglig leder / Eiendomsmegler,3000028,director,-1,/img/user/bakke-sorvikElisabeth-S-Bakke.jpg
+3000597,Jeanette Sørvik,jeanette@bs-partners.no,Eiendomsmegler,3000028,broker,-1,/img/user/bakke-sorvikJeanette-Sørvik.jpg
+3000600,Preben Rakfjord,preben@bs-partners.no,Eiendomsmeglerfullmektig,3000028,broker,-1,/img/user/bakke-sorvikPreben-Rakfjord.jpg
+3001392,Jens Roland Pettersen,Jens@bs-partners.no,Eiendomsmegler,3000028,broker,-1,/img/user/bakke-sorvikJens-Roland-Pettersen.jpg
+3001422,Rikke Steneby,rikke@bs-partners.no,Eiendomsmeglerfullmektig,3000028,broker,-1,/img/user/bakke-sorvikRikke-Steneby.jpg
+3000599,Henrik A Berg,henrik@bs-partners.no,Eiendomsmegler/oppgjørsansvarlig,3000028,broker,-1,/img/user/bakke-sorvikHenrik-Aleksander-Berg.jpg
+3001327,Kaja Tveiten,Kaja@bs-partners.no,Fag ansvarlig / Eiendomsmegler,3000028,broker,-1,/img/user/bakke-sorvikKaja-Tveiten.jpg
+3000808,Caroline Wivestad Grøtt,caroline@bs-partners.no,Eiendomsmeglerfullmektig,3000028,broker,-1,/img/user/bakke-sorvikCaroline-Wivestad-Grøtt.jpg
+3001515,Jonas Nikolai Grimsøen,jonas@gpartners.no,Eiendomsmegler,3000090,director,-1,/img/user/grimsoenJonasG.jpg
+3001514,Jonas Bergtun,bergtun@gpartners.no,Eiendomsmegler / Partner,3000090,broker,-1,/img/user/grimsoenJonasB.jpg
+3001674,Heine Kristoffer Aas,heine@gpartners.no,Eiendomsmegler / Partner,3000090,broker,-1,/img/user/grimsoenHeine.jpg
+3001513,Hilde Due Rismark,hilde@gpartners.no,Eiendomsmegler,3000090,broker,-1,/img/user/grimsoenHilde.jpg
+3001654,Joakim Furulund,joakim@gpartners.no,Meglerkoordinator,3000090,broker,-1,/img/user/grimsoenJoakim.jpg
+3000830,Inger Johanne Mauland Frivold,inger@huuspartners.no,Eiendomsmegler MNEF,3000051,broker,-1,/img/user/huusInger-Johanne.jpg
+3000827,Eirik Huus,eirik@huuspartners.no,Megler MNEF / Siv. Økonom,3000051,director,-1,/img/user/huusEirik.jpg
+3000824,Anne Grethe Nygaard Huus,anne.grethe@huuspartners.no,Eiendomsmegler MNEF,3000051,broker,-1,/img/user/huusAnne-Grethe.jpg.jpg
+3000833,Karianne Mauland,karianne@huuspartners.no,Oppgjør / Regnskap / Controller,3000051,broker,-1,/img/user/huusKarianne.jpg
+3000336,Knut Leinæs,knut@leinaes.no,"Advokat, Megler, Partner",3000014,broker,-1,/img/user/leinaesKnut-Leinæs.jpg
+3000880,Kristin Sundling,kristin@leinaes.no,Daglig leder / Eiendomsmegler / Partner,3000014,director,-1,/img/user/leinaesKristin-Sundling.jpg
+3000337,Marius Strøm Grønn,marius@leinaes.no,Eiendomsmegler / Fagansvarlig,3000014,broker,-1,/img/user/leinaesMarius-Grønn.jpg
+3000435,Cecilie Moe,cecilie@leinaes.no,Eiendomsmegler / Partner,3000014,broker,-1,/img/user/leinaesCecilie-Moe.jpg
+3000340,Wenke Hvaal,wenke@leinaes.no,Medhjelper Oppgjør,3000014,broker,-1,/img/user/leinaesWenke-Hvaal.jpg
+3001628,Martin Larsen Sundet,martin@leinaes.no,Eiendomsmeglerfullmektig,3000014,broker,-1,/img/user/leinaesMartin-Sundet.jpg
+3000989,Camilla Bjaaland,camilla@leinaes.no,Eiendomsmeglerfullmektig,3000014,broker,-1,/img/user/leinaesCamilla-Bjaaland.jpg
+3000774,Glenn J. Olsen,glenn@arendalpartners.no,Daglig leder,3000047,director,-1,/img/user/meglerhuset-arendalGlenn-Olsen.jpg
+3000768,Anita Nordvik,anita@arendalpartners.no,Eiendomsmegler MNEF,3000047,broker,-1,/img/user/meglerhuset-arendalAnita-Nordvik.jpg
+3000778,Jan Terje Øygarden,jan.terje@arendalpartners.no,Fagansvarlig / Eeiendomsmegler MNEF,3000047,broker,-1,/img/user/meglerhuset-arendalJan-Terje-Øygarden.jpg
+3001651,Linn Coucheron Berli,linn@arendalpartners.no,Eiendomsmegler MNEF,3000047,broker,-1,/img/user/meglerhuset-arendalLinn-Berli.jpg
+3000782,Phong Thanh Tran,phong@arendalpartners.no,Eiendomsmegler MNEF,3000047,broker,-1,/img/user/meglerhuset-arendalPhong-Thanh-Tran.jpg
+3000786,Thomas Noddeland,thomas@arendalpartners.no,Eiendomsmegler,3000047,broker,-1,/img/user/meglerhuset-arendalThomas-Noddeland.jpg
+3000790,Tonje Remen,tonje@arendalpartners.no,Medhjelper,3000047,broker,-1,/img/user/meglerhuset-arendalTonje-Remen.jpg
+3000236,Nina Widerøe,nw@partners.no,Eiendomsmegler MNEF,11,broker,-1,/img/user/meglerhuset-drammenNina.jpg
+3000327,Øystein Liverud,ol@partners.no,Eiendomsmegler,11,director,-1,/img/user/meglerhuset-drammenØystein.jpg
+3000314,Anders Ødenes,ao@partners.no,Eiendomsmegler,11,broker,-1,/img/user/meglerhuset-drammenAnders.jpg
+3000312,Sarah Wennes,sw@partners.no,Backoffice / Eiendomsmegler,11,broker,-1,/img/user/meglerhuset-drammenSarah.jpg
+3000684,Simen Eknes Slotsvig,slotsvig@partners.no,Eiendomsmeglerfullmektig,11,broker,-1,/img/user/meglerhuset-drammenSimen.jpg
+3001231,Emilie Fredriksen,ef@partners.no,Eiendomsmeglerfullmektig,11,broker,-1,/img/user/meglerhuset-drammenEmilie.jpg
+3001484,Juliane Jacobsen,jj@partners.no,Eiendomsmeglerfullmektig,11,broker,-1,/img/user/meglerhuset-drammenJuliane.jpg
+3000637,Torben Olden,torben@oldenpartners.no,Daglig leder,3000109,director,-1,/img/user/oldenTorben-Olden.jpg
+101,Bjørn Tore Strømmen,bts@oldenpartners.no,Eiendomsmegler,3000109,broker,-1,/img/user/oldenBjørn-Tore.jpg
+3000823,May Helen Hestnes Arntsen,mayhelen@oldenpartners.no,Eiendomsmeglerfullmektig,3000109,broker,-1,/img/user/oldenMay-Helen.jpg
+102,Elisabeth Sandvik,elisabeth@oldenpartners.no,Eiendomsmeglerfullmektig,3000109,broker,-1,/img/user/oldenElisabeth.jpg
+3000955,Ida Sommerfeldt Hjelmtvedt,ida@partnerseiendomsmegling.no,Eiendomsmegler MNEF,3000060,broker,-1,/img/user/gjovikIda.jpg
+3000956,Jan Tore Ringen,jantore@partnerseiendomsmegling.no,Eiendomsmegler MNEF,3000060,broker,-1,/img/user/gjovikJan-Tore.jpg
+3000958,Caroline Svensrud,caroline@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,3000061,broker,-1,/img/user/gjovikCaroline.jpg
+3000959,Trine Grini,trine@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,3000061,broker,-1,/img/user/gjovikTrine.jpg
+3001290,Marianne Bergseng,marianne@partnerseiendomsmegling.no,Medhjelper,3000061,broker,-1,/img/user/gjovikMarianne.jpg
+3000224,Runa Skumlien,runa@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,6,broker,-1,/img/user/gjovikRuna.jpg
+3000181,Silje F. Aandalen,silje@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,6,broker,-1,/img/user/gjovikSiljeF.jpg
+3001486,Kristian Løkken,kristian@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,6,broker,-1,/img/user/gjovikKristian.jpg
+3000320,Ole Kristian F. Taralrud,taralrud@partnerseiendomsmegling.no,Eiendomsmegler MNEF ,6,broker,-1,/img/user/gjovikOle-Kristian.jpg
+3001667,Gunnar Putten,gunnar@partnerseiendomsmegling.no,Eiendomsmegler MNEF ,6,broker,-1,/img/user/gjovikGunnar.jpg
+3000184,Silje A. Enger,sa@partnerseiendomsmegling.no,Eiendomsmegler MNEF / Partner,6,broker,-1,/img/user/gjovikSiljeA.jpg
+3000183,Mette Aa. Sivesind,mette@partnerseiendomsmegling.no,Eiendomsmegler MNEF,6,broker,-1,/img/user/gjovikMette.jpg
+3001326,Sara Hichour,sara@partnerseiendomsmegling.no,Eiendomsmeglerfullmektig,6,broker,-1,/img/user/gjovikSara-Hichour.jpg
+3000175,Ida Helene B. Balke,balke@lohnekrokeide.no,Faglig leder / Advokat,6,broker,-1,/img/user/gjovikIda-Helene.jpg
+3000174,Jøran Martinsen,joran.martinsen@gobb.no,Daglig leder,6,director,-1,/img/user/gjovikJøran.jpg
+3000564,Espen Garli,garli@aursnespartners.no,"Daglig leder, Partner, Eiendomsmegler MNEF",21,director,-1,/img/user/aursnes-sykkylvenEspen-Garli.jpg.jpg
+3000581,Lars Hellevik,hellevik@aursnespartners.no,Eiendomsmegler MNEF,21,broker,-1,/img/user/aursnes-sykkylvenLars-Hellevik.jpg.jpg

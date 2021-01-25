@@ -1,0 +1,639 @@
+{
+  "verdivurdering": {
+    "label": "VERDIVURDERING",
+    "rout": "/verdivurdering",
+    "type" : "verdivurdering",
+    "degree" : "hot",
+    "startStatuses": {
+      "0":"ufordelt",
+      "1": "Ufordelt_proccess"
+    },
+    "sms" : {
+      "client" : "Takk for henvendelse i forbindelse med verdivurdering. Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners.",
+      "broker": "Hei {{broker}}. Kunden har bedt om verdivurdering. {{link}}"
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "message": {
+        "label": "Kommentar",
+        "type": "textarea",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+  
+  "pristilbud": {
+    "label": "PRISTILBUD",
+    "rout": "/pristilbud",
+    "type" : "pristilbud",
+    "degree" : "hot",
+    "startStatuses": {
+      "0":"ufordelt",
+      "1": "Ufordelt_proccess"
+    },
+    "sms" : {
+      "client": "Takk for henvendelse i forbindelse med pristilbud. Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners.",
+      "broker": "Hei {{broker}}. Kunden har bedt om pristilbud. {{link}}"
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "message": {
+        "label": "Kommentar",
+        "type": "textarea",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "kontakt": {
+    "label": "KONTAKT OSS",
+    "rout": "/kontakt",
+    "type" : "kontakt",
+    "degree" : "hot",
+    "startStatuses": {
+      "0":"ufordelt",
+      "1": "Ufordelt_proccess"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners.",
+      "broker": "Hei {{broker}}. Kunden ønsker kontakt direkte med deg og har registrert seg på hjemmesiden. {{link}}"
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "message": {
+        "label": "Kommentar",
+        "type": "textarea",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "kontakt_department": {
+    "label": "KONTAKT MEG",
+    "rout": "/jobb#kontakt-meg",
+    "type" : "kontakt_broker",
+    "degree" : "hot",
+    "startStatuses": {
+      "0":"ufordelt",
+      "1": "Ufordelt_proccess"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "message": {
+        "label": "Kommentar",
+        "type": "textarea",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "kontakt_broker": {
+    "label": "KONTAKT MEG",
+    "rout": "/ansatte/",
+    "type" : "kontakt_broker",
+    "degree" : "hot",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "message": {
+        "label": "Kommentar",
+        "type": "textarea",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "salgssum_venter": {
+    "label": "BE OM SALGSSUM",
+    "rout": "/annonse/{{id}}#salgssum_venter",
+    "type" : "salgssum_venter",
+    "degree" : "cold",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "boligvarsling": {
+    "label": "BOLIGVARSLING",
+    "rout": "/boligvarsling",
+    "type" : "boligvarsling",
+    "degree" : "cold",
+    "startStatuses": {
+      "0":"ufordelt"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "salgsoppgave": {
+    "label": "SALGSOPPGAVE",
+    "rout": "/annonse/{ID}#salgsoppgave",
+    "type" : "salgsoppgave",
+    "degree" : "cold",
+    "to_webmegler": "1",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "send_sms": {
+        "label": "Jeg ønsker budvarsel på SMS",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "advice_to_email": {
+        "label": "Jeg skal selge bolig og vil bli kontaktet på telefon eller e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "budvarsel": {
+    "label": "SALGSOPPGAVE",
+    "rout": "/annonse/{ID}#budvarsel",
+    "type" : "budvarsel",
+    "degree" : "cold",
+    "to_webmegler": "1",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "send_sms": {
+        "label": "Jeg ønsker budvarsel på SMS",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "is_comercial": {
+        "label": "Jeg ønsker å motta salgsoppgave",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "advice_to_email": {
+        "label": "Jeg skal selge bolig og vil bli kontaktet på telefon eller e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+
+  },
+
+  "visningliste": {
+    "label": "VISNINGSLISTE",
+    "rout": "/visningliste/{ID}",
+    "type" : "visningliste",
+    "degree" : "cold",
+    "to_webmegler": "1",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": "",
+      "broker":""
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "send_sms": {
+        "label": "Jeg ønsker budvarsel på SMS",
+        "type": "checkbox",
+        "required": "0",
+        "checked": "checked"
+      },
+      "is_visited": {
+        "label": "Jeg har deltatt på visning",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "is_comercial": {
+        "label": "Jeg ønsker å motta salgsoppgave",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "advice_to_email": {
+        "label": "Jeg skal selge bolig og vil bli kontaktet på telefon eller e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1",
+        "checked": "checked"
+      }
+    }
+  },
+
+  "solgt": {
+    "label": "VISNINGSLISTE",
+    "rout": "/visningliste/{ID}",
+    "type" : "salgssum_landing",
+    "degree" : "cold",
+    "to_webmegler": "0",
+    "startStatuses": {
+      "0":"delegert"
+    },
+    "sms" : {
+      "client": "Vi kontakter deg så fort som mulig. Mvh {{broker}}, Schala & Partners."
+    },
+    "email": {
+      "clien": {
+        "subject": "",
+        "message": ""
+      },
+      "broker":{
+        "subject": "",
+        "message": ""
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Navn",
+        "type": "text",
+        "required": "1"
+      },
+      "post_number": {
+        "label": "Postnummer",
+        "type": "text",
+        "required": "1"
+      },
+      "phone": {
+        "label": "Telefon",
+        "type": "text",
+        "required": "1"
+      },
+      "email": {
+        "label": "Epost",
+        "type": "email",
+        "required": "0"
+      },
+      "subscribe_email": {
+        "label": "Jeg ønsker å motta eiendomsrelatert informasjon (nyhetsbrev o.l.) på e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "advice_to_email": {
+        "label": "Jeg skal selge bolig og vil bli kontaktet på telefon eller e-post",
+        "type": "checkbox",
+        "required": "0"
+      },
+      "i_agree": {
+        "label": "Jeg har lest og godkjent vilkårene",
+        "type": "checkbox",
+        "required": "1"
+      }
+    }
+  }
+
+}

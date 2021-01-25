@@ -1,0 +1,7 @@
+Microsoft Windows [Version 10.0.17134.706]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+E:\xampp7\htdocs\partners>'y' is not recognized as an internal or external command,
+operable program or batch file.
+
+E:\xampp7\htdocs\partners>

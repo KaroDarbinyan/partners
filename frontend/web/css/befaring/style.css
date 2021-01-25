@@ -1,0 +1,259 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/befaring-assets/pdf/fonts/Montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'AGaramondPro';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/befaring-assets/pdf/fonts/AGaramondPro/AGaramondPro-Regular.ttf');
+}
+
+.main-wrapper {
+    position: relative;
+    background-image: url(/img/befaring/bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container-wrapper {
+    display: flex;
+    flex-direction: row;
+    /*overflow: hidden;*/
+}
+
+.active * {
+    transition: 0.3s;
+    stroke: #a88d75;
+}
+
+
+button[type=button].navbar-toggle {
+    background: black;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    display: block;
+    transition: all 0.5s ease;
+    z-index: 100000;
+    padding: 4px !important;
+    margin: 0 !important;
+}
+
+
+button[type=button].navbar-toggle span.icon-bar {
+    background: white;
+    width: 15px !important;
+    height: 2px !important;
+}
+
+.nav-bar-toggle {
+    background: red !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 96px !important;
+}
+
+.nav-bar-toggle span:nth-child(1) {
+    transform: rotate(45deg) translate(4px, 5px);
+}
+
+.nav-bar-toggle span:nth-child(2) {
+    opacity: 0;
+}
+
+.nav-bar-toggle span:nth-child(3) {
+    transform: rotate(-45deg) translate(4px, -4px);
+}
+
+/*navbar*/
+.nav-bar {
+    position: fixed;
+    z-index: 9999;
+    box-sizing: border-box;
+    width: 120px;
+    height: 100%;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    align-content: center;
+    min-width: unset;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    transition: all 0.5s ease;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.nav-bar-open {
+    left: 0 !important;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5) !important;
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5) !important;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5) !important;
+}
+
+.nav-bar::-webkit-scrollbar {
+    display: none;
+}
+
+.nav-bar-logo {
+    padding: 1.8em !important;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.nav-bar-logo img {
+    cursor: pointer;
+    display: block;
+    min-width: unset;
+}
+
+.nav-bar-content {
+    padding: 2em 0;
+}
+
+.nav-bar_item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    color: #faf5f5;
+    text-align: center;
+    margin-bottom: 2.5em;
+    cursor: pointer;
+    font-size: .6rem !important;
+}
+
+.nav-bar-content ul li:last-child {
+    min-height: 170px;
+    /*position: relative;*/
+    /*top: 30px;*/
+}
+
+.nav-bar_item:last-child svg {
+    margin-left: 1em;
+}
+
+.nav-bar_item p {
+    font-size: .6rem !important;
+    margin-top: 8px !important;
+    width: 50%;
+}
+
+.nav-bar .nav-bar_footer {
+    width: 100%;
+    min-width: 220px;
+    font-size: 1em;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    margin-top: 7rem;
+    display: flex;
+}
+
+.nav-bar .nav-bar_footer .property-name {
+    width: 100%;
+    color: #9e846e;
+    font-size: 1em;
+    margin-top: 15px;
+}
+
+.nav-bar .nav-bar_footer .pdf {
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform-origin: center center;
+    -moz-transform-origin: center center;
+    -ms-transform-origin: center center;
+    -o-transform-origin: center center;
+    transform-origin: center center;
+    padding-left: .7em;
+    cursor: pointer;
+}
+
+.nav-bar .nav-bar_footer .pdf span {
+    font-size: .6rem !important;
+    margin-left: 8px;
+}
+
+/*navbar*/
+
+/*content-wrapper*/
+.content-wrapper {
+    width: 100%;
+    margin-left: 120px;
+    padding: 0 2%;
+    /*background-color: rgba(140, 37, 37, 0.5);*/
+    /*height: calc(100vh - 0px);*/
+}
+
+/*content-wrapper*/
+
+
+/*tabs*/
+.about-tabs {
+    margin: 2% 0;
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.about-tabs_item {
+    text-align: center;
+    line-height: 22px;
+    border-bottom: 1px solid #6e6c6c;
+    cursor: pointer;
+    transition: 0.1s;
+    padding: 10px 20px 0 20px;
+}
+
+.about-tabs_item a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white !important;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    outline: none !important;
+    border: 0 !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+.about-tabs_item:hover {
+    border-bottom: 3px solid #ab917b;
+}
+
+.about-tabs_item:hover a {
+    color: #ab917b;
+    background-color: transparent !important;
+}
+
+.tab-active, .about-tabs_item.active {
+    border-bottom: 3px solid #ab917b;
+}
+
+.tab-active a {
+    color: #ab917b;
+    font-weight: 500;
+}
+
+/*tabs*/
+
+/*map*/
+
+#map .gmnoprint.gm-style-cc,
+#map div.gm-style-cc,
+#map a div img,
+#map .gm-svpc {
+    display: none !important;
+}
+
+/*map*/

@@ -1,0 +1,44 @@
+version: '3.2'
+
+services:
+
+  frontend:
+    build: frontend
+    ports:
+      - "${FRONTEND_HOST_HTTP_PORT}:80"
+    volumes:
+      # Re-use local composer cache via host-volume
+      - ~/.composer-docker/cache:/root/.composer/cache:delegated
+      # Mount source-code for development
+      - ./:/app
+
+  backend:
+    build: backend
+    ports:
+      - "${BACKEND_HOST_HTTP_PORT}:80"
+    volumes:
+      # Re-use local composer cache via host-volume
+      - ~/.composer-docker/cache:/root/.composer/cache:delegated
+      # Mount source-code for development
+      - ./:/app
+
+  mysql:
+    image: mysql:5.7
+    command: --innodb_strict_mode=0 --innodb_log_file_size=512M
+    volumes:
+      - ~/.mysql-docker/var/lib/mysql:/var/lib/mysql
+      - ./vagrant/mysql.cnf:/etc/mysql/conf.d/custom.cnf
+    environment:
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+    ports:
+      - "${MYSQL_PORT}:3306"
+
+  #pgsql:
+  #  image: postgres:9.5
+  #  environment:
+  #    - POSTGRES_DB=yii2advanced
+  #    - POSTGRES_USER=yii2advanced
+  #    - POSTGRES_PASSWORD=secret

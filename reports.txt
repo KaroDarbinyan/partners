@@ -1,0 +1,35 @@
+b4d630d - eindomm list item styles reworked
+39403ad - docs teble extended
+30be605 - docs
+aff4e47 - befarringsmappe and detail fix
+72b336b - detailer
+c283f6f - oppdrag
+b285c3f - lead
+661069f - leads
+917fbc9 - working
+ffccad6 - empty email fix
+3aa6f18 - migrate down fix
+cdce744 - users
+2f7ce11 - huge data insertion
+6171c73 - pull
+b282dcb - insertions
+39087d8 - tables
+61ac57e - new table
+6c17c2a - tables and migrations
+e5f7e35 - Api helper, table migration for Departments
+f5af388 - lead last status
+9b9ddd4 - logforing leads
+04280cb - working on logforing
+f51c5eb - pull merge
+04e4a32 - before pull
+ebefc4d - logforing
+f6a15fa - leads delegations
+288787a - list fix of logs
+69777e7 - working on leads
+595cfce - bug
+ff6bb49 - fix
+3f7bd76 - free text and details additional fields
+69cf57e - compleaton of
+ebf7fa8 - update nothing
+f956e35 - readme
+98dc502 - base db tables

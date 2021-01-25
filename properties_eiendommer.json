@@ -1,0 +1,1139 @@
+{
+	"eneiendom": [
+		{
+			"id": "3016899",
+			"databasenummer": "343",
+			"id_avdelinger": "3000008",
+			"id_firma": "3000008",
+			"oppdragsnummer": "19190105",
+			"arkivert": "0",
+			"trukket": "0",
+			"type_oppdrag": "01.Salg eiendom",
+			"type_eiendomstyper": "Leilighet",
+			"type_eierformbygninger": "Borettslag",
+			"type_eierformtomt": "Eiet tomt",
+			"type_energimerke": "Oppvarmingskarakter Rød - Energikarakter G",
+			"styringskoder": [
+				{
+					"styringskode": [
+						{
+							"id": "631",
+							"navn": "Salg",
+							"mappenavn": "Oppdragstype"
+						},
+						{
+							"id": "636",
+							"navn": "Bolig/Annet",
+							"mappenavn": "Oppdragstype"
+						}
+					]
+				}
+			],
+			"statusdato": "22.04.2019 20:00",
+			"finn_eiendomstype": "Leilighet",
+			"finn_oppdragstype": "EIENDOM-SALG",
+			"finn_eierformbygninger": "BBL",
+			"finn_eierformtomt": "TOMT.EIET",
+			"finn_orderno": "1919010501",
+			"tinde_oppdragstype": "Til salgs",
+			"tinde_eiendomstype": "Leilighet",
+			"tinde_eierformbygninger": "Borettslag",
+			"tinde_eierformtomt": "Eiet",
+			"energimerke_bokstav": "G",
+			"energimerke_farge": "RED",
+			"befaringsdato": "03.04.2019",
+			"befaringutfort": "-1",
+			"prisvurderingsdato": "",
+			"prisvurderingutfort": "0",
+			"solgt": "-1",
+			"oppdragsdato": "10.04.2019",
+			"utlopsdato": "10.10.2019",
+			"klientkonto": [
+				{
+					"kontonummer": "14501373967",
+					"kid": [
+						{
+							"id": "1",
+							"type": "INNBETALING_FRA_SELGER",
+							"kode": "1919010513604"
+						},
+						{
+							"id": "2",
+							"type": "INNBETALING_FRA_KJOPER",
+							"kode": "1919010523603"
+						},
+						{
+							"id": "3",
+							"type": "TILBAKEFORING_FRA_MEGLERS_DRIFTSKONTO",
+							"kode": "1919010533602"
+						},
+						{
+							"id": "5",
+							"type": "TILBAKEFORING_OMKOSTNING_SELGER",
+							"kode": "1919010553600"
+						},
+						{
+							"id": "6",
+							"type": "TILBAKEFORING_OMKOSTNING_KJOPER",
+							"kode": "1919010563609"
+						},
+						{
+							"id": "7",
+							"type": "TILBAKEFORING_DELTPROVISJON",
+							"kode": "1919010573608"
+						}
+					]
+				}
+			],
+			"markedsforingsdato": "22.04.2019 20:00",
+			"markedsforingversjon": "2",
+			"endretdato": "12.05.2019 21:05",
+			"markedsforingsklart": "-1",
+			"visisokemotor": "-1",
+			"vispaafinn": "-1",
+			"urlnettversjon": "https://secure.webmegler.no/cgi-win/wnviseiendom.exe?/k343/i3015360/c1/j1009",
+			"httplinkoppdrag": "http://www.partners.no/19190105",
+			"urlprospektbestilling": "https://www.partners.no/salgsoppgave/19190105",
+			"urlinteressentregistrering": "https://external.webmegler.no/interested/interest/?id_konsern=343&id_oppdrag=3015360",
+			"urlpersonvernerklaring": "https://partners.no/personvern/",
+			"autoprospekt_harferdigsalgsoppgave": "-1",
+			"urlelektroniskbudgivning": "https://tryggbudgivning.no/343/3015360/gahpqehrni",
+			"kundenummer_finn": "schalasagene",
+			"finn_importstatisticsurl": "http://www.finn.no/finn/import/statistics?partner=schalasagene&orderno=1919010501",
+			"avdeling_id": "3000008",
+			"avdeling_juridisknavn": "Schala & Partners Avd Sagene AS",
+			"avdeling_organisasjonsnummer": "914983401",
+			"avdeling_navn": "Schala & Partners avd Sagene",
+			"avdeling_fagansvarlig_id": "3000123",
+			"avdeling_fagansvarlig_navn": "Anette Borvik",
+			"avdeling_fagansvarlig_tittel": "Fagansvarlig og Eiendomsmegler",
+			"avdeling_fagansvarlig_inaktiv": "0",
+			"avdeling_fagansvarlig_email": "ab@schalapartners.no",
+			"avdeling_fagansvarlig_mobiltelefon": "47 45 17 99",
+			"avdeling_fagansvarlig_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3385761/pwhpjtjgxwi/v1",
+			"avdeling_avdelingsleder_id": "3000130",
+			"avdeling_avdelingsleder_navn": "Bård Tisthamar",
+			"avdeling_avdelingsleder_tittel": "Daglig leder / Partner / Eiendomsmegler MNEF",
+			"avdeling_avdelingsleder_inaktiv": "-1",
+			"avdeling_avdelingsleder_email": "bt@schalapartners.no",
+			"avdeling_avdelingsleder_mobiltelefon": "90 02 93 57",
+			"logo_url_b": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygb.jpg",
+			"logo_url_c": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygc.jpg",
+			"logo_url_d": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygd.jpg",
+			"avdeling_besoksadresse": "Maridalsveien 160",
+			"avdeling_postadresse": "Maridalsveien 160",
+			"avdeling_postnummer": "0461",
+			"avdeling_poststed": "Oslo",
+			"avdeling_telefon": "21 67 66 65",
+			"avdeling_telefax": "21 67 66 64",
+			"avdeling_email": "vt@schalapartners.no",
+			"avdeling_urlhjemmeside": "http://www.schalapartners.no",
+			"urlhtmlpresentasjon_konsern": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3364991/pcefrgstxkt/v1",
+			"ansatte1_id": "3000131",
+			"ansatte1_navn": "Carl Uthus",
+			"ansatte1_tittel": "Eiendomsmegler",
+			"ansatte1_inaktiv": "0",
+			"ansatte1_statusioppdrag": "Ansvarlig megler",
+			"ansatte1_email": "cu@schalapartners.no",
+			"ansatte1_mobiltelefon": "92 30 59 23",
+			"ansatte1_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3359618/pcsacqpbfqp/v1",
+			"ansatte1_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhkc.jpg\" border=\"0\">",
+			"ansatte1_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhkc.jpg",
+			"ansatte1_standardbildefil": "3159459_1c.jpg",
+			"ansatte1_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhka.jpg\" border=\"0\">",
+			"ansatte1_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhka.jpg",
+			"ansatte1_originalbildefil": "3159459_1a.jpg",
+			"ansatteansvarligmegler_id": "3000131",
+			"ansatteansvarligmegler_navn": "Carl Uthus",
+			"ansatteansvarligmegler_tittel": "Eiendomsmegler",
+			"ansatteansvarligmegler_inaktiv": "0",
+			"ansatteansvarligmegler_statusioppdrag": "Ansvarlig megler",
+			"ansatteansvarligmegler_email": "cu@schalapartners.no",
+			"ansatteansvarligmegler_mobiltelefon": "92 30 59 23",
+			"ansatteansvarligmegler_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3359618/pcsacqpbfqp/v1",
+			"ansatteansvarligmegler_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhkc.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhkc.jpg",
+			"ansatteansvarligmegler_standardbildefil": "3159459_1c.jpg",
+			"ansatteansvarligmegler_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhka.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\1\\3159459_1-lgrhka.jpg",
+			"ansatteansvarligmegler_originalbildefil": "3159459_1a.jpg",
+			"gaardsnummer": "225",
+			"bruksnummer": "293",
+			"andelsbrevnummer": "4",
+			"fylkesnummer": "3",
+			"fylkesnavn": "Oslo",
+			"kommuneomraade": "Sagene-Torshov",
+			"kommunenummer": "0301",
+			"kommunenavn": "Oslo",
+			"overskrift": "Stilren & klassisk 2(3) roms med svært lave felleskostnader I Effektiv planløsning med flere muligheter I Ingen forkjøp",
+			"postnummer": "0476",
+			"poststed": "Oslo",
+			"adresse": "Torshovgata 6 B",
+			"etasje": "4",
+			"byggeaar": "1898",
+			"fastpris": "0",
+			"prisantydning": "3700000",
+			"prissamletsum": "3741885",
+			"flertype_internett": "Vis på Finn, Vis selgers email",
+			"fellesutgifter": "1160",
+			"type_periode-fellesutgifter": "Mnd",
+			"leieperkvm": "0",
+			"kommentarleie": "inkludert er betjening av andel gjeld, kabel-TV med bredbåndsmulighet fra GET, vaktmestertjeneste, trappevask, kommunale avgifter, felles gårdsforsikring, forretningsførsel, drift og vedlikehold.",
+			"takstmann": "Anticimex AS",
+			"leieinntekterperkvm": "0",
+			"prom": "56",
+			"bruksareal": "56",
+			"bruttoareal": "61",
+			"forsikringsselskap": "Gjensidige forsikring ASA",
+			"polisenummer": "76438174",
+			"borettslag": "Torshovgata 6 Borettslag (Reg=2008.01.29 av MOM)",
+			"borettslag_organisasjonsnummer": "951024082",
+			"forretningsforer": "Brækhus Dege Eiendom AS",
+			"forretningsforer_adresse": "Postboks 1369 Vika",
+			"forretningsforer_postnummer": "0114",
+			"forretningsforer_poststed": "OSLO",
+			"forretningsforer_telefon": "23 23 90 90",
+			"eierskiftegebyr": "5750",
+			"andelfellesgjeld": "41885",
+			"totalgjeld": "678467",
+			"andelfellesgjeldpr": "31.12.2018",
+			"forkjopsrett": "Nei",
+			"intern_ansiennitet": "0",
+			"oppholdsrom": "1",
+			"soverom": "1",
+			"bad": "1",
+			"antallrom": "2",
+			"totalkostnadsomtekst": "3 700 000,- (Prisantydning)\r\n41 885,- (Andel av fellesgjeld)\r\n--------------------------------------------------------\r\n3 741 885,- (Pris inkl. fellesgjeld)\r\n\r\nOmkostninger\r\n199,- (Panteattest kjøper)\r\n430,- (Tingl.gebyr BRL-skjøte - Statens Kartverk)\r\n430,- (Tingl.gebyr pantedokument BRL - Statens Kartverk)\r\n6 850,- (Boligkjøperforsikring Legal24 (valgfritt))\r\n--------------------------------------------------------\r\n7 909,- (Omkostninger totalt)\r\n--------------------------------------------------------\r\n3 749 794,- (Totalpris inkl. omkostninger)\r\n\r\nNB: Regnestykket forutsetter at det kun tinglyses ett pantedokument og at eiendommen selges til prisantydning.",
+			"totalkostnadsomtall": "3749794",
+			"totalomkostningsomtall": "7909",
+			"totalomkostningsomprosent": ".213756756756757",
+			"totalomkostninger": [
+				{
+					"Panteattest kjøper": "199",
+					"Tingl.gebyr BRL-skjøte - Statens Kartverk": "430",
+					"Tingl.gebyr pantedokument BRL - Statens Kartverk": "430",
+					"Boligkjøperforsikring Legal24 (valgfritt)": "6850"
+				}
+			],
+			"selgere": [
+				{
+					"hovedkontakter": [
+						{
+							"kontakt": [
+								{
+									"id": "3115836",
+									"fornavn": "Ingrid Olsvik",
+									"etternavn": "Fjukstad",
+									"adresse": "Torshovgata 6 b",
+									"postnummer": "0476",
+									"poststed": "Oslo",
+									"mobiltelefon": "92242634",
+									"email": "ingridfjukstad@mac.com",
+									"personnummer": "15029029439",
+									"fodselsdato": ""
+								},
+								{
+									"id": "3115842",
+									"fornavn": "Morten",
+									"etternavn": "Aamodt",
+									"adresse": "Torshov gata 6 B",
+									"mobiltelefon": "93 61 02 29",
+									"email": "mort_aa@hotmail.com",
+									"personnummer": "281090-36996",
+									"fodselsdato": "28.10.1990"
+								}
+							]
+						}
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"kjopere": [
+				{
+					"hovedkontakter": [
+						[]
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"matchekriterier": [
+				[]
+			],
+			"finnmatchekriterier": [
+				{
+					"matchekriterie": [
+						{
+							"id_typer": "231",
+							"navn": "peis",
+							"iadnavn": "fireplace"
+						},
+						{
+							"id_typer": "232",
+							"navn": "parkett",
+							"iadnavn": "parquett"
+						},
+						{
+							"id_typer": "235",
+							"navn": "barnevennlig",
+							"iadnavn": "child-friendly"
+						},
+						{
+							"id_typer": "237",
+							"navn": "kabel-tv",
+							"iadnavn": "cable-tv"
+						},
+						{
+							"id_typer": "241",
+							"navn": "moderne",
+							"iadnavn": "modern"
+						},
+						{
+							"id_typer": "242",
+							"navn": "sentralt",
+							"iadnavn": "central"
+						},
+						{
+							"id_typer": "270",
+							"navn": "Offentlig vann/kloakk",
+							"iadnavn": "public_sewer"
+						},
+						{
+							"id_typer": "283",
+							"navn": "Fellesvaskeri",
+							"iadnavn": "commonwashroom"
+						},
+						{
+							"id_typer": "284",
+							"navn": "Bredbånd tilknytning",
+							"iadnavn": "broadband"
+						}
+					]
+				}
+			],
+			"rtffritekst": "-1",
+			"fritekster": [
+				{
+				}
+			],
+			"visninger": [
+				{
+					
+				}
+			],
+			"bilder": [
+				{
+				}
+			],
+			"dokumenter": [
+				{
+				}
+			],
+			"alledokumenter": [
+				{
+				}
+			],
+			"allelinker": [
+				{
+				}
+			],
+			"lenker": [
+				[]
+			]
+		},
+		{
+			"id": "3016621",
+			"databasenummer": "343",
+			"id_avdelinger": "3000010",
+			"id_firma": "3000009",
+			"oppdragsnummer": "17190090",
+			"arkivert": "0",
+			"trukket": "0",
+			"type_oppdrag": "01.Salg eiendom",
+			"type_eiendomstyper": "Leilighet",
+			"type_eierformbygninger": "Borettslag",
+			"type_eierformtomt": "Fellestomt",
+			"type_energimerke": "Oppvarmingskarakter Rød - Energikarakter G",
+			"styringskoder": [
+				{
+					"styringskode": [
+						{
+							"id": "631",
+							"navn": "Salg",
+							"mappenavn": "Oppdragstype"
+						},
+						{
+							"id": "636",
+							"navn": "Bolig/Annet",
+							"mappenavn": "Oppdragstype"
+						}
+					]
+				}
+			],
+			"statusdato": "30.04.2019 16:54",
+			"finn_eiendomstype": "Leilighet",
+			"finn_oppdragstype": "EIENDOM-SALG",
+			"finn_eierformbygninger": "BBL",
+			"finn_eierformtomt": "TOMT.EIET",
+			"finn_orderno": "1719009001",
+			"tinde_oppdragstype": "Til salgs",
+			"tinde_eiendomstype": "Leilighet",
+			"tinde_eierformbygninger": "Borettslag",
+			"tinde_eierformtomt": "Fellestomt",
+			"energimerke_bokstav": "G",
+			"energimerke_farge": "RED",
+			"befaringsdato": "11.02.2019",
+			"befaringutfort": "0",
+			"prisvurderingsdato": "",
+			"prisvurderingutfort": "0",
+			"solgt": "-1",
+			"oppdragsdato": "30.04.2019",
+			"utlopsdato": "30.10.2019",
+			"klientkonto": [
+				{
+					"kontonummer": "14501383202",
+					"kid": [
+						{
+							"id": "1",
+							"type": "INNBETALING_FRA_SELGER",
+							"kode": "1719009015961"
+						},
+						{
+							"id": "2",
+							"type": "INNBETALING_FRA_KJOPER",
+							"kode": "1719009025960"
+						},
+						{
+							"id": "3",
+							"type": "TILBAKEFORING_FRA_MEGLERS_DRIFTSKONTO",
+							"kode": "1719009035969"
+						},
+						{
+							"id": "5",
+							"type": "TILBAKEFORING_OMKOSTNING_SELGER",
+							"kode": "1719009055967"
+						},
+						{
+							"id": "6",
+							"type": "TILBAKEFORING_OMKOSTNING_KJOPER",
+							"kode": "1719009065966"
+						},
+						{
+							"id": "7",
+							"type": "TILBAKEFORING_DELTPROVISJON",
+							"kode": "1719009075965"
+						}
+					]
+				}
+			],
+			"markedsforingsdato": "12.05.2019 11:01",
+			"markedsforingversjon": "2",
+			"endretdato": "12.05.2019 22:37",
+			"markedsforingsklart": "-1",
+			"visisokemotor": "-1",
+			"vispaafinn": "-1",
+			"urlnettversjon": "https://secure.webmegler.no/cgi-win/wnviseiendom.exe?/k343/i3014596/c1/j1009",
+			"httplinkoppdrag": "http://www.partners.no/17190090",
+			"urlprospektbestilling": "https://www.partners.no/salgsoppgave/17190090",
+			"urlinteressentregistrering": "https://external.webmegler.no/interested/interest/?id_konsern=343&id_oppdrag=3014596",
+			"urlpersonvernerklaring": "https://partners.no/personvern/",
+			"autoprospekt_harferdigsalgsoppgave": "-1",
+			"urlelektroniskbudgivning": "https://tryggbudgivning.no/343/3014596/kaaensenju",
+			"kundenummer_finn": "ihuscarlberner",
+			"finn_importstatisticsurl": "http://www.finn.no/finn/import/statistics?partner=ihuscarlberner&orderno=1719009001",
+			"avdeling_id": "3000010",
+			"avdeling_juridisknavn": "Grünerløkka Eiendomsmegling AS",
+			"avdeling_organisasjonsnummer": "987648287",
+			"avdeling_navn": "Schala & Partners  avd Carl Berner",
+			"avdeling_fagansvarlig_id": "3000279",
+			"avdeling_fagansvarlig_navn": "Steinar Hånes",
+			"avdeling_fagansvarlig_tittel": "Eiendomsmegler MNEF/ Fagansvarlig",
+			"avdeling_fagansvarlig_inaktiv": "0",
+			"avdeling_fagansvarlig_email": "sh@schalapartners.no",
+			"avdeling_fagansvarlig_mobiltelefon": "95 77 10 33",
+			"avdeling_fagansvarlig_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000011\\11\\3155525_1-rzepcc.jpg\" border=\"0\">",
+			"avdeling_fagansvarlig_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000011\\11\\3155525_1-rzepcc.jpg",
+			"avdeling_fagansvarlig_standardbildefil": "3155525_1c.jpg",
+			"avdeling_fagansvarlig_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg\" border=\"0\">",
+			"avdeling_fagansvarlig_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg",
+			"avdeling_fagansvarlig_originalbildefil": "3160797_1a.jpg",
+			"avdeling_avdelingsleder_id": "3000234",
+			"avdeling_avdelingsleder_navn": "Vidar Tangstad",
+			"avdeling_avdelingsleder_tittel": "Partner/Eiendomsmegler",
+			"avdeling_avdelingsleder_inaktiv": "0",
+			"avdeling_avdelingsleder_email": "vt@schalapartners.no",
+			"avdeling_avdelingsleder_mobiltelefon": "45 21 62 22",
+			"avdeling_avdelingsleder_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3155195_1-ptjqcc.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3155195_1-ptjqcc.jpg",
+			"avdeling_avdelingsleder_standardbildefil": "3155195_1c.jpg",
+			"avdeling_avdelingsleder_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg",
+			"avdeling_avdelingsleder_originalbildefil": "3160797_1a.jpg",
+			"logo_url_b": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyb.jpg",
+			"logo_url_c": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyc.jpg",
+			"logo_url_d": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyd.jpg",
+			"avdeling_besoksadresse": "Trondheimsveien 111",
+			"avdeling_postadresse": "Trondheimsveien 111",
+			"avdeling_postnummer": "0565",
+			"avdeling_poststed": "Oslo",
+			"avdeling_telefon": "22 80 99 40",
+			"avdeling_telefax": "22 68 91 90",
+			"avdeling_email": "bt@schalapartners.no",
+			"avdeling_urlhjemmeside": "http://www.schalapartners.no",
+			"urlhtmlpresentasjon_avdeling": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3355406/prcgatmusef/v1",
+			"urlhtmlpresentasjon_konsern": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3364991/pcefrgstxkt/v1",
+			"ansatte1_id": "3000233",
+			"ansatte1_navn": "Truls Martin Nygaard",
+			"ansatte1_tittel": "Eiendomsmeglerfullmektig",
+			"ansatte1_inaktiv": "0",
+			"ansatte1_statusioppdrag": "Fullmektig",
+			"ansatte1_email": "tmn@schalapartners.no",
+			"ansatte1_mobiltelefon": "47 62 91 51",
+			"ansatte1_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3388303/pzjdnxdmssr/v1",
+			"ansatte1_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfjc.jpg\" border=\"0\">",
+			"ansatte1_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfjc.jpg",
+			"ansatte1_standardbildefil": "3160797_1c.jpg",
+			"ansatte1_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg\" border=\"0\">",
+			"ansatte1_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg",
+			"ansatte1_originalbildefil": "3160797_1a.jpg",
+			"ansatteansvarligmegler_id": "3000229",
+			"ansatteansvarligmegler_navn": "Steffen Usterud",
+			"ansatteansvarligmegler_tittel": "Salgssjef / Eiendomsmegler MNEF",
+			"ansatteansvarligmegler_inaktiv": "0",
+			"ansatteansvarligmegler_statusioppdrag": "Ansvarlig megler",
+			"ansatteansvarligmegler_email": "su@schalapartners.no",
+			"ansatteansvarligmegler_mobiltelefon": "92 49 91 43",
+			"ansatteansvarligmegler_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3373950/pekgloyoalp/v1",
+			"ansatteansvarligmegler_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg",
+			"ansatteansvarligmegler_standardbildefil": "3154555_1c.jpg",
+			"ansatteansvarligmegler_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000010\\1\\3160797_1-oavfja.jpg",
+			"ansatteansvarligmegler_originalbildefil": "3160797_1a.jpg",
+			"gaardsnummer": "140",
+			"bruksnummer": "37",
+			"ideellandel": "1/1",
+			"andelsbrevnummer": "630",
+			"fylkesnummer": "3",
+			"fylkesnavn": "Oslo",
+			"kommuneomraade": "Hellerud",
+			"kommunenummer": "0301",
+			"kommunenavn": "Oslo",
+			"overskrift": "Meget pen og gjennomgående 4-roms - Fantastisk utsikt og stor balkong - Nær T-banestopp, Tveita senter og marka",
+			"postnummer": "0669",
+			"poststed": "Oslo",
+			"adresse": "Kristins vei 29",
+			"etasje": "3",
+			"byggeaar": "1965",
+			"fastpris": "0",
+			"prisantydning": "3650000",
+			"prissamletsum": "3776805",
+			"flertype_internett": "Vis på Finn, Vis selgers email",
+			"fellesutgifter": "4003",
+			"type_periode-fellesutgifter": "Mnd",
+			"leieperkvm": "0",
+			"kommentarleie": "Drift og vedlikehold, kabel-TV, brebånd, forretningsfører, vaktmester, renhold, nedbetaling fellesgjeld, forsikring, kommunale avgifter m.m.\r\n\r\nHerav:\r\nFelleskostnader 3.728,-\r\nTrappevask 100,-\r\nBredbånd/kabel-tv 175,-",
+			"ligningsverdi": "857780",
+			"ligningsverdi2": "3088006",
+			"ligningsverdidato": "31.12.2017",
+			"takstdato": "08.05.2019",
+			"takstmann": "Anticimex AS",
+			"leieinntekterperkvm": "0",
+			"tomteareal": "99969",
+			"prom": "72",
+			"bruksareal": "72",
+			"bruttoareal": "79",
+			"forsikringsselskap": "IF skadeforsikring",
+			"polisenummer": "1554251",
+			"borettslag": "Lohøgda Borettslag",
+			"borettslag_organisasjonsnummer": "850429162",
+			"forretningsforer": "OBOS BBL",
+			"forretningsforer_adresse": "Postboks 6666, St. Olavs plass",
+			"forretningsforer_postnummer": "0129",
+			"forretningsforer_poststed": "Oslo",
+			"forretningsforer_telefon": "22 86 55 00",
+			"eierskiftegebyr": "5750",
+			"gebyrforkjopsrett": "7187",
+			"andelfellesgjeld": "126805",
+			"andelfellesformue": "28344",
+			"andelfellesgjeldpr": "30.04.2019",
+			"forkjopsrett": "Ja - forhåndsvarsles og avklares raskt etter salg (ca. 5 virkedager)",
+			"intern_ansiennitet": "0",
+			"oppholdsrom": "1",
+			"soverom": "3",
+			"bad": "1",
+			"ekstratoalett": "1",
+			"antallrom": "4",
+			"visningstekst": "Velkommen til visning!",
+			"totalkostnadsomtekst": "3 650 000,- (Prisantydning)\r\n126 805,- (Andel av fellesgjeld)\r\n--------------------------------------------------------\r\n3 776 805,- (Pris inkl. fellesgjeld)\r\n\r\nOmkostninger\r\n199,- (Panteattest kjøper)\r\n430,- (Tingl.gebyr BRL-skjøte - Statens Kartverk)\r\n430,- (Tingl.gebyr pantedokument BRL - Statens Kartverk)\r\n7 187,- (Gebyr utlysing forkjøpsrett)\r\n6 850,- (Boligkjøperforsikring Legal24 (valgfritt))\r\n--------------------------------------------------------\r\n15 096,- (Omkostninger totalt)\r\n--------------------------------------------------------\r\n3 791 901,- (Totalpris inkl. omkostninger)\r\n\r\nNB: Regnestykket forutsetter at det kun tinglyses ett pantedokument og at eiendommen selges til prisantydning.",
+			"totalkostnadsomtall": "3791901",
+			"totalomkostningsomtall": "15096",
+			"totalomkostningsomprosent": ".41358904109589",
+			"totalomkostninger": [
+				{
+					"Panteattest kjøper": "199",
+					"Tingl.gebyr BRL-skjøte - Statens Kartverk": "430",
+					"Tingl.gebyr pantedokument BRL - Statens Kartverk": "430",
+					"Gebyr utlysing forkjøpsrett": "7187",
+					"Boligkjøperforsikring Legal24 (valgfritt)": "6850"
+				}
+			],
+			"selgere": [
+				{
+					"hovedkontakter": [
+						{
+							"kontakt": [
+								{
+									"id": "3112764",
+									"fornavn": "Mathias Valdes",
+									"etternavn": "Kristensen",
+									"adresse": "Kristins vei 29",
+									"postnummer": "0669",
+									"poststed": "Oslo",
+									"mobiltelefon": "45221662",
+									"email": "mtk89@msn.com",
+									"personnummer": "131089-35167",
+									"fodselsdato": ""
+								},
+								{
+									"id": "3112913",
+									"fornavn": "Jennifer",
+									"etternavn": "Kristensen",
+									"mobiltelefon": "46443115",
+									"email": "jenymsv@hotmail.com",
+									"personnummer": "020791-27844",
+									"fodselsdato": "02.07.1991"
+								}
+							]
+						}
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"kjopere": [
+				{
+					"hovedkontakter": [
+						[]
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"matchekriterier": [
+				[]
+			],
+			"finnmatchekriterier": [
+				{
+					"matchekriterie": [
+						{
+							"id_typer": "230",
+							"navn": "balkong",
+							"iadnavn": "balcony"
+						},
+						{
+							"id_typer": "232",
+							"navn": "parkett",
+							"iadnavn": "parquett"
+						},
+						{
+							"id_typer": "235",
+							"navn": "barnevennlig",
+							"iadnavn": "child-friendly"
+						},
+						{
+							"id_typer": "236",
+							"navn": "rolig",
+							"iadnavn": "quiet-area"
+						},
+						{
+							"id_typer": "237",
+							"navn": "kabel-tv",
+							"iadnavn": "cable-tv"
+						},
+						{
+							"id_typer": "251",
+							"navn": "turterreng",
+							"iadnavn": "hiking"
+						},
+						{
+							"id_typer": "270",
+							"navn": "Offentlig vann/kloakk",
+							"iadnavn": "public_sewer"
+						},
+						{
+							"id_typer": "273",
+							"navn": "Utsikt",
+							"iadnavn": "view"
+						},
+						{
+							"id_typer": "274",
+							"navn": "Vaktmester-/vektertjeneste",
+							"iadnavn": "janitorservice"
+						},
+						{
+							"id_typer": "283",
+							"navn": "Fellesvaskeri",
+							"iadnavn": "commonwashroom"
+						},
+						{
+							"id_typer": "284",
+							"navn": "Bredbånd tilknytning",
+							"iadnavn": "broadband"
+						}
+					]
+				}
+			],
+			"rtffritekst": "-1",
+			"fritekster": [
+				{
+									}
+			],
+			"visninger": [
+				{
+									}
+			],
+			"bilder": [
+				{
+									}
+			],
+			"dokumenter": [
+				{
+					
+				}
+			],
+			"alledokumenter": [
+				{
+									}
+			],
+			"allelinker": [
+				{
+									}
+			],
+			"lenker": [
+				[]
+			]
+		},
+		{
+			"id": "3014818",
+			"databasenummer": "343",
+			"id_avdelinger": "3000010",
+			"id_firma": "3000009",
+			"oppdragsnummer": "17190045",
+			"arkivert": "0",
+			"trukket": "0",
+			"type_oppdrag": "01.Salg eiendom",
+			"type_eiendomstyper": "Leilighet",
+			"type_eierformbygninger": "Borettslag",
+			"type_eierformtomt": "Fellestomt",
+			"type_energimerke": "Oppvarmingskarakter Grønn - Energikarakter F",
+			"styringskoder": [
+				{
+					"styringskode": [
+						{
+							"id": "631",
+							"navn": "Salg",
+							"mappenavn": "Oppdragstype"
+						},
+						{
+							"id": "636",
+							"navn": "Bolig/Annet",
+							"mappenavn": "Oppdragstype"
+						}
+					]
+				}
+			],
+			"statusdato": "02.04.2019 16:14",
+			"finn_eiendomstype": "Leilighet",
+			"finn_oppdragstype": "EIENDOM-SALG",
+			"finn_eierformbygninger": "BBL",
+			"finn_eierformtomt": "TOMT.EIET",
+			"finn_orderno": "1719004501",
+			"tinde_oppdragstype": "Til salgs",
+			"tinde_eiendomstype": "Leilighet",
+			"tinde_eierformbygninger": "Borettslag",
+			"tinde_eierformtomt": "Fellestomt",
+			"energimerke_bokstav": "F",
+			"energimerke_farge": "DARK_GREEN",
+			"befaringsdato": "26.02.2019",
+			"befaringutfort": "-1",
+			"prisvurderingsdato": "",
+			"prisvurderingutfort": "0",
+			"solgt": "-1",
+			"akseptdato": "02.04.2019",
+			"akseptdatob": "02.04.2019",
+			"salgssum": "3200000",
+			"overtagelse": "30.04.2019",
+			"kontraktsmoteinklklokkeslett": "08.04.2019 10:30",
+			"kontraktsmote": "08.04.2019",
+			"oppgjordobbeltsignaturdato": "",
+			"bokfortprovisjon": "51792",
+			"oppdragsdato": "01.03.2019",
+			"utlopsdato": "01.09.2019",
+			"oppgjortdato": "08.05.2019 12:58",
+			"oppgjorsansvarlig_id": "3000012",
+			"oppgjorsansvarlig_navn": "Cathrine Haavelsrud",
+			"oppgjorsansvarlig_tittel": "Oppgjørsansvarlig/Eiendomsmegler MNEF",
+			"oppgjorsansvarlig_inaktiv": "0",
+			"oppgjorsansvarlig_statusioppdrag": "Eiendomsmegler",
+			"oppgjorsansvarlig_email": "cathrine@trygtoppgjor.no",
+			"oppgjorsansvarlig_mobiltelefon": "99 36 28 10",
+			"oppgjorsansvarlig_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3407055/plawagjtwkf/v1",
+			"oppgjorsansvarlig_avdelingnavn": "Trygt Oppgjør AS",
+			"oppgjorsansvarlig_id_avdeling": "3000004",
+			"oppgjorsansvarlig_juridisknavn": "Trygt Oppgjør AS",
+			"oppgjorsansvarlig_id_firma": "3000005",
+			"oppgjorsansvarlig_organisasjonsnummer": "914990483",
+			"klientkonto": [
+				{
+					"kontonummer": "14501383202",
+					"kid": [
+						{
+							"id": "1",
+							"type": "INNBETALING_FRA_SELGER",
+							"kode": "1719004518183"
+						},
+						{
+							"id": "2",
+							"type": "INNBETALING_FRA_KJOPER",
+							"kode": "1719004528182"
+						},
+						{
+							"id": "3",
+							"type": "TILBAKEFORING_FRA_MEGLERS_DRIFTSKONTO",
+							"kode": "1719004538181"
+						},
+						{
+							"id": "5",
+							"type": "TILBAKEFORING_OMKOSTNING_SELGER",
+							"kode": "1719004558189"
+						},
+						{
+							"id": "6",
+							"type": "TILBAKEFORING_OMKOSTNING_KJOPER",
+							"kode": "1719004568188"
+						},
+						{
+							"id": "7",
+							"type": "TILBAKEFORING_DELTPROVISJON",
+							"kode": "1719004578187"
+						}
+					]
+				}
+			],
+			"markedsforingsdato": "30.03.2019 11:17",
+			"markedsforingstildato": "12.04.2019 11:01",
+			"markedsforingversjon": "2",
+			"endretdato": "13.05.2019 09:10",
+			"urlnettversjon": "https://secure.webmegler.no/cgi-win/wnviseiendom.exe?/k343/i3014818/c1/j1009",
+			"httplinkoppdrag": "http://www.partners.no/17190045",
+			"urlprospektbestilling": "https://www.partners.no/salgsoppgave/17190045",
+			"urlinteressentregistrering": "https://external.webmegler.no/interested/interest/?id_konsern=343&id_oppdrag=3014818",
+			"urlpersonvernerklaring": "https://partners.no/personvern/",
+			"autoprospekt_harferdigsalgsoppgave": "-1",
+			"urlelektroniskbudgivning": "https://tryggbudgivning.no/343/3014818/zkkmktdpjx",
+			"kundenummer_finn": "ihuscarlberner",
+			"finn_importstatisticsurl": "http://www.finn.no/finn/import/statistics?partner=ihuscarlberner&orderno=1719004501",
+			"avdeling_id": "3000010",
+			"avdeling_juridisknavn": "Grünerløkka Eiendomsmegling AS",
+			"avdeling_organisasjonsnummer": "987648287",
+			"avdeling_navn": "Schala & Partners  avd Carl Berner",
+			"avdeling_fagansvarlig_id": "3000279",
+			"avdeling_fagansvarlig_navn": "Steinar Hånes",
+			"avdeling_fagansvarlig_tittel": "Eiendomsmegler MNEF/ Fagansvarlig",
+			"avdeling_fagansvarlig_inaktiv": "0",
+			"avdeling_fagansvarlig_email": "sh@schalapartners.no",
+			"avdeling_fagansvarlig_mobiltelefon": "95 77 10 33",
+			"avdeling_fagansvarlig_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000011\\11\\3155525_1-rzepcc.jpg\" border=\"0\">",
+			"avdeling_fagansvarlig_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000011\\11\\3155525_1-rzepcc.jpg",
+			"avdeling_fagansvarlig_standardbildefil": "3155525_1c.jpg",
+			"avdeling_fagansvarlig_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg\" border=\"0\">",
+			"avdeling_fagansvarlig_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg",
+			"avdeling_fagansvarlig_originalbildefil": "3154555_1a.jpg",
+			"avdeling_avdelingsleder_id": "3000234",
+			"avdeling_avdelingsleder_navn": "Vidar Tangstad",
+			"avdeling_avdelingsleder_tittel": "Partner/Eiendomsmegler",
+			"avdeling_avdelingsleder_inaktiv": "0",
+			"avdeling_avdelingsleder_email": "vt@schalapartners.no",
+			"avdeling_avdelingsleder_mobiltelefon": "45 21 62 22",
+			"avdeling_avdelingsleder_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3155195_1-ptjqcc.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3155195_1-ptjqcc.jpg",
+			"avdeling_avdelingsleder_standardbildefil": "3155195_1c.jpg",
+			"avdeling_avdelingsleder_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg",
+			"avdeling_avdelingsleder_originalbildefil": "3154555_1a.jpg",
+			"logo_url_b": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyb.jpg",
+			"logo_url_c": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyc.jpg",
+			"logo_url_d": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151982_1-uhibyd.jpg",
+			"avdeling_besoksadresse": "Trondheimsveien 111",
+			"avdeling_postadresse": "Trondheimsveien 111",
+			"avdeling_postnummer": "0565",
+			"avdeling_poststed": "Oslo",
+			"avdeling_telefon": "22 80 99 40",
+			"avdeling_telefax": "22 68 91 90",
+			"avdeling_email": "bt@schalapartners.no",
+			"avdeling_urlhjemmeside": "http://www.schalapartners.no",
+			"urlhtmlpresentasjon_avdeling": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3355406/prcgatmusef/v1",
+			"urlhtmlpresentasjon_konsern": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3364991/pcefrgstxkt/v1",
+			"ansatte1_id": "3000229",
+			"ansatte1_navn": "Steffen Usterud",
+			"ansatte1_tittel": "Salgssjef / Eiendomsmegler MNEF",
+			"ansatte1_inaktiv": "0",
+			"ansatte1_statusioppdrag": "Ansvarlig megler",
+			"ansatte1_email": "su@schalapartners.no",
+			"ansatte1_mobiltelefon": "92 49 91 43",
+			"ansatte1_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3373950/pekgloyoalp/v1",
+			"ansatte1_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg\" border=\"0\">",
+			"ansatte1_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg",
+			"ansatte1_standardbildefil": "3154555_1c.jpg",
+			"ansatte1_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg\" border=\"0\">",
+			"ansatte1_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg",
+			"ansatte1_originalbildefil": "3154555_1a.jpg",
+			"ansatteansvarligmegler_id": "3000229",
+			"ansatteansvarligmegler_navn": "Steffen Usterud",
+			"ansatteansvarligmegler_tittel": "Salgssjef / Eiendomsmegler MNEF",
+			"ansatteansvarligmegler_inaktiv": "0",
+			"ansatteansvarligmegler_statusioppdrag": "Ansvarlig megler",
+			"ansatteansvarligmegler_email": "su@schalapartners.no",
+			"ansatteansvarligmegler_mobiltelefon": "92 49 91 43",
+			"ansatteansvarligmegler_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3373950/pekgloyoalp/v1",
+			"ansatteansvarligmegler_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxc.jpg",
+			"ansatteansvarligmegler_standardbildefil": "3154555_1c.jpg",
+			"ansatteansvarligmegler_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000010\\11\\3154555_1-rfyzxa.jpg",
+			"ansatteansvarligmegler_originalbildefil": "3154555_1a.jpg",
+			"gaardsnummer": "226",
+			"bruksnummer": "64",
+			"seksjonsnummer": "1",
+			"ideellandel": "1/1",
+			"andelsbrevnummer": "10",
+			"fylkesnummer": "3",
+			"fylkesnavn": "Oslo",
+			"kommuneomraade": "Grunerløkka-Sofienberg",
+			"kommunenummer": "0301",
+			"kommunenavn": "Oslo",
+			"overskrift": "VISNING AVLYST - Bud gitt direkte til selger. Lys og flott 2(3)-roms med sentral beliggenhet | Gjennomgående |",
+			"postnummer": "0565",
+			"poststed": "Oslo",
+			"adresse": "Trondheimsveien 111A",
+			"etasje": "2",
+			"byggeaar": "1933",
+			"fastpris": "0",
+			"prisantydning": "2900000",
+			"prissamletsum": "3051974",
+			"flertype_internett": "Vis på Finn, Vis selgers email",
+			"fellesutgifter": "4347",
+			"type_periode-fellesutgifter": "Mnd",
+			"leieperkvm": "0",
+			"kommentarleie": "Inkluderer drift og vedlikehold, fyring, trappevask, kabel-tv og internett fra GET, forretningsførsel, felles forsikringer, nedbetaling av andel gjeld, kommunale avgifter m.m.",
+			"ligningsverdi": "980977",
+			"ligningsverdi2": "3531518",
+			"ligningsverdidato": "31.12.2017",
+			"takstdato": "22.03.2019",
+			"takstmann": "Anticimex AS",
+			"leieinntekterperkvm": "0",
+			"tomteareal": "1296",
+			"prom": "54",
+			"bruksareal": "54",
+			"bruttoareal": "60",
+			"forsikringsselskap": "IF Skadeforsikring",
+			"polisenummer": "687835",
+			"borettslag": "Trondheimsveien 111 Borettslag (Reg=2014.06.24 av kaho)",
+			"borettslag_organisasjonsnummer": "955235886",
+			"forretningsforer": "OBOS Eiendomsforvaltning AS",
+			"forretningsforer_adresse": "PB. 6668 St. Olavs Plass",
+			"forretningsforer_postnummer": "0129",
+			"forretningsforer_poststed": "Oslo",
+			"forretningsforer_telefon": "22 86 55 00",
+			"eierskiftegebyr": "5750",
+			"andelfellesgjeld": "151974",
+			"totalgjeld": "6647347",
+			"andelfellesformue": "42868",
+			"andelfellesgjeldpr": "31.12.2018",
+			"forkjopsrett": "Ingen forkjøp.",
+			"intern_ansiennitet": "0",
+			"oppholdsrom": "1",
+			"soverom": "1",
+			"bad": "1",
+			"antallrom": "2",
+			"visningstekst": "Velkommen til visning!",
+			"totalkostnadsomtekst": "2 900 000,- (Prisantydning)\r\n151 974,- (Andel av fellesgjeld)\r\n--------------------------------------------------------\r\n3 051 974,- (Pris inkl. fellesgjeld)\r\n\r\nOmkostninger\r\n199,- (Panteattest kjøper)\r\n430,- (Tingl.gebyr BRL-skjøte - Statens Kartverk)\r\n430,- (Tingl.gebyr pantedokument BRL - Statens Kartverk)\r\n6 850,- (Boligkjøperforsikring Legal24 (valgfritt))\r\n--------------------------------------------------------\r\n7 909,- (Omkostninger totalt)\r\n--------------------------------------------------------\r\n3 059 883,- (Totalpris inkl. omkostninger)\r\n\r\nNB: Regnestykket forutsetter at det kun tinglyses ett pantedokument og at eiendommen selges til prisantydning.",
+			"totalkostnadsomtall": "3059883",
+			"totalomkostningsomtall": "7909",
+			"totalomkostningsomprosent": ".272724137931035",
+			"totalomkostninger": [
+				{
+					"Panteattest kjøper": "199",
+					"Tingl.gebyr BRL-skjøte - Statens Kartverk": "430",
+					"Tingl.gebyr pantedokument BRL - Statens Kartverk": "430",
+					"Boligkjøperforsikring Legal24 (valgfritt)": "6850"
+				}
+			],
+			"selgere": [
+				{
+					"hovedkontakter": [
+						{
+							"kontakt": [
+								{
+									"id": "3113620",
+									"fornavn": "Jørgen Sande",
+									"etternavn": "Lysa",
+									"adresse": "Olaf Schous vei 25",
+									"postnummer": "0572",
+									"poststed": "Oslo",
+									"mobiltelefon": "99502631",
+									"email": "jorgen.s.lysa@gmail.com",
+									"personnummer": "29058432960",
+									"fodselsdato": ""
+								}
+							]
+						}
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"kjopere": [
+				{
+					"hovedkontakter": [
+						{
+							"kontakt": [
+								{
+									"id": "3114499",
+									"fornavn": "Julie",
+									"etternavn": "Fredheim Maudal",
+									"adresse": "Ole Reistads veg 13E, 2067 Jessheim",
+									"postnummer": "2067",
+									"poststed": "Jessheim",
+									"mobiltelefon": "94498060",
+									"email": "julief.m@hotmail.com",
+									"personnummer": "300798-44027",
+									"fodselsdato": "30.07.1998"
+								}
+							]
+						}
+					],
+					"eiere": [
+						{
+							"kontakt": [
+								{
+									"id": "3116338",
+									"fornavn": "Kjell Ivar",
+									"etternavn": "Maudal",
+									"personnummer": "060171-33320",
+									"fodselsdato": "06.01.1971"
+								}
+							]
+						}
+					]
+				}
+			],
+			"matchekriterier": [
+				[]
+			],
+			"finnmatchekriterier": [
+				{
+					"matchekriterie": [
+						{
+							"id_typer": "232",
+							"navn": "parkett",
+							"iadnavn": "parquett"
+						},
+						{
+							"id_typer": "235",
+							"navn": "barnevennlig",
+							"iadnavn": "child-friendly"
+						},
+						{
+							"id_typer": "237",
+							"navn": "kabel-tv",
+							"iadnavn": "cable-tv"
+						},
+						{
+							"id_typer": "242",
+							"navn": "sentralt",
+							"iadnavn": "central"
+						},
+						{
+							"id_typer": "251",
+							"navn": "turterreng",
+							"iadnavn": "hiking"
+						},
+						{
+							"id_typer": "270",
+							"navn": "Offentlig vann/kloakk",
+							"iadnavn": "public_sewer"
+						},
+						{
+							"id_typer": "274",
+							"navn": "Vaktmester-/vektertjeneste",
+							"iadnavn": "janitorservice"
+						},
+						{
+							"id_typer": "283",
+							"navn": "Fellesvaskeri",
+							"iadnavn": "commonwashroom"
+						},
+						{
+							"id_typer": "284",
+							"navn": "Bredbånd tilknytning",
+							"iadnavn": "broadband"
+						}
+					]
+				}
+			],
+			"rtffritekst": "-1",
+			"fritekster": [
+				{
+									}
+			],
+			"visninger": [
+				{
+					"visning": [
+						{
+							"nr": "1",
+							"id": "3390613",
+							"fra": "20.10.2019 17:00",
+							"til": "20.10.2019 18:00",
+							"kommentar": ""
+						},
+						{
+							"nr": "66",
+							"id": "11111",
+							"fra": "20.10.2019 17:00",
+							"til": "20.10.2019 18:00",
+							"kommentar": ""
+						}
+					]
+				}
+			],
+			"bilder": [
+				{
+									}
+			],
+			"dokumenter": [
+				{
+					
+				}
+			],
+			"alledokumenter": [
+				{
+									}
+			],
+			"allelinker": [
+				{
+									}
+			],
+			"lenker": [
+				[]
+			]
+		}
+	]
+}

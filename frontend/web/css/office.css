@@ -1,0 +1,96 @@
+.office {
+    background-color: #1b1b1a;
+    padding: 2%;
+    margin:3% auto;
+}
+.office .broker-container {
+    margin-top: 10rem;
+}
+.buttons {
+    display: flex;
+}
+.header h1 > strong  {
+    text-transform: none;
+}
+.header h1, .header strong {
+    text-transform: uppercase;
+    color: #fff;
+    font: 600 50px 'Oswald', sans-serif;
+    line-height: 130%;
+    margin: 0 0 15px;
+}
+.header * {
+    font: 400 20px Montserrat;
+}
+.header p {
+    margin-top: 30px;
+    word-wrap: break-word;
+    letter-spacing: 2px;
+}
+.buttons button, .buttons h4 {
+    margin-right: 10px;
+}
+
+.office-header > div {
+}
+.office-header {
+    background: #3b3b3b;
+    box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.16);
+    border-radius: 15px;
+    padding: 20px 25px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.office-info {
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.office-info > div {
+    word-wrap: break-word;
+    font: 400 20px 'Montserrat';
+    flex: 1;
+    margin-right: 1%;
+    padding: 5%;
+    background: #3b3b3b;
+    box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+
+}
+
+@media only screen and (max-width: 725px) {
+    .office-header , .buttons{
+        display: block;
+        margin-top: 10px;
+    }
+
+    .office {
+        height: unset;
+        /*text-align: center;*/
+    }
+    .buttons button, .buttons h4 {
+        margin-right: 0;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 999px) {
+    .office-info {
+        display: block;
+    }
+
+    .office-info > div {
+        margin-bottom: 1rem;
+    }
+
+    .office .broker-container {
+        margin-top: 2rem;
+    }
+
+    .listing {
+        margin-top: 2rem !important;
+    }
+}

@@ -1,0 +1,6 @@
+
+.icon-city:before { content: '\e800'; } /* '' */
+.icon-area:before { content: '\e805'; } /* '' */
+.icon-broker:before { content: '\e806'; } /* '' */
+.icon-street:before { content: '\e807'; } /* '' */
+.icon-postNumber:before { content: '\e808'; } /* '' */

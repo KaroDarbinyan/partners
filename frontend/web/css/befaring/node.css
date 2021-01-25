@@ -1,0 +1,63 @@
+.notater{
+  text-align: left;
+  width: 80%;
+  font-family: "Montserrat", sans-serif;
+  border-radius: 10px;
+  padding: 2rem;
+  margin: 2rem auto;
+  color: #666;
+  background: white;
+  position: relative;
+}
+
+.notater .notater-header {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  align-items: flex-end;
+}
+
+.notater .notater-header .pencil {
+  margin-right: 1rem;
+}
+
+.notater input, .notater textarea {
+  background: #fff;
+  border: none;
+  color: #666;
+  width: 100%;
+}
+
+.notater .btn.btn-notate {
+  background-color: #d85362;
+  padding: .5rem .7rem;
+  text-transform: initial;
+  font-weight: normal;
+  font-size: .83rem;
+  border-radius: .5rem;
+  float: right;
+}
+
+.notater .form-control {
+  color: #fff;
+  font-size: 21px;
+}
+.notater-header{
+  display: flex;
+  margin: 0 10px; 
+}
+.notater-content{
+  margin: 2%;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.notater-btn {
+  /*position: relative;*/
+  float: right;
+  background-color: #D85362;
+  border-radius: 7px;
+  color: #fff;
+  font-size: 10px;
+  text-align: center;
+  padding: 1%;
+}

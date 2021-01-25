@@ -1,0 +1,161 @@
+/*min*/
+@media (min-width: 426px) {
+
+
+    .fc-toolbar.fc-header-toolbar {
+        margin-bottom: 0 !important;
+    }
+
+    .fc-left {
+        float: left !important;
+    }
+
+    .fc-right {
+        float: right !important;
+    }
+
+    .fc-left, .fc-right, .fc-center {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 768px) {
+    button[type=button].navbar-toggle {
+        display: none;
+    }
+
+    .markedspakke .row.mb-3 {
+        /*min-height: 100px;*/
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .markedspakke .row.mb-3 {
+        display: flex;
+        align-items: center;
+    }
+
+    .markedspakke .row.mb-3 {
+        /*min-height: 265px;*/
+    }
+
+    .markedspakke img {
+        padding: 5px;
+    }
+
+    .markedspakke .card-text {
+        padding: 0 5px;
+    }
+
+    .col_1, .col_2, .col_3 {
+        padding: 8px 4px !important;
+    }
+
+    #nabolagsprofil table td.col_icons, #nabolagsprofil table tr.col_icons {
+        font-size: x-small !important;
+        padding: 8px 2px !important;
+    }
+
+    .accordion-item {
+        min-height: 260px;
+    }
+}
+
+@media (min-width: 2560px) {
+
+    .markedspakke .row.mb-3 {
+        /*min-height: 387px !important;*/
+    }
+}
+
+/*min*/
+
+
+/*max*/
+
+
+@media (max-width: 376px) {
+    .col_1, .col_2, .col_3 {
+        font-size: xx-small !important;
+        padding: 8px 4px !important;
+    }
+
+    #nabolagsprofil table td.col_icons, #nabolagsprofil table tr.col_icons {
+        font-size: xx-small !important;
+        padding: 8px 2px !important;
+    }
+}
+
+@media (max-width: 426px) {
+    .col_1, .col_2, .col_3 {
+        font-size: smaller;
+    }
+
+    .markedspakke-header {
+        margin-top: 50px;
+    }
+
+    .fc-unthemed .fc-toolbar .fc-left, .fc-unthemed .fc-toolbar .fc-right, .fc-unthemed .fc-toolbar .fc-center {
+        margin-bottom: 0;
+    }
+
+    .fc-toolbar.fc-header-toolbar {
+        margin-bottom: 2em !important;
+    }
+
+    .fc-toolbar {
+        padding: 0 !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .nav-bar {
+        left: -120px;
+        box-shadow: unset;
+    }
+
+    .content-wrapper {
+        width: 94%;
+        margin: auto;
+    }
+
+    .about-tabs {
+        display: inline;
+    }
+
+    #markedspakke {
+        width: 100%;
+        padding: unset;
+    }
+
+    .markedspakke-subheader {
+        padding: 10px 0;
+    }
+
+    .markedspakke-icons {
+        display: grid;
+    }
+
+    .markedspakke-icons img {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+}
+
+@media (max-width: 769px) {
+    #marker-filter {
+        margin-bottom: 30px;
+    }
+
+    .markedspakke {
+        margin: auto;
+        width: 90%;
+        padding: 6.25em 0 5em 0;
+        text-align: center;
+        font-family: Montserrat, sans-serif;
+    }
+}
+
+/*max*/

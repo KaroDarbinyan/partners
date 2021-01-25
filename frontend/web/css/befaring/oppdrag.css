@@ -1,0 +1,218 @@
+.statistic_item {
+    display: flex;
+    justify-content: space-around
+}
+
+#statistikk-chart path {
+    stroke: #fff !important;
+}
+
+#statistikk-chart tspan {
+    stroke: #156a5e !important;
+}
+
+td, th, p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.statistikk .processing {
+    margin: 10% 0;
+    padding: 10% 0;
+
+}
+
+.statistikk .processing h1 {
+    font-size: 50px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #156a5e;
+    color: #156a5e;
+}
+
+.statistic_item > div {
+    flex: 4;
+    text-align: center;
+    align-items: center;
+}
+
+.digital-marketing {
+    /*margin: 10%;*/
+    padding: 5%;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.digital-marketing > div {
+    padding: 5%;
+    background-color: #156a5e;
+    width: 50%;
+}
+
+.digital-marketing > div > div {
+    display: block;
+    align-items: center;
+    color: #fff;
+}
+
+.digital-marketing > div strong {
+    width: 100%;
+    font-size: 55px;
+}
+
+.digital-marketing > div p, .statistikk .processing p {
+    font-size: 16px;
+}
+
+.neighbours-close {
+    position: absolute;
+    right: -15px;
+    top: 0;
+    cursor: pointer;
+}
+
+thead.neighbours-header {
+    background-color: #343434;
+}
+
+.neighbours-header tr th {
+    padding: 1.5rem !important;
+    border-bottom-width: 0 !important;
+}
+
+.neighbours-header tr th:first-child {
+    border-top-left-radius: 1rem;
+}
+
+.neighbours-header tr th:last-child {
+    border-top-right-radius: 1rem;
+}
+
+.neighbours-main table tbody tr {
+    border-bottom: 1px solid #343434;
+}
+
+.neighbours-main table tbody tr td {
+    border-top-width: 0 !important;
+}
+
+.neighbours-main table tbody tr:last-child {
+    border-bottom-width: 0
+}
+
+.neighbours-header span {
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+
+.neighbours-header img {
+    margin-right: 10px;
+}
+
+.neighbours-main {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.neighbours-main-elem {
+    margin-top: 20px;
+    display: flex;
+    cursor: pointer;
+}
+
+.neighbours-main-elem:hover svg * {
+    stroke: #d85362;
+    transition: 0.3s;
+}
+
+.neighbours-main-elem-text {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.neighbours-main-footer {
+    text-align: center;
+    cursor: pointer;
+}
+
+.oppdrag .tab-content > div {
+    border-radius: 15px;
+    background-color: #262626;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 30px;
+}
+
+
+#pd-info .pd-image {
+    width: 100%;
+    float: left;
+}
+
+#pd-info .pd-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover
+}
+
+
+#pd-info .about-tabs {
+    width: 100% !important;
+}
+
+.pd-fields {
+    margin-top: 30px;
+}
+
+.pd-fields p:first-child {
+    font-size: 15px;
+    margin: 5px 0;
+    width: 100%;
+}
+
+.pd-fields p:last-child {
+    font-size: 20px;
+    width: 100%;
+}
+
+.pd-fields p a, .pd-fields p a:hover {
+    color: #ab917b;
+}
+
+#detaljer, #statistikk, #nabolagsprofil {
+    padding: 2% 3%;
+}
+
+#pd-info #bilder {
+    cursor: pointer;
+}
+
+#nabolagsprofil table .pl-25 {
+    padding-left: 25px;
+}
+
+#nabolagsprofil table td.col_icons,#nabolagsprofil table td.col_1,#nabolagsprofil table td.col_3,#nabolagsprofil table td.col_3{
+    vertical-align: middle;
+}
+
+#nabolagsprofil table td.col_icons, #nabolagsprofil table tr.col_icons{
+    width: 2% !important;
+    font-size: 1em;
+    padding: 8px 0 8px 8px;
+}
+
+#nabolagsprofil table .col_2 {
+    width: 50%;
+}
+
+#nabolagsprofil table .col_3 {
+    width: 24%;
+    text-align: end;
+    padding: 8px !important;
+}
+

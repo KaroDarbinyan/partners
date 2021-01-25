@@ -1,0 +1,193 @@
+/*tab_1*/
+
+.sell {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    text-align: left;
+    padding: 20px 0;
+}
+
+.sell-item {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin: 1% 0 4% 0;
+    font-size: .8rem;
+    line-height: 1.3rem;
+    padding: 30px 50px;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 7px;
+}
+
+.sell-item hr {
+    border-color: #353535;
+    margin-top: 10px !important;
+}
+
+.sell-item_head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sell-item_head h5 {
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #f3f3f3;
+    margin: auto 0;
+}
+
+.sell-item_head > img {
+    max-height: 100%;
+    max-width: 100%;
+    position: absolute;
+    left: 25px;
+    margin-top: -15px;
+}
+
+.sell-item_advantages ul li {
+    text-align: left;
+    color: white;
+}
+
+.sell-item_advantages ul li::before {
+    content: "-";
+    margin-right: 3px;
+}
+
+.address {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.address h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+/*tab_1*/
+
+
+/*tab_2*/
+.accordion {
+    padding: 20px;
+}
+
+.accordion-item {
+    display: flex;
+    margin-top: 50px !important;
+}
+
+.accordion-left span {
+    color: #a08670;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 5px;
+}
+
+.accordion-right {
+    padding: 15px;
+    width: 400px
+}
+
+.accordion-right span {
+    color: white;
+    font-size: 20px;
+}
+
+.accordion-right hr {
+    border-top: 1px solid #a08670 !important;
+    margin-top: 13px;
+}
+
+.accordion-item ul li {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.accordion-item ul li::before {
+    content: "-";
+    margin-right: 3px;
+}
+
+.accordion > li:last-child::before {
+    display: none;
+}
+
+/*tab_2*/
+
+
+/*tab_3*/
+
+.markedspakke {
+    margin: auto;
+    width: 80%;
+    padding: 0 3.75em;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+}
+
+.markedspakke img{
+    padding: 5px 20px;
+}
+
+
+.markedspakke .d-flex {
+    display: flex;
+}
+
+.markedspakke .w-25 {
+    width: 25%;
+}
+
+.markedspakke .w-35 {
+    width: 35%;
+}
+
+.markedspakke .w-50 {
+    width: 50%;
+}
+
+.markedspakke .w-75 {
+    width: 75%;
+}
+
+.markedspakke .w-100 {
+    width: 100%;
+}
+
+.markedspakke .play-video {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 45%;
+}
+
+.markedspakke .card-text{
+    padding: 0 20px;
+}
+
+.markedspakke-header {
+    font-size: 29px;
+    color: #FCFCFC;
+}
+
+.markedspakke-subheader {
+    font-size: 16px;
+    color: #fff;
+    padding: 30px 0;
+}
+
+.pad-40 {
+    padding: 0 40px;
+}
+
+/*tab_3*/

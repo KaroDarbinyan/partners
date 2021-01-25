@@ -1,0 +1,12 @@
+@media print {
+    *, html {
+        color: black;
+        background: white;
+    }
+    .print-hide, #m_aside_left, header, footer {
+        display: none !important;
+    }
+    g tspan {
+        fill: rgb(0, 0, 0);
+    }
+}

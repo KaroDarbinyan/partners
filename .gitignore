@@ -1,0 +1,97 @@
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+# npm vendor dir
+/node_modules
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/api/runtime/
+/backend/runtime/
+/frontend/runtime/
+/.vagrant
+
+# ignore generated files
+oAuth2Token.txt
+oAuth2Token233.txt
+oAuth2Token343.txt
+property_with_invalid_xmls.txt
+/custom_gets
+/frontend/web/index.php
+/frontend/web/index-test.php
+/frontend/web/robots.txt
+/backend/web/index.php
+/backend/web/index-test.php
+/backend/web/robots.txt
+/backend/web/assets/
+/frontend/web/img/news/
+/frontend/web/img/user/
+/frontend/web/img/logo/
+/frontend/web/img/shop/category/*
+/frontend/web/img/shop/product/*
+/frontend/web/img/signaturer/
+users_343.csv
+users.csv
+
+# dev dotenv
+/.env
+
+
+#test Files
+oAuth2Token.txt
+var_dump
+var_dump.json
+webmegler_update_log.log
+
+#request results
+/requests-results/**/*
+!/requests-results/.gitkeep
+/webmegler-data/*
+property_eiendom.json
+
+#logs
+large_file_parts.log
+console/controllers/logs/log.log
+console/controllers/logs/log_acc.log
+sms_error_log.log
+sms_log.log
+delegation_log.log
+webmegler_push.log
+*/**.log
+**.log
+lead-api/**
+/huge-files-storage
+email_debugg.php
+webmegler_update_accounting_log.log
+
+/docker
+sondre-compose.yml
+

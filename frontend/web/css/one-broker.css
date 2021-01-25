@@ -1,0 +1,61 @@
+
+.broker-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+.one-broker {
+    width: 20%;
+    margin: 0 5%  5% 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.one-broker > div {
+    display: block;
+}
+.one-broker label {
+    width: 100%;
+}
+
+.one-broker h3 {
+    font: 800 20px Montserrat;
+}
+
+.one-broker  .vu_body {
+    padding: 0 auto;
+    text-align: left;
+}
+
+
+.one-broker  .vu_name {
+    font: 800 20px Montserrat;
+}
+.one-broker  .vu_img {
+    cursor: pointer;
+    border-radius: 25%;
+}
+
+.one-broker img {
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .one-broker {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .one-broker {
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .one-broker {
+        width: 100%;
+    }
+}

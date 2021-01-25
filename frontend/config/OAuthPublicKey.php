@@ -1,0 +1,12 @@
+<?php
+$publicKey = <<<EOD
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxbShC9Yn40NnVdp1rd3M
+VAOuKIxbXW7OpYglVpdjsWfHuCimc1WcXWveVmxngRXlgYzfHgy8AaUhoEj+mLdP
+rQ6TKF8iqkWUmm0DqtD6d6knzHbEb9rHDRIn3JjjAjkO/2hrA06YKcIE2cfCy5gJ
+PGCQarUeMpmLc40l3Jq6qln0w1Jyh14cK+7Hc+UU/dkVtnqtyXgxoZ9u6BJb06SC
+Tlqf/N5Cn3NvKhc8srGJPTyk/DnqUfIO94WAlRxcz69eVv6/Ko5JR93TbsyGTmHr
+hgvwsw+a4EOv/sqrBozxHZaOV9jX9RoyqNrCu0NklItITSRdITp6GVhy29Rylpqo
+SQIDAQAB
+-----END PUBLIC KEY-----
+EOD;

@@ -1,0 +1,115 @@
+button:disabled, button:disabled:hover {
+    color: rgba(0, 0, 0, .26);
+    background-color: rgba(0, 0, 0, .12);
+    cursor: not-allowed;
+}
+
+.box_breadcrumb:hover .box_img a:before {
+    background-color: rgba(26, 26, 26, 0);
+}
+
+.box_breadcrumb .box_img {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.box_breadcrumb .box_img a:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(26, 26, 26, 0.4);
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.box_breadcrumb .box_text {
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #fff;
+    word-break: break-word;
+    display: flex;
+}
+
+.box_breadcrumb .box_text a {
+    word-break: break-all;
+    color: #fff;
+}
+
+.box_breadcrumb .box_text a:hover {
+    text-decoration: underline;
+}
+
+
+.box_breadcrumb .box_text p {
+    margin-bottom: 0;
+    font-size: 17px;
+    font-family: 'FuturaPT-Light', sans-serif;
+    line-height: 17px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.box_breadcrumb .box_text p:last-child {
+    margin-bottom: 0;
+}
+
+.box_breadcrumb .order {
+    display: block;
+}
+
+.breadcrumb__inner {
+    width: 20%
+}
+
+.breadcrumb__inner.step:after {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    width: 57px;
+    height: 57px;
+    top: 0;
+    -webkit-transform: scale(.707) rotate(45deg);
+    transform: scale(.707) rotate(45deg);
+    box-shadow: 1px -1px rgba(0, 0, 0, .25);
+    z-index: 1;
+    border-top: 4px solid white;
+    border-right: 4px solid white
+}
+
+.navigate-container {
+    height: 50px;
+}
+
+.tjeneste_checkbox_list li label p {
+    font-size: 20px !important;
+}
+
+
+.tjeneste_checkbox_list label:before {
+    right: 0 !important;
+    left: unset;
+}
+
+.tjeneste_checkbox_list label:after {
+    right: 5px !important;
+    left: unset;
+}
+
+.tjeneste_checkbox_list li:hover {
+    color: black;
+    background: white;
+}
+
+
+.confirmation p {
+    width: 100% !important;
+    margin: 0 !important;
+    font-size: 25px !important;
+    font-family: 'FuturaPT-Medium', sans-serif !important;
+    line-height: 30px !important;
+}

@@ -1,0 +1,389 @@
+{
+	"eneiendom": [
+		{
+			"id": "3016688",
+			"databasenummer": "343",
+			"id_avdelinger": "3000007",
+			"id_firma": "3000007",
+			"oppdragsnummer": "",
+			"arkivert": "0",
+			"trukket": "0",
+			"type_oppdrag": "01.Salg eiendom",
+			"type_eiendomstyper": "Leilighet",
+			"type_eierformbygninger": "Borettslag",
+			"type_eierformtomt": "Fellestomt",
+			"type_energimerke": "",
+			"styringskoder": [
+				{
+					"styringskode": [
+						{
+							"id": "631",
+							"navn": "Salg",
+							"mappenavn": "Oppdragstype"
+						},
+						{
+							"id": "636",
+							"navn": "Bolig/Annet",
+							"mappenavn": "Oppdragstype"
+						}
+					]
+				}
+			],
+			"statusdato": "07.07.2019 11:48",
+			"finn_eiendomstype": "Leilighet",
+			"finn_oppdragstype": "EIENDOM-SALG",
+			"finn_eierformbygninger": "BBL",
+			"finn_eierformtomt": "TOMT.EIET",
+			"finn_orderno": "001",
+			"tinde_oppdragstype": "Til salgs",
+			"tinde_eiendomstype": "Leilighet",
+			"tinde_eierformbygninger": "Borettslag",
+			"tinde_eierformtomt": "Fellestomt",
+			"befaringsdato": "08.07.2019",
+			"befaringutfort": "0",
+			"prisvurderingsdato": "",
+			"prisvurderingutfort": "0",
+			"solgt": "0",
+			"oppdragsdato": "",
+			"fornyelsesdato": "",
+			"utlopsdato": "",
+			"oppgjortdato": "",
+			"klientkonto": [
+				{
+					"kontonummer": "14501400956",
+					"kid": [
+						{
+							"id": "1",
+							"type": "INNBETALING_FRA_SELGER",
+							"kode": "016881"
+						},
+						{
+							"id": "2",
+							"type": "INNBETALING_FRA_KJOPER",
+							"kode": "026880"
+						},
+						{
+							"id": "3",
+							"type": "TILBAKEFORING_FRA_MEGLERS_DRIFTSKONTO",
+							"kode": "036889"
+						},
+						{
+							"id": "5",
+							"type": "TILBAKEFORING_OMKOSTNING_SELGER",
+							"kode": "056887"
+						},
+						{
+							"id": "6",
+							"type": "TILBAKEFORING_OMKOSTNING_KJOPER",
+							"kode": "066886"
+						},
+						{
+							"id": "7",
+							"type": "TILBAKEFORING_DELTPROVISJON",
+							"kode": "076885"
+						}
+					]
+				}
+			],
+			"markedsforingsdato": "",
+			"markedsforingstildato": "",
+			"endretdato": "07.07.2019 11:54",
+			"urlnettversjon": "https://secure.webmegler.no/cgi-win/wnviseiendom.exe?/k343/i3016688/c1/j1009",
+			"httplinkoppdrag": "http://www.partners.no/0",
+			"urlprospektbestilling": "https://www.partners.no/salgsoppgave/0",
+			"urlinteressentregistrering": "https://external.webmegler.no/interested/interest/?id_konsern=343&id_oppdrag=3016688",
+			"urlpersonvernerklaring": "https://partners.no/personvern/",
+			"autoprospekt_harferdigsalgsoppgave": "0",
+			"urlelektroniskbudgivning": "https://tryggbudgivning.no/343/3016688/xbhrkukjlp",
+			"kundenummer_finn": "SchalaBG",
+			"finn_importstatisticsurl": "http://www.finn.no/finn/import/statistics?partner=SchalaBG&orderno=001",
+			"avdeling_id": "3000007",
+			"avdeling_juridisknavn": "Schala & Partners avd Bjørvika/Gamle Oslo AS",
+			"avdeling_organisasjonsnummer": "918716254",
+			"avdeling_navn": "Schala & Partners avd Bjørvika/Gamle Oslo",
+			"avdeling_fagansvarlig_id": "3000113",
+			"avdeling_fagansvarlig_navn": "Terje Rindal",
+			"avdeling_fagansvarlig_tittel": "Daglig leder/Fagansvarlig/Partner/Eiendomsmegler",
+			"avdeling_fagansvarlig_inaktiv": "-1",
+			"avdeling_fagansvarlig_email": "tr@schalapartners.no",
+			"avdeling_fagansvarlig_mobiltelefon": "95 19 51 35",
+			"avdeling_fagansvarlig_interntelefon": "",
+			"avdeling_avdelingsleder_id": "3000107",
+			"avdeling_avdelingsleder_navn": "Robin Rodahl",
+			"avdeling_avdelingsleder_tittel": "Daglig leder / Partner / Eiendomsmegler MNEF",
+			"avdeling_avdelingsleder_inaktiv": "0",
+			"avdeling_avdelingsleder_email": "rr@schalapartners.no",
+			"avdeling_avdelingsleder_mobiltelefon": "46 69 26 08",
+			"avdeling_avdelingsleder_interntelefon": "",
+			"avdeling_avdelingsleder_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3384664/pomguifevdh/v1",
+			"avdeling_avdelingsleder_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\11\\3152484_1-uxocpc.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\11\\3152484_1-uxocpc.jpg",
+			"avdeling_avdelingsleder_standardbildefil": "3152484_1c.jpg",
+			"avdeling_avdelingsleder_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg\" border=\"0\">",
+			"avdeling_avdelingsleder_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg",
+			"avdeling_avdelingsleder_originalbildefil": "3158178_1a.jpg",
+			"logo_url_b": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151993_1-lfydfb.jpg",
+			"logo_url_c": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151993_1-lfydfc.jpg",
+			"logo_url_d": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3151993_1-lfydfd.jpg",
+			"avdeling_besoksadresse": "Schweigaards gate 16",
+			"avdeling_postadresse": "PB 4738 Sofienberg",
+			"avdeling_postnummer": "0506",
+			"avdeling_poststed": "Oslo",
+			"avdeling_telefon": "46 69 26 08",
+			"avdeling_telefax": "",
+			"avdeling_email": "",
+			"avdeling_urlhjemmeside": "www.schalapartners.no",
+			"urlhtmlpresentasjon_konsern": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3364991/pcefrgstxkt/v1",
+			"ansatte1_id": "3000338",
+			"ansatte1_navn": "Henrik Jensen",
+			"ansatte1_tittel": "Partner / Eiendomsmegler",
+			"ansatte1_inaktiv": "0",
+			"ansatte1_statusioppdrag": "Ansvarlig megler",
+			"ansatte1_email": "hj@schalapartners.no",
+			"ansatte1_mobiltelefon": "99 69 24 27",
+			"ansatte1_interntelefon": "",
+			"ansatte1_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3385243/pmvvetcexoc/v1",
+			"ansatte1_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujac.jpg\" border=\"0\">",
+			"ansatte1_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujac.jpg",
+			"ansatte1_standardbildefil": "3158178_1c.jpg",
+			"ansatte1_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg\" border=\"0\">",
+			"ansatte1_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg",
+			"ansatte1_originalbildefil": "3158178_1a.jpg",
+			"ansatteansvarligmegler_id": "3000338",
+			"ansatteansvarligmegler_navn": "Henrik Jensen",
+			"ansatteansvarligmegler_tittel": "Partner / Eiendomsmegler",
+			"ansatteansvarligmegler_inaktiv": "0",
+			"ansatteansvarligmegler_statusioppdrag": "Ansvarlig megler",
+			"ansatteansvarligmegler_email": "hj@schalapartners.no",
+			"ansatteansvarligmegler_mobiltelefon": "99 69 24 27",
+			"ansatteansvarligmegler_interntelefon": "",
+			"ansatteansvarligmegler_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3385243/pmvvetcexoc/v1",
+			"ansatteansvarligmegler_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujac.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujac.jpg",
+			"ansatteansvarligmegler_standardbildefil": "3158178_1c.jpg",
+			"ansatteansvarligmegler_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg\" border=\"0\">",
+			"ansatteansvarligmegler_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000007\\12\\3158178_1-mnujaa.jpg",
+			"ansatteansvarligmegler_originalbildefil": "3158178_1a.jpg",
+			"type_funnetgjennom-selger": "",
+			"type_funnetgjennom-kjoper": "",
+			"gaardsnummer": "230",
+			"bruksnummer": "343",
+			"seksjonsnummer": "",
+			"leilighetsnummer": "",
+			"festenummer": "",
+			"festeavgift": "",
+			"festeaar": "",
+			"seksjonsbrok": "",
+			"ideellandel": "1/1",
+			"andelsbrevnummer": "14",
+			"matrikkelkommentar": "",
+			"festekommentar": "",
+			"fylkesnummer": "3",
+			"fylkesnavn": "Oslo",
+			"kommuneomraade": "Gamle Oslo",
+			"kommunenummer": "0301",
+			"kommunenavn": "Oslo",
+			"latitude": "",
+			"longtitude": "",
+			"overskrift": "Befaring Tøyengata 15B",
+			"kortbeskrivelse": "",
+			"postnummer": "0190",
+			"poststed": "Oslo",
+			"adresse": "Tøyengata 15B",
+			"utland": "",
+			"oppgang": "",
+			"etasje": "2",
+			"bruksenhetsnummer": "",
+			"byggeaar": "",
+			"modernisert": "",
+			"fastpris": "0",
+			"prisantydning": "",
+			"prisantydningtil": "",
+			"prissamletsum": "",
+			"flertype_internett": "Vis på Finn, Vis selgers email",
+			"fellesutgifter": "",
+			"fellesutgiftertil": "",
+			"type_periode-fellesutgifter": "",
+			"fellesutgifteretteravdragsfriperiode": "",
+			"leie": "",
+			"type_periode-leie": "",
+			"leieperkvm": "0",
+			"kommentarleie": "",
+			"tekniskverdi": "",
+			"verditakst": "",
+			"laanetakst": "",
+			"ligningsverdi": "",
+			"ligningsverdi2": "",
+			"ligningsverdidato": "",
+			"skattetakst": "",
+			"takstdato": "",
+			"kommentartakst": "",
+			"leieinntekter": "",
+			"type_periode-leieinntekter": "",
+			"leieinntekterperkvm": "0",
+			"kommentarleieinntekter": "",
+			"kommunaleavgifter": "",
+			"type_periode-kommunaleavgifter": "",
+			"kommentarkommunaleavgifter": "",
+			"tomteareal": "",
+			"prom": "",
+			"promtil": "",
+			"promkommentar": "",
+			"boligareal": "",
+			"boligarealtil": "",
+			"bruksareal": "",
+			"bruksarealtil": "",
+			"bruttoareal": "",
+			"bruttoarealtil": "",
+			"grunnflate": "",
+			"forsikringsselskap": "",
+			"forsikringsselskapb": "",
+			"polisenummer": "",
+			"premie": "",
+			"depositum": "",
+			"eierskiftegebyr": "",
+			"transportgebyr": "",
+			"noteringsgebyr": "",
+			"gebyrforkjopsrett": "",
+			"partialrestbelop": "",
+			"andelopprinneligbelop": "",
+			"andelrestbelop": "",
+			"medlemsskap": "",
+			"andelfellesgjeld": "",
+			"andelfellesgjeldtil": "",
+			"totalgjeld": "",
+			"andelfellesformue": "",
+			"totalformue": "",
+			"andelfellesgjeldpr": "",
+			"forkjopsrett": "",
+			"kommentargjeld": "",
+			"oppholdsrom": "",
+			"soverom": "",
+			"soveromtil": "",
+			"bad": "",
+			"ekstratoalett": "",
+			"antallrom": "",
+			"antallsenger": "",
+			"tilgjengeligfra": "",
+			"urlhjemmeside": "",
+			"urlbilder": "",
+			"visningstekst": "",
+			"totalkostnadsomtekst": "Omkostninger\r\n199,- (Panteattest kjøper)\r\n430,- (Tingl.gebyr BRL-skjøte - Statens Kartverk)\r\n430,- (Tingl.gebyr pantedokument BRL - Statens Kartverk)\r\n--------------------------------------------------------\r\n1 059,- (Omkostninger totalt)\r\n--------------------------------------------------------\r\n1 059,- (Totalpris inkl. omkostninger)\r\n\r\nNB: Regnestykket forutsetter at det kun tinglyses ett pantedokument og at eiendommen selges til prisantydning.",
+			"totalkostnadsomtall": "1059",
+			"totalomkostningsomtall": "1059",
+			"totalomkostningsomprosent": "",
+			"totalomkostninger": [
+				{
+					"Panteattest kjøper": "199",
+					"Tingl.gebyr BRL-skjøte - Statens Kartverk": "430",
+					"Tingl.gebyr pantedokument BRL - Statens Kartverk": "430"
+				}
+			],
+			"selgere": [
+				{
+					"hovedkontakter": [
+						{
+							"kontakt": [
+								{
+									"id": "3121897",
+									"fornavn": "Liliana",
+									"etternavn": "Buer",
+									"adresse": "Tøyengata 15 b",
+									"postnummer": "0190",
+									"poststed": "Oslo",
+									"land": "",
+									"telefon": "",
+									"mobiltelefon": "41648634",
+									"email": "lilianabuer@gmail.com",
+									"personnummer": "13028349410",
+									"fodselsdato": ""
+								}
+							]
+						}
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"kjopere": [
+				{
+					"hovedkontakter": [
+						[]
+					],
+					"eiere": [
+						[]
+					]
+				}
+			],
+			"matchekriterier": [
+				[]
+			],
+			"finnmatchekriterier": [
+				[]
+			],
+			"fritekster": [
+				[]
+			],
+			"visninger": [
+				[]
+			],
+			"bilder": [
+				[]
+			],
+			"dokumenter": [
+				[]
+			],
+			"alledokumenter": [
+				{
+					"dokument": [
+						{
+							"nr": "1",
+							"autoprospekt": "0",
+							"id": "3476886",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3476886/pjudsr",
+							"filtype": "pdf",
+							"navn": "Nabolagsprofil",
+							"mappenavn": "Fra Eiendomsprofil.no",
+							"type_dokumentkategorier": "Nabolagsprofil",
+							"nettpublisert": "0",
+							"checksum": "sha1=40-64-32-1B-63-26-7E-A7-5B-E5-0C-A6-C6-3C-85-FF-C8-BE-E8-88"
+						},
+						{
+							"nr": "2",
+							"autoprospekt": "0",
+							"id": "3476887",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3476887/poewwm",
+							"filtype": "xml",
+							"navn": "Nabolagsprofil JSON",
+							"mappenavn": "Fra Eiendomsprofil.no\\json",
+							"type_dokumentkategorier": "Nabolagsprofil",
+							"nettpublisert": "0",
+							"checksum": "sha1=02-74-1E-66-70-CF-15-01-14-72-C0-45-4D-0E-8E-3F-55-F4-28-5D"
+						}
+					]
+				}
+			],
+			"allelinker": [
+				{
+					"lenke": [
+						{
+							"nr": "1",
+							"id": "3015511",
+							"url": "https://profil2.nabolag.no/1858373",
+							"filtype": "",
+							"navn": "Interaktiv Nabolagsprofil",
+							"ikkevisiportal": "-1",
+							"nettpublisert": "0"
+						}
+					]
+				}
+			],
+			"lenker": [
+				[]
+			]
+		}
+	]
+}

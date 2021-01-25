@@ -1,0 +1,116 @@
+body {
+    background-color: #30303d;
+    color: #fff;
+}
+
+
+.rb_toolbar {
+    margin-top: 8px
+}
+
+.rb_toolbar .filter-option {
+    padding-top: 6px !important;
+}
+
+
+#chart-loader, .rb_not_data {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    z-index: 1000;
+    /*display: none*/
+}
+
+#chart-div {
+    height: 500px;
+    background-color: #303233;
+}
+
+.m-portlet__body {
+    background-color: #303233;
+}
+
+/*.collapsed {*/
+/*    background-color: #156a5e !important;*/
+/*    border-radius: 15px;*/
+/*}*/
+
+
+/***
+User Profile Sidebar by @keenthemes
+A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
+Licensed under MIT
+***/
+
+.panel-group {
+    padding-top: 50px;
+}
+
+.panel-default {
+    border-radius: 0;
+    border: none;
+    background: none;
+    margin-bottom: 0;
+    padding-bottom: 14px;
+}
+
+.panel-default > .panel-heading {
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+.panel-default > .panel-heading + .panel-collapse .panel-body {
+    border: none;
+    padding: 0 0 0 32px;
+}
+
+.panel-default h5 {
+    font: 300 19px "Open Sans", Arial, sans-serif;
+    padding: 0;
+    margin: 0 0 5px;
+}
+
+.panel-group .panel + .panel {
+    margin-top: 15px;
+}
+
+.panel-default .accordion-toggle:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url(../../images/report-builder/minus.svg);
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-right: 10px;
+    position: relative;
+    top: 4px;
+}
+
+.panel-default .collapsed:before {
+    background-image: url(../../images/report-builder/plus.svg);
+}
+
+/*.panel-default .panel-title:hover .collapsed:before {*/
+/*    background-color: #e54a1a;*/
+/*}*/
+
+.panel-default .accordion-toggle,
+.panel-default .accordion-toggle:focus,
+.panel-default .accordion-toggle:hover,
+.panel-default .accordion-toggle:active {
+    color: #1ea9e3;
+    text-decoration: none;
+}
+
+.panel-default .collapsed {
+    color: #5f6f7e;
+}
+

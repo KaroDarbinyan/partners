@@ -1,0 +1,1534 @@
+{
+			"id": "3015456",
+			"databasenummer": "343",
+			"id_avdelinger": "3000008",
+			"id_firma": "3000008",
+			"oppdragsnummer": "19190111",
+			"arkivert": "0",
+			"trukket": "0",
+			"type_oppdrag": "01.Salg eiendom",
+			"type_eiendomstyper": "Leilighet",
+			"type_eierformbygninger": "Eierseksjon",
+			"type_eierformtomt": "Eiet tomt",
+			"type_energimerke": "Oppvarmingskarakter Grønn - Energikarakter B",
+			"styringskoder": [
+				{
+					"styringskode": [
+						{
+							"id": "631",
+							"navn": "Salg",
+							"mappenavn": "Oppdragstype"
+						},
+						{
+							"id": "636",
+							"navn": "Bolig/Annet",
+							"mappenavn": "Oppdragstype"
+						}
+					]
+				}
+			],
+			"statusdato": "05.05.2019 12:45",
+			"finn_eiendomstype": "Leilighet",
+			"finn_oppdragstype": "EIENDOM-SALG",
+			"finn_eierformbygninger": "Selveier",
+			"finn_eierformtomt": "TOMT.EIET",
+			"finn_orderno": "1919011101",
+			"tinde_oppdragstype": "Til salgs",
+			"tinde_eiendomstype": "Leilighet",
+			"tinde_eierformbygninger": "Selveier",
+			"tinde_eierformtomt": "Eiet",
+			"energimerke_bokstav": "B",
+			"energimerke_farge": "DARK_GREEN",
+			"befaringsdato": "01.04.2019",
+			"befaringutfort": "0",
+			"prisvurderingsdato": "",
+			"prisvurderingutfort": "0",
+			"solgt": "0",
+			"oppdragsdato": "12.04.2019",
+			"utlopsdato": "12.10.2019",
+			"klientkonto": [
+				{
+					"kontonummer": "14501373967",
+					"kid": [
+						{
+							"id": "1",
+							"type": "INNBETALING_FRA_SELGER",
+							"kode": "1919011114568"
+						},
+						{
+							"id": "2",
+							"type": "INNBETALING_FRA_KJOPER",
+							"kode": "1919011124567"
+						},
+						{
+							"id": "3",
+							"type": "TILBAKEFORING_FRA_MEGLERS_DRIFTSKONTO",
+							"kode": "1919011134566"
+						},
+						{
+							"id": "5",
+							"type": "TILBAKEFORING_OMKOSTNING_SELGER",
+							"kode": "1919011154564"
+						},
+						{
+							"id": "6",
+							"type": "TILBAKEFORING_OMKOSTNING_KJOPER",
+							"kode": "1919011164563"
+						},
+						{
+							"id": "7",
+							"type": "TILBAKEFORING_DELTPROVISJON",
+							"kode": "1919011174562"
+						}
+					]
+				}
+			],
+			"markedsforingsdato": "05.05.2019 12:45",
+			"markedsforingversjon": "2",
+			"endretdato": "10.05.2019 00:14",
+			"markedsforingsklart": "-1",
+			"visisokemotor": "-1",
+			"vispaafinn": "-1",
+			"urlnettversjon": "https://secure.webmegler.no/cgi-win/wnviseiendom.exe?/k343/i3015456/c1/j1009",
+			"httplinkoppdrag": "http://www.partners.no/19190111",
+			"urlprospektbestilling": "https://www.partners.no/salgsoppgave/19190111",
+			"urlinteressentregistrering": "https://external.webmegler.no/interested/interest/?id_konsern=343&id_oppdrag=3015456",
+			"urlpersonvernerklaring": "https://partners.no/personvern/",
+			"autoprospekt_harferdigsalgsoppgave": "-1",
+			"urlelektroniskbudgivning": "https://tryggbudgivning.no/343/3015456/obouzgqvfs",
+			"kundenummer_finn": "schalasagene",
+			"finn_importstatisticsurl": "http://www.finn.no/finn/import/statistics?partner=schalasagene&orderno=1919011101",
+			"avdeling_id": "3000008",
+			"avdeling_juridisknavn": "Schala & Partners Avd Sagene AS",
+			"avdeling_organisasjonsnummer": "914983401",
+			"avdeling_navn": "Schala & Partners avd Sagene",
+			"avdeling_fagansvarlig_id": "3000123",
+			"avdeling_fagansvarlig_navn": "Anette Borvik",
+			"avdeling_fagansvarlig_tittel": "Fagansvarlig og Eiendomsmegler",
+			"avdeling_fagansvarlig_inaktiv": "0",
+			"avdeling_fagansvarlig_email": "ab@schalapartners.no",
+			"avdeling_fagansvarlig_mobiltelefon": "47 45 17 99",
+			"avdeling_fagansvarlig_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3385761/pwhpjtjgxwi/v1",
+			"avdeling_avdelingsleder_id": "3000130",
+			"avdeling_avdelingsleder_navn": "Bård Tisthamar",
+			"avdeling_avdelingsleder_tittel": "Daglig leder / Partner / Eiendomsmegler MNEF",
+			"avdeling_avdelingsleder_inaktiv": "-1",
+			"avdeling_avdelingsleder_email": "bt@schalapartners.no",
+			"avdeling_avdelingsleder_mobiltelefon": "90 02 93 57",
+			"logo_url_b": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygb.jpg",
+			"logo_url_c": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygc.jpg",
+			"logo_url_d": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000002\\11\\3154588_1-kzvygd.jpg",
+			"avdeling_besoksadresse": "Maridalsveien 160",
+			"avdeling_postadresse": "Maridalsveien 160",
+			"avdeling_postnummer": "0461",
+			"avdeling_poststed": "Oslo",
+			"avdeling_telefon": "21 67 66 65",
+			"avdeling_telefax": "21 67 66 64",
+			"avdeling_email": "vt@schalapartners.no",
+			"avdeling_urlhjemmeside": "http://www.schalapartners.no",
+			"urlhtmlpresentasjon_konsern": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3364991/pcefrgstxkt/v1",
+			"ansatte1_id": "3000139",
+			"ansatte1_navn": "Erik Danielsen",
+			"ansatte1_tittel": "Partner / Eiendomsmegler",
+			"ansatte1_inaktiv": "0",
+			"ansatte1_statusioppdrag": "Ansvarlig megler",
+			"ansatte1_email": "ed@schalapartners.no",
+			"ansatte1_mobiltelefon": "40 08 78 00",
+			"ansatte1_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3384582/pjxgziqswci/v1",
+			"ansatte1_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqc.png\" border=\"0\">",
+			"ansatte1_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqc.png",
+			"ansatte1_standardbildefil": "3152137_1c.png",
+			"ansatte1_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqa.png\" border=\"0\">",
+			"ansatte1_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqa.png",
+			"ansatte1_originalbildefil": "3152137_1a.png",
+			"ansatteansvarligmegler_id": "3000139",
+			"ansatteansvarligmegler_navn": "Erik Danielsen",
+			"ansatteansvarligmegler_tittel": "Partner / Eiendomsmegler",
+			"ansatteansvarligmegler_inaktiv": "0",
+			"ansatteansvarligmegler_statusioppdrag": "Ansvarlig megler",
+			"ansatteansvarligmegler_email": "ed@schalapartners.no",
+			"ansatteansvarligmegler_mobiltelefon": "40 08 78 00",
+			"ansatteansvarligmegler_urlhtmlpresentasjon_ansatt": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3384582/pjxgziqswci/v1",
+			"ansatteansvarligmegler_urlstandardbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqc.png\" border=\"0\">",
+			"ansatteansvarligmegler_urlstandardbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqc.png",
+			"ansatteansvarligmegler_standardbildefil": "3152137_1c.png",
+			"ansatteansvarligmegler_urloriginalbilde": "<img src=\"https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqa.png\" border=\"0\">",
+			"ansatteansvarligmegler_urloriginalbildelink": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2018\\3000008\\11\\3152137_1-divsqa.png",
+			"ansatteansvarligmegler_originalbildefil": "3152137_1a.png",
+			"gaardsnummer": "77",
+			"bruksnummer": "109",
+			"seksjonsnummer": "116",
+			"seksjonsbrok": "44/20617",
+			"ideellandel": "1/1",
+			"fylkesnummer": "3",
+			"fylkesnavn": "Oslo",
+			"kommuneomraade": "Sagene-Torshov",
+			"kommunenummer": "0301",
+			"kommunenavn": "Oslo",
+			"overskrift": "Meget pen 2-roms selveier | Stor solrik balkong | Nybygg fra 2017 | Fyring/v.vann og digital-tv/internett inkl. | Heis",
+			"postnummer": "0484",
+			"poststed": "Oslo",
+			"adresse": "Fernanda Nissens gate 3D",
+			"etasje": "3",
+			"byggeaar": "2017",
+			"fastpris": "0",
+			"prisantydning": "3900000",
+			"prissamletsum": "3901509",
+			"flertype_internett": "Vis på Finn, Vis selgers email",
+			"fellesutgifter": "2161",
+			"type_periode-fellesutgifter": "Mnd",
+			"leieperkvm": "0",
+			"kommentarleie": "Oppvarming og varmtvann via fjernvarme, digital-TV og bredbånd (200 mbps) via fiber fra Altibox, trappevask, vaktmestertjenester, fellesforsikring, drift og vedlikehold, forretningsførsel og kommunale avgifter.",
+			"ligningsverdi": "993874",
+			"ligningsverdi2": "3577946",
+			"ligningsverdidato": "31.12.2017",
+			"takstmann": "Thomas Haugan",
+			"leieinntekterperkvm": "0",
+			"tomteareal": "8634",
+			"prom": "44",
+			"bruksareal": "44",
+			"bruttoareal": "49",
+			"forsikringsselskap": "W.R. Berkley Insurance Nordic",
+			"polisenummer": "202735",
+			"borettslag": "Sameiet Lillo Nydalen",
+			"borettslag_organisasjonsnummer": "918003576",
+			"forretningsforer": "USBL",
+			"forretningsforer_adresse": "Postboks 8944 Youngstorget",
+			"forretningsforer_postnummer": "0028",
+			"forretningsforer_poststed": "Oslo",
+			"forretningsforer_telefon": "22 98 38 00",
+			"eierskiftegebyr": "5750",
+			"noteringsgebyr": "525",
+			"andelfellesgjeld": "1509",
+			"andelfellesformue": "5056",
+			"forkjopsrett": "Nei",
+			"intern_ansiennitet": "0",
+			"oppholdsrom": "1",
+			"soverom": "1",
+			"antallrom": "2",
+			"totalkostnadsomtekst": "3 900 000,- (Prisantydning)\r\n1 509,- (Andel av fellesgjeld)\r\n--------------------------------------------------------\r\n3 901 509,- (Pris inkl. fellesgjeld)\r\n\r\nOmkostninger\r\n199,- (Panteattest kjøper)\r\n525,- (Tingl.gebyr pantedokument)\r\n525,- (Tingl.gebyr skjøte)\r\n97 520,- (Dokumentavgift (forutsatt salgssum inkl f.gjeld: 3 901 509,-))\r\n5 750,- (Eierskiftegebyr trekkes i oppgjøret - KJØPER)\r\n7 650,- (Boligkjøperforsikring Legal24 (valgfritt))\r\n--------------------------------------------------------\r\n112 169,- (Omkostninger totalt)\r\n--------------------------------------------------------\r\n4 013 678,- (Totalpris inkl. omkostninger)\r\n\r\nNB: Regnestykket forutsetter at det kun tinglyses ett pantedokument og at eiendommen selges til prisantydning.",
+			"totalkostnadsomtall": "4013678",
+			"totalomkostningsomtall": "112169",
+			"totalomkostningsomprosent": "2.87612820512821",
+			"totalomkostninger": [
+				{
+					"Panteattest kjøper": "199",
+					"Tingl.gebyr pantedokument": "525",
+					"Tingl.gebyr skjøte": "525",
+					"Dokumentavgift (forutsatt salgssum inkl f.gjeld: 3 901 509,-)": "97520",
+					"Eierskiftegebyr trekkes i oppgjøret - KJØPER": "5750",
+					"Boligkjøperforsikring Legal24 (valgfritt)": "7650"
+				}
+			],
+			"matchekriterier": [
+				[]
+			],
+			"finnmatchekriterier": [
+				{
+					"matchekriterie": [
+						{
+							"id_typer": "230",
+							"navn": "balkong",
+							"iadnavn": "balcony"
+						},
+						{
+							"id_typer": "232",
+							"navn": "parkett",
+							"iadnavn": "parquett"
+						},
+						{
+							"id_typer": "233",
+							"navn": "heis",
+							"iadnavn": "lift"
+						},
+						{
+							"id_typer": "236",
+							"navn": "rolig",
+							"iadnavn": "quiet-area"
+						},
+						{
+							"id_typer": "237",
+							"navn": "kabel-tv",
+							"iadnavn": "cable-tv"
+						},
+						{
+							"id_typer": "241",
+							"navn": "moderne",
+							"iadnavn": "modern"
+						},
+						{
+							"id_typer": "242",
+							"navn": "sentralt",
+							"iadnavn": "central"
+						},
+						{
+							"id_typer": "244",
+							"navn": "parkering",
+							"iadnavn": "garage"
+						},
+						{
+							"id_typer": "251",
+							"navn": "turterreng",
+							"iadnavn": "hiking"
+						},
+						{
+							"id_typer": "270",
+							"navn": "Offentlig vann/kloakk",
+							"iadnavn": "public_sewer"
+						},
+						{
+							"id_typer": "273",
+							"navn": "Utsikt",
+							"iadnavn": "view"
+						},
+						{
+							"id_typer": "274",
+							"navn": "Vaktmester-/vektertjeneste",
+							"iadnavn": "janitorservice"
+						},
+						{
+							"id_typer": "284",
+							"navn": "Bredbånd tilknytning",
+							"iadnavn": "broadband"
+						}
+					]
+				}
+			],
+			"rtffritekst": "-1",
+			"fritekster": [
+				{
+					"fritekst": [
+						{
+							"nr": "2",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000315",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Oppdragsnummer",
+							"tekst": "19-19-0111",
+							"htmltekst": "<div align=\"left\">19-19-0111</div>"
+						},
+						{
+							"nr": "3",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000316",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Adresse og matrikkel",
+							"tekst": "Fernanda Nissens gate 3D, 0484, Oslo, Gnr.77 Bnr.109 Snr.116 Orgnr.918003576 i Oslo kommune",
+							"htmltekst": "<div align=\"left\">Fernanda Nissens gate 3D, 0484, Oslo, Gnr.77 Bnr.109 Snr.116 Orgnr.918003576 i Oslo kommune</div>"
+						},
+						{
+							"nr": "4",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000318",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Eier",
+							"tekst": "Audun Kjølseth",
+							"htmltekst": "<div align=\"left\">Audun Kj&#248;lseth</div>"
+						},
+						{
+							"nr": "5",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000319",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Tillegg",
+							"tekst": "Vedlagt i salgsoppgaven foreligger det reguleringsbestemmelser med kart, tilstandsrapport, egenerklæringsskjema selger, energiattest mm. Alle interessenter oppfordres til å sette seg inn i fremlagte dokumenter før bud inngis. Ta gjerne kontakt med megler dersom du ønsker utlevert dine egne kopier av dokumentene.\r\n\r\nDet gjøres oppmerksom på at Schala & Partners avd Sagene sine standard kjøpekontrakter blir benyttet i handelen, dersom det ikke avtales noe annet før handel har kommet i stand.",
+							"htmltekst": "<div align=\"left\">Vedlagt i salgsoppgaven foreligger det reguleringsbestemmelser med kart, tilstandsrapport, \r\negenerkl&#230;ringsskjema selger, energiattest mm. Alle interessenter oppfordres til &#229; sette seg inn i \r\nfremlagte dokumenter f&#248;r bud inngis. Ta gjerne kontakt med megler dersom du &#248;nsker utlevert dine egne \r\nkopier av dokumentene.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Det gj&#248;res oppmerksom p&#229; at Schala & Partners avd Sagene sine standard kj&#248;pekontrakter blir benyttet i handelen, \r\ndersom det ikke avtales noe annet f&#248;r handel har kommet i stand.</div>"
+						},
+						{
+							"nr": "7",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000053",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Kommunale avgifter",
+							"tekst": "Kommunale avgifter er inkludert i fellesutgiftene.",
+							"htmltekst": "<div align=\"left\">Kommunale avgifter er inkludert i fellesutgiftene.</div>"
+						},
+						{
+							"nr": "8",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000087",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Eiendomsskatt",
+							"tekst": "Det er i Oslo kommune vedtatt eiendomsskatt for skatteåret 2017. Eiendomsskatten utgjør 3 promille av beregningsgrunnlaget. Det gjøres spesielt oppmerksom på at beregningsgrunnlaget vil være høyere for boliger som benyttes som sekundærbolig. For å finne beregningsgrunnlaget vennligst se Oslo kommunes hjemmeside: http://www.oslo.kommune.no/skatt-og-naring/skatt-og-avgift/eiendomsskatt/eiendomsskatt/",
+							"htmltekst": "<div align=\"left\">Det er i Oslo kommune vedtatt eiendomsskatt for skatte&#229;ret 2017. Eiendomsskatten utgj&#248;r 3 promille av \r\nberegningsgrunnlaget. Det gj&#248;res spesielt oppmerksom p&#229; at beregningsgrunnlaget vil v&#230;re h&#248;yere for \r\nboliger som benyttes som sekund&#230;rbolig. For &#229; finne beregningsgrunnlaget vennligst se Oslo \r\nkommunes hjemmeside: \r\nhttp://www.oslo.kommune.no/skatt-og-naring/skatt-og-avgift/eiendomsskatt/eiendomsskatt/</div>"
+						},
+						{
+							"nr": "9",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000089",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "BRA/PROM",
+							"tekst": "44 / 44 m²",
+							"htmltekst": "<div align=\"left\">44 / 44 m&#178;</div>"
+						},
+						{
+							"nr": "10",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000091",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Antall soverom",
+							"tekst": "1",
+							"htmltekst": "<div align=\"left\">1</div>"
+						},
+						{
+							"nr": "11",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000094",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Eierform",
+							"tekst": "Eierseksjon",
+							"htmltekst": "<div align=\"left\">Eierseksjon</div>"
+						},
+						{
+							"nr": "12",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000096",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Boligtype",
+							"tekst": "Leilighet",
+							"htmltekst": "<div align=\"left\">Leilighet</div>"
+						},
+						{
+							"nr": "13",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000098",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Byggeår",
+							"tekst": "2017",
+							"htmltekst": "<div align=\"left\">2017</div>"
+						},
+						{
+							"nr": "14",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000099",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Energimerking",
+							"tekst": "Oppvarmingskarakter Grønn - Energikarakter B\r\n\r\nMegler har intet ansvar for informasjon som følger av energiattesten. For fullstendig energiattest fra selger, kontakt megler.",
+							"htmltekst": "<div align=\"left\">Oppvarmingskarakter Gr&#248;nn - Energikarakter B</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Megler har intet ansvar for informasjon som f&#248;lger av energiattesten. For fullstendig energiattest fra \r\nselger, kontakt megler.</div>"
+						},
+						{
+							"nr": "15",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000105",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Tomt",
+							"tekst": "Areal: 8 634 kvm, Eierform: Eiet tomt\r\n\r\nTomten er fellesareal.",
+							"htmltekst": "<div align=\"left\">Areal: 8 634 kvm, Eierform: Eiet tomt</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Tomten er fellesareal.</div>"
+						},
+						{
+							"nr": "16",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000109",
+							"gruppenavn": "Nøkkelinformasjon (til salgsoppgave)",
+							"overskrift": "Sikringsordning fellesgjeld / IN-ordning",
+							"tekst": "Iht. lov om Eierseksjonssameier §30, er sameierne overfor sameiets kreditorer ansvarlig i forhold til sin sameiebrøk.  Ved manglende betaling av fellesutgifter har sameiet lovbestemt pantesikkerhet i den enkelte eierseksjon inntil 2 gang folketrygdens grunnbeløp.",
+							"htmltekst": "<div align=\"left\">Iht. lov om Eierseksjonssameier &#167;30, er sameierne overfor sameiets kreditorer ansvarlig i forhold til sin \r\nsameiebr&#248;k.&#160; Ved manglende betaling av fellesutgifter har sameiet lovbestemt pantesikkerhet i den \r\nenkelte eierseksjon inntil 2 gang folketrygdens grunnbel&#248;p.</div>"
+						},
+						{
+							"nr": "17",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000111",
+							"gruppenavn": "Eiendommen",
+							"overskrift": "Beskrivelse",
+							"tekst": "Velkommen til Nydalen og Fernanda Nissens gate 3 D!\r\n\r\nDette er en tiltalende og lys 2-roms selveier med en innholdsrik planløsning. Leiligheten er nybygg fra 2017 og passer helt perfekt for dere som ønsker å nyte livet i byen med kort vei til det yrende folkelivet i Oslo, samtidig som du er litt tilbaketrukket med fine turområder og rolige omgivelser rett utenfor leilighetsdøren.\r\n\r\nDette er et område som er i stor utvikling, og plasseringen mellom flere allerede etablerte bydeler gjør dette til et område mange satser på, både for å bo og investere i!\r\nNybygg fra 2017\r\nHerlig, vestvendt balkong på 10,5 kvm\r\nVarmtvann og oppvarming med fjernvarme inkl.\r\nDigital-TV og internett inkl. \r\nHeis\r\nIntegrerte hvitevarer og plass til vaskemaskin på baderom\r\nVarme i alle gulv ",
+							"htmltekst": "<div align=\"left\">Velkommen til Nydalen og Fernanda Nissens gate 3 D!</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Dette er en tiltalende og lys 2-roms selveier med en innholdsrik planl&#248;sning. Leiligheten er nybygg fra \r\n2017 og passer helt perfekt for dere som &#248;nsker &#229; nyte livet i byen med kort vei til det yrende folkelivet i \r\nOslo, samtidig som du er litt tilbaketrukket med fine turomr&#229;der og rolige omgivelser rett utenfor \r\nleilighetsd&#248;ren.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Dette er et omr&#229;de som er i stor utvikling, og plasseringen mellom flere allerede etablerte bydeler gj&#248;r \r\ndette til et omr&#229;de mange satser p&#229;, b&#229;de for &#229; bo og investere i!</div>\r\n<div align=\"left\">&bull;Nybygg fra 2017</div>\r\n<div align=\"left\">&bull;Herlig, vestvendt balkong p&#229; 10,5 kvm</div>\r\n<div align=\"left\">&bull;Varmtvann og oppvarming med fjernvarme inkl.</div>\r\n<div align=\"left\">&bull;Digital-TV og internett inkl. </div>\r\n<div align=\"left\">&bull;Heis</div>\r\n<div align=\"left\">&bull;Integrerte hvitevarer og plass til vaskemaskin p&#229; baderom</div>\r\n<div align=\"left\">&bull;Varme i alle gulv </div>"
+						},
+						{
+							"nr": "18",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000112",
+							"gruppenavn": "Eiendommen",
+							"overskrift": "Innhold",
+							"tekst": "Leiligheten inneholder:\r\nStue med åpen kjøkkenløsning, vestvendt balkong med adkomst fra stuen, soverom, bad/wc og gang/entré. Det er vannbåren varme i alle gulv. \r\nI tillegg disponerer leiligheten en bod i kjeller. Ellers har sameiet felles sykkelboder.",
+							"htmltekst": "<div align=\"left\">Leiligheten inneholder:</div>\r\n<div align=\"left\">Stue med &#229;pen kj&#248;kkenl&#248;sning, vestvendt balkong med adkomst fra stuen, soverom, bad/wc og \r\ngang/entr&#233;. Det er vannb&#229;ren varme i alle gulv. </div>\r\n<div align=\"left\">I tillegg disponerer leiligheten en bod i kjeller. Ellers har sameiet felles sykkelboder.</div>"
+						},
+						{
+							"nr": "19",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000216",
+							"gruppenavn": "Eiendommen",
+							"overskrift": "Beliggenhet",
+							"tekst": "Leiligheten ligger i et attraktivt og sentralt boligområde i Nydalen i Oslo kommune. Nydalen har de siste årene gjennomgått en totalforvandling og er nå et urbant, levende og meget moderne bydelssenter. Antall beboere og brukere av området er i sterk vekst og i takt med etterspørselen er det etablert en rekke serveringssteder og butikker. \r\n\r\nDagligvarehandelen kan gjøres ved bl.a. Meny, Coop Mega og Rema 1000. For ytterligere servicetilbud har Storo senteret et rikt og variert utvalg. Ikke mange minutter unna leiligheten finner man Storo Storsenter, et av Norges største kjøpesentre med 130 butikker, spisesteder og tjenester. Like ved Storo Storsenter har Norges største og første IMAX-kino åpnet, hvor det er tilrettelagt for en fantastisk filmopplevelse. Torgbygget i Nydalen, senter som åpnet i 2016 og har servicetilbud som vinmonopol. matvarebutikk, restauranter/cafeer, baker, apotek og blomsterbutikk.\r\n\r\nSt. Hanshaugen, Grünerløkka, Majorstuen og Oslo sentrum ligger i tillegg godt innen rekkevidde med alt det innebærer av fasiliteter og servicetilbud. \r\n\r\nDet er kort vei til ypperlige tur- og treningsfasiliteter, med blant annet Maridalen som et naturlig valg dersom man ønsker rolige sykkelveier. Her har man også tilgang til et fantastisk utvalg av turstier til fots, på sykkel eller på ski. Det er i tillegg vei også til Sognsvann og Nordmarka, med alle sine muligheter. Med Grefsenkollen like i nærheten kan man stå alpint på vinteren, med bakker både for barn, nybegynnere og viderekomne. For den treningsglade er det fint med SATS/Elixia i Nydalen og Storo og Evo, ikke mange minutter unna leiligheten. Akerselva renner gjennom Nydalen og er med på å forsterke den idylliske opplevelsen av området. Elven kan benyttes til både bading (Nydalsdammen) og fisking. \r\n\r\nNydalen er et knutepunkt for kollektiv transport, og man kan velge mellom trikk, buss, T-bane, flybuss eller tog, alt innenfor få minutters gangavstand. Med hyppige avganger og linjer i alle retninger kommer man seg enkelt dit man skal. Nærmeste holdeplass er Nydalen/Kristoffer Aamodts gate og ligger ca. 100 fra boligen.\r\n\r\nSkoler:\r\nLeiligheten sogner til Fernanda Nissens skole: Fernanda Nissen skole stod ferdig til skolestart 22.august 2016. Skolen starter opp med 1. - 3.trinn, og vil i 2020 være en 1-7 skole med kapasitet til 840 elever.\r\n\r\nAndre nærliggende skoler:\r\n- Bjølsen skole (1-10 kl.)\r\n- Grefsen skole (1-7 kl.)\r\n- Disen skole (1-7 kl.)\r\n- Nordpolen skole (1-10 kl.)\r\n- Morellbakken Skole (8-10 kl.)\r\n- Nydalen Videregående skole\r\n\r\nBarnehager:\r\nBarnehage i Lillo Nydalen i Fernanda Nissens gate 3 C. Beboere i Fernanda nissens gate 3 har førsterett på barnehageplass i FN3 barnehage.\r\n\r\nUniversiteter og høyskoler:\r\nHandelshøyskolen BI - 4 minutters gange\r\nUniversitetet i Oslo (UiO) - 17 minutter med T-banen\r\nTannlegehøyskolen - 15 minutter med 37 bussen\r\nWesterdals - 23 minutter med 30 bussen\r\nBlindern - ca. 6 minutter med T-banen fra Nydalen\r\nMajorstuen - ca. 8 minutter med T-bane fra Nydalen\r\n\r\nLeiligheten har et fantastisk utgangspunkt for aktiv bruk av alle byens tilbud. Her vil du trives!",
+							"htmltekst": "<div align=\"left\">Leiligheten ligger i et attraktivt og sentralt boligomr&#229;de i Nydalen i Oslo kommune. Nydalen har de siste \r\n&#229;rene gjennomg&#229;tt en totalforvandling og er n&#229; et urbant, levende og meget moderne bydelssenter. Antall \r\nbeboere og brukere av omr&#229;det er i sterk vekst og i takt med ettersp&#248;rselen er det etablert en rekke \r\nserveringssteder og butikker. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Dagligvarehandelen kan gj&#248;res ved bl.a. Meny, Coop Mega og Rema 1000. For ytterligere servicetilbud \r\nhar Storo senteret et rikt og variert utvalg. Ikke mange minutter unna leiligheten finner man Storo \r\nStorsenter, et av Norges st&#248;rste kj&#248;pesentre med 130 butikker, spisesteder og tjenester. Like ved Storo \r\nStorsenter har Norges st&#248;rste og f&#248;rste IMAX-kino &#229;pnet, hvor det er tilrettelagt for en fantastisk \r\nfilmopplevelse. Torgbygget i Nydalen, senter som &#229;pnet i 2016 og har servicetilbud som vinmonopol. \r\nmatvarebutikk, restauranter/cafeer, baker, apotek og blomsterbutikk.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">St. Hanshaugen, Gr&#252;nerl&#248;kka, Majorstuen og Oslo sentrum ligger i tillegg godt innen rekkevidde med alt \r\ndet inneb&#230;rer av fasiliteter og servicetilbud. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Det er kort vei til ypperlige tur- og treningsfasiliteter, med blant annet Maridalen som et naturlig valg \r\ndersom man &#248;nsker rolige sykkelveier. Her har man ogs&#229; tilgang til et fantastisk utvalg av turstier til fots, \r\np&#229; sykkel eller p&#229; ski. Det er i tillegg vei ogs&#229; til Sognsvann og Nordmarka, med alle sine muligheter. Med \r\nGrefsenkollen like i n&#230;rheten kan man st&#229; alpint p&#229; vinteren, med bakker b&#229;de for barn, nybegynnere og \r\nviderekomne. For den treningsglade er det fint med SATS/Elixia i Nydalen og Storo og Evo, ikke mange \r\nminutter unna leiligheten. Akerselva renner gjennom Nydalen og er med p&#229; &#229; forsterke den idylliske \r\nopplevelsen av omr&#229;det. Elven kan benyttes til b&#229;de bading (Nydalsdammen) og fisking. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Nydalen er et knutepunkt for kollektiv transport, og man kan velge mellom trikk, buss, T-bane, flybuss eller \r\ntog, alt innenfor f&#229; minutters gangavstand. Med hyppige avganger og linjer i alle retninger kommer man \r\nseg enkelt dit man skal. N&#230;rmeste holdeplass er Nydalen/Kristoffer Aamodts gate og ligger ca. 100 fra \r\nboligen.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Skoler:</div>\r\n<div align=\"left\">Leiligheten sogner til Fernanda Nissens skole: Fernanda Nissen skole stod ferdig til skolestart \r\n22.august 2016. Skolen starter opp med 1. - 3.trinn, og vil i 2020 v&#230;re en 1-7 skole med kapasitet til 840 \r\nelever.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Andre n&#230;rliggende skoler:</div>\r\n<div align=\"left\">- Bj&#248;lsen skole (1-10 kl.)</div>\r\n<div align=\"left\">- Grefsen skole (1-7 kl.)</div>\r\n<div align=\"left\">- Disen skole (1-7 kl.)</div>\r\n<div align=\"left\">- Nordpolen skole (1-10 kl.)</div>\r\n<div align=\"left\">- Morellbakken Skole (8-10 kl.)</div>\r\n<div align=\"left\">- Nydalen Videreg&#229;ende skole</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Barnehager:</div>\r\n<div align=\"left\">Barnehage i Lillo Nydalen i Fernanda Nissens gate 3 C. Beboere i Fernanda nissens gate 3 har f&#248;rsterett \r\np&#229; barnehageplass i FN3 barnehage.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Universiteter og h&#248;yskoler:</div>\r\n<div align=\"left\">Handelsh&#248;yskolen BI - 4 minutters gange</div>\r\n<div align=\"left\">Universitetet i Oslo (UiO) - 17 minutter med T-banen</div>\r\n<div align=\"left\">Tannlegeh&#248;yskolen - 15 minutter med 37 bussen</div>\r\n<div align=\"left\">Westerdals - 23 minutter med 30 bussen</div>\r\n<div align=\"left\">Blindern - ca. 6 minutter med T-banen fra Nydalen</div>\r\n<div align=\"left\">Majorstuen - ca. 8 minutter med T-bane fra Nydalen</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Leiligheten har et fantastisk utgangspunkt for aktiv bruk av alle byens tilbud. Her vil du trives!</div>"
+						},
+						{
+							"nr": "20",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000298",
+							"gruppenavn": "Standard",
+							"overskrift": "Entré",
+							"tekst": "Standard:\r\nStue | Med utgang til solrik vestvendt balkong\r\nStuen er lys og romslig i et tidsriktig fargevalg. Det er store vindusflater som strekker seg fra gulv til tak gir rikelig med naturlig lys inn i boligen. Dette sammen med den svært funksjonelle løsningen, sørger for en luftig atmosfære. Her møter du et stort rom med gode møbleringsmuligheter. Her har du en naturlig plass til både sofagruppe, spisebord og TV med tilhørende møblement.\r\n\r\nVidere fra stuen er det utgang til boligens vestvendte balkong på 10,5 m2. Her har du god plass til utemøblement, beplantning og grill, så på balkongen kan du fint nyte solrike og late sommerdager.\r\n\r\nKjøkken | Godt med skap- og benkeplass\r\nPå kjøkkenet finner du en moderne og stilren innredning fra HTH. Med den åpne løsningen mot stuen er det god plass til et hyggelig spisebord, hvor du kan samle gode venner og familie. Innredningen har glatte fronter i en matt og hvit utførelse, samt benkeplate i laminat. Det er godt med skap- og benkeplass på kjøkkenet for matlaging og oppbevaring. Videre finner du integrerte hvitevarer som induksjonstopp, stekeovn, oppvaskmaskin og kjøleskap med frysedel, samt ventilator. På kjøkkenet er det automatisk vannstopper med magnetventil.\r\n\r\nBaderom | Delikat og flislagt\r\nLekkert flislagt baderom med varme i gulvet. Badet inneholder dusjhjørne med innfellbare glassdører, vegghengt toalett, servantskap med skuffer i matt hvit utførelse og benkeplate i laminat. Videre er det nedsenket servant i porselen i servantskapet, samt speil og lysarmatur med stikkontakt på veggen over servanten. I hjørnet er det opplegg for vaskemaskin, så her har du alt du trenger på baderommet! I himlingen er det downlights og mekanisk avtrekk. \r\n\r\nSoverom | Høyt og stille\r\nSoverommet er av god størrelse og har store vindusflater. Ettersom boligen ligger høyt og fritt i bygget, er det stille og rolig på soverommet. Soverommet er svært romslig, og det er god plass til dobbeltseng, nattbord og øvrig møblement. To garderobeskap. Dette sørger for gode oppbevaringsmuligheter til klær og det man måtte ønske. \r\n\r\nEntré | Et godt førsteinntrykk\r\nNår du kommer inn i boligen, er det første du møter en trivelig entré. Her er det god plass til å henge fra seg yttertøy og til sette fra seg sko. Du finner et skap som sørger for gode oppbevaringsmuligheter av yttertøy. Det er adkomst via felles trapperom med heis. Oppgangen har callinganlegg med video, samt er det entrédør fra Swedoor med kikkhull i brannklasse B30 og lydklasse 40dB. Himlingen er nedsenket med downlights og gulvet er belagt med parkett. \r\n\r\nOverflater | Delikate flater\r\nGulv: Belagt med tre-stavs hvitpigmentert eikeparkett. Gulvvarme i alle gulv.\r\nVegger: Malte flater.\r\nTak: Malte flater og betong. Det er downlights på baderommet og i entré.",
+							"htmltekst": "<div align=\"left\">Standard:</div>\r\n<div align=\"left\">Stue | Med utgang til solrik vestvendt balkong</div>\r\n<div align=\"left\">Stuen er lys og romslig i et tidsriktig fargevalg. Det er store vindusflater som strekker seg fra gulv til tak gir \r\nrikelig med naturlig lys inn i boligen. Dette sammen med den sv&#230;rt funksjonelle l&#248;sningen, s&#248;rger for en \r\nluftig atmosf&#230;re. Her m&#248;ter du et stort rom med gode m&#248;bleringsmuligheter. Her har du en naturlig plass \r\ntil b&#229;de sofagruppe, spisebord og TV med tilh&#248;rende m&#248;blement.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Videre fra stuen er det utgang til boligens vestvendte balkong p&#229; 10,5 m2. Her har du god plass til \r\nutem&#248;blement, beplantning og grill, s&#229; p&#229; balkongen kan du fint nyte solrike og late sommerdager.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Kj&#248;kken | Godt med skap- og benkeplass</div>\r\n<div align=\"left\">P&#229; kj&#248;kkenet finner du en moderne og stilren innredning fra HTH. Med den &#229;pne l&#248;sningen mot stuen er \r\ndet god plass til et hyggelig spisebord, hvor du kan samle gode venner og familie. Innredningen har glatte \r\nfronter i en matt og hvit utf&#248;relse, samt benkeplate i laminat. Det er godt med skap- og benkeplass p&#229; \r\nkj&#248;kkenet for matlaging og oppbevaring. Videre finner du integrerte hvitevarer som induksjonstopp, \r\nstekeovn, oppvaskmaskin og kj&#248;leskap med frysedel, samt ventilator. P&#229; kj&#248;kkenet er det automatisk \r\nvannstopper med magnetventil.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Baderom | Delikat og flislagt</div>\r\n<div align=\"left\">Lekkert flislagt baderom med varme i gulvet. Badet inneholder dusjhj&#248;rne med innfellbare glassd&#248;rer, \r\nvegghengt toalett, servantskap med skuffer i matt hvit utf&#248;relse og benkeplate i laminat. Videre er det \r\nnedsenket servant i porselen i servantskapet, samt speil og lysarmatur med stikkontakt p&#229; veggen over \r\nservanten. I hj&#248;rnet er det opplegg for vaskemaskin, s&#229; her har du alt du trenger p&#229; baderommet! I \r\nhimlingen er det downlights og mekanisk avtrekk. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Soverom | H&#248;yt og stille</div>\r\n<div align=\"left\">Soverommet er av god st&#248;rrelse og har store vindusflater. Ettersom boligen ligger h&#248;yt og fritt i bygget, er \r\ndet stille og rolig p&#229; soverommet. Soverommet er sv&#230;rt romslig, og det er god plass til dobbeltseng, \r\nnattbord og &#248;vrig m&#248;blement. To garderobeskap. Dette s&#248;rger for gode oppbevaringsmuligheter til kl&#230;r \r\nog det man m&#229;tte &#248;nske. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Entr&#233; | Et godt f&#248;rsteinntrykk</div>\r\n<div align=\"left\">N&#229;r du kommer inn i boligen, er det f&#248;rste du m&#248;ter en trivelig entr&#233;. Her er det god plass til &#229; henge fra \r\nseg yttert&#248;y og til sette fra seg sko. Du finner et skap som s&#248;rger for gode oppbevaringsmuligheter av \r\nyttert&#248;y. Det er adkomst via felles trapperom med heis. Oppgangen har callinganlegg med video, samt er \r\ndet entr&#233;d&#248;r fra Swedoor med kikkhull i brannklasse B30 og lydklasse 40dB. Himlingen er nedsenket \r\nmed downlights og gulvet er belagt med parkett. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Overflater | Delikate flater</div>\r\n<div align=\"left\">Gulv: Belagt med tre-stavs hvitpigmentert eikeparkett. Gulvvarme i alle gulv.</div>\r\n<div align=\"left\">Vegger: Malte flater.</div>\r\n<div align=\"left\">Tak: Malte flater og betong. Det er downlights p&#229; baderommet og i entr&#233;.</div>"
+						},
+						{
+							"nr": "22",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000152",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Felleskostnader",
+							"tekst": "Kr. 2 161,- pr. mnd. inkluderer: Oppvarming og varmtvann via fjernvarme, digital-tv og bredbånd (200 mbps) via fiber fra Altibox, trappevask, vaktmestertjenester, fellesforsikring, drift og vedlikehold, forretningsførsel og kommunale avgifter.",
+							"htmltekst": "<div align=\"left\">Kr. 2 161,- pr. mnd. inkluderer: Oppvarming og varmtvann via fjernvarme, digital-tv og bredb&#229;nd (200 \r\nmbps) via fiber fra Altibox, trappevask, vaktmestertjenester, fellesforsikring, drift og vedlikehold, \r\nforretningsf&#248;rsel og kommunale avgifter.</div>"
+						},
+						{
+							"nr": "23",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000160",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Etasje",
+							"tekst": "3 etasje.",
+							"htmltekst": "<div align=\"left\">3 etasje.</div>"
+						},
+						{
+							"nr": "24",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000161",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Tomt",
+							"tekst": "Pent opparbeidet fellestomt med hyggelige sittegrupper, trær, beplantning, asfalterte gangstier, sykkelparkering og prydbusker.",
+							"htmltekst": "<div align=\"left\">Pent opparbeidet fellestomt med hyggelige sittegrupper, tr&#230;r, beplantning, asfalterte gangstier, \r\nsykkelparkering og prydbusker.</div>"
+						},
+						{
+							"nr": "25",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000163",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Garasje / Parkering",
+							"tekst": "Selger eier i dag garasjeplass i felles garasjeanlegg i kjeller. Om ønskelig er det mulighet til å kjøpe garasjeplass (plass nr. 73) for kr. 350.000,- + omkostninger. Fellesutgiftene for garasjeplassen kr. 275,- pr. mnd.\r\n\r\nEllers er det ofte garasjeplasser ledig for leie i kjeller.\r\n\r\nOmrådet er en del av ordningen \"beboerparkering\". Dvs. at man med beboerkort kan parkere gratis døgnet rundt - hele uken - også utover det som er maksimal parkeringstid, mot et gebyr på kr 3000,- i året. For mer info se www.bymiljoetaten.oslo.kommune.no/trafikk_og_samferdsel/parkering/beboerparkering/.",
+							"htmltekst": "<div align=\"left\">Selger eier i dag garasjeplass i felles garasjeanlegg i kjeller. Om &#248;nskelig er det mulighet til &#229; kj&#248;pe \r\ngarasjeplass (plass nr. 73) for kr. 350.000,- + omkostninger. Fellesutgiftene for garasjeplassen kr. 275,- \r\npr. mnd.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Ellers er det ofte garasjeplasser ledig for leie i kjeller.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Omr&#229;det er en del av ordningen &quot;beboerparkering&quot;. Dvs. at man med beboerkort kan parkere gratis \r\nd&#248;gnet rundt - hele uken - ogs&#229; utover det som er maksimal parkeringstid, mot et gebyr p&#229; kr 3000,- i &#229;ret. \r\nFor mer info se www.bymiljoetaten.oslo.kommune.no/trafikk_og_samferdsel/parkering/beboerparkering/.</div>"
+						},
+						{
+							"nr": "26",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000164",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Formuesverdi",
+							"tekst": "Formuesverdi som primærbolig kr. 993 874 pr. 31.12.17\r\nFormuesverdi som sekundærbolig kr. 3 577 946 pr. 31.12.17\r\n\r\nFormuesverdien fastsettes med utgangspunkt i en kvadratmeterpris, som beregnes av Statistisk sentralbyrå (SSB). Kvadratmeterprisen skal gi uttrykk for en estimert markedsverdi pr. kvadratmeter og bygger på statistiske opplysninger om omsatte boliger (boligtype, areal, geografisk beliggenhet og alder).\r\n\r\nUt fra kvadratmeterprisene til SSB fastsetter Skatteetaten årlige kvadratmetersatser. Disse satsene vil utgjøre hhv. 25% av kvadratmeterprisene for primærboliger (der boligeier er folkeregistrert pr. 1. januar) og 90% for sekundærboliger (alle andre boliger).",
+							"htmltekst": "<div align=\"left\">Formuesverdi som prim&#230;rbolig kr. 993 874 pr. 31.12.17</div>\r\n<div align=\"left\">Formuesverdi som sekund&#230;rbolig kr. 3 577 946 pr. 31.12.17</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Formuesverdien fastsettes med utgangspunkt i en kvadratmeterpris, som beregnes av Statistisk \r\nsentralbyr&#229; (SSB). Kvadratmeterprisen skal gi uttrykk for en estimert markedsverdi pr. kvadratmeter og \r\nbygger p&#229; statistiske opplysninger om omsatte boliger (boligtype, areal, geografisk beliggenhet og alder).</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Ut fra kvadratmeterprisene til SSB fastsetter Skatteetaten &#229;rlige kvadratmetersatser. Disse satsene vil \r\nutgj&#248;re hhv. 25% av kvadratmeterprisene for prim&#230;rboliger (der boligeier er folkeregistrert pr. 1. januar) \r\nog 90% for sekund&#230;rboliger (alle andre boliger).</div>"
+						},
+						{
+							"nr": "27",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000171",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Byggemåte",
+							"tekst": "Se vedlagt tilstandsrapport for nærmere beskrivelse av eiendommen.",
+							"htmltekst": "<div align=\"left\">Se vedlagt tilstandsrapport for n&#230;rmere beskrivelse av eiendommen.</div>"
+						},
+						{
+							"nr": "28",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000173",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Ferdigattest / brukstillatelse",
+							"tekst": "Det foreligger midlertidig brukstillatelse datert 08.02.2017 for eiendommen. Gjenstående arbeid er:\r\n- Opparbeidelse av Kristoffer Aamots gate, jf. veikrav i saken.\r\n- Ferdigstillelse av resterende utomhusarealer over felles garasjekjeller.\r\n- Mindre arbeider knyttet til felles avkjørsel (asfaltering, rekkverk og beplantning ved rundkjøring).\r\n\r\nEiendomsmegler har ingen kunnskap om hvorvidt dette er innsendt/gjenstående arbeider. Dokumentet følger vedlagt salgsoppgaven.",
+							"htmltekst": "<div align=\"left\">Det foreligger midlertidig brukstillatelse datert 08.02.2017 for eiendommen. Gjenst&#229;ende arbeid er:</div>\r\n<div align=\"left\">- Opparbeidelse av Kristoffer Aamots gate, jf. veikrav i saken.</div>\r\n<div align=\"left\">- Ferdigstillelse av resterende utomhusarealer over felles garasjekjeller.</div>\r\n<div align=\"left\">- Mindre arbeider knyttet til felles avkj&#248;rsel (asfaltering, rekkverk og beplantning ved rundkj&#248;ring).</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Eiendomsmegler har ingen kunnskap om hvorvidt dette er innsendt/gjenst&#229;ende arbeider. Dokumentet \r\nf&#248;lger vedlagt salgsoppgaven.</div>"
+						},
+						{
+							"nr": "29",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000174",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Boligens areal",
+							"tekst": "Primærrom: 44 kvm, Bruksareal: 44 kvm, Bruttoareal: 49 kvm\r\n\r\n3. etasje:\r\nFølgende rom er oppgitt som primærrom: Entré, bad/wc, soverom, kjøkken og stue.\r\n\r\nArealet av primære rom (P-ROM) er primærrommenes nettoareal (NTA) og arealet som opptas av innvendige vegger mellom disse rommene. I praksis er dette arealet tilnærmet likt primærrommenes bruksareal (BRA). Se vedlagte takst for nærmere beskrivelse av arealbetegnelser. Arealene er kun oppmålt av takstmann og ikke kontrollert/oppmålt av megler.",
+							"htmltekst": "<div align=\"left\">Primærrom: 44 kvm, Bruksareal: 44 kvm, Bruttoareal: 49 kvm</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">3. etasje:</div>\r\n<div align=\"left\">F&#248;lgende rom er oppgitt som prim&#230;rrom: Entr&#233;, bad/wc, soverom, kj&#248;kken og stue.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Arealet av prim&#230;re rom (P-ROM) er prim&#230;rrommenes nettoareal (NTA) og arealet som opptas av \r\ninnvendige vegger mellom disse rommene. I praksis er dette arealet tiln&#230;rmet likt prim&#230;rrommenes \r\nbruksareal (BRA). Se vedlagte takst for n&#230;rmere beskrivelse av arealbetegnelser. Arealene er kun \r\noppm&#229;lt av takstmann og ikke kontrollert/oppm&#229;lt av megler.</div>"
+						},
+						{
+							"nr": "30",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000175",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Adgang til utleie",
+							"tekst": "Den enkelte sameier har full rettslig råderett, herunder rett til utleie. Ethvert bortleie av en seksjon skal meldes skriftlig til sameiets styre/forretningsfører med opplysning om hvem som er ny eier/leietaker. Se sameiets vedtekter § 3 for informasjon.",
+							"htmltekst": "<div align=\"left\">Den enkelte sameier har full rettslig r&#229;derett, herunder rett til utleie. Ethvert bortleie av en seksjon skal \r\nmeldes skriftlig til sameiets styre/forretningsf&#248;rer med opplysning om hvem som er ny eier/leietaker. Se \r\nsameiets vedtekter &#167; 3 for informasjon.</div>"
+						},
+						{
+							"nr": "31",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000176",
+							"gruppenavn": "Eiendomsinfo",
+							"overskrift": "Oppvarming",
+							"tekst": "Oppvarming og varmtvann via fjernvarme er inkludert i felleskostnadene. \r\n\r\nVannbåren gulvvarme i alle oppholdsrom. Varmekabler i gulv på bad/wc.",
+							"htmltekst": "<div align=\"left\">Oppvarming og varmtvann via fjernvarme er inkludert i felleskostnadene. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Vannb&#229;ren gulvvarme i alle oppholdsrom. Varmekabler i gulv p&#229; bad/wc.</div>"
+						},
+						{
+							"nr": "32",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000180",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Adkomst",
+							"tekst": "Enkel adkomst fra Fernanda Nissens gate.",
+							"htmltekst": "<div align=\"left\">Enkel adkomst fra Fernanda Nissens gate.</div>"
+						},
+						{
+							"nr": "33",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000183",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Regulering",
+							"tekst": "Eiendommen er regulert til bolig, forretning, barnehage, annen offentlig eller privat tjenesteyting (helse, frisør, kiosk), bevertning, annen næring (datasentral). Reguleringsbestemmelse: S-4793. Området forøvrig er regulert til vei, kjørevei, turvei, friområde, byggeområde for bolig, forretning, barnehage, annen offentlig eller privat tjenesteyting, bevertning, annen næring m.m. For ytterligere opplysninger om regulering, vennligst ta kontakt med megler.",
+							"htmltekst": "<div align=\"left\">Eiendommen er regulert til bolig, forretning, barnehage, annen offentlig eller privat tjenesteyting (helse, \r\nfris&#248;r, kiosk), bevertning, annen n&#230;ring (datasentral). Reguleringsbestemmelse: S-4793. Omr&#229;det \r\nfor&#248;vrig er regulert til vei, kj&#248;revei, turvei, friomr&#229;de, byggeomr&#229;de for bolig, forretning, barnehage, annen \r\noffentlig eller privat tjenesteyting, bevertning, annen n&#230;ring m.m. For ytterligere opplysninger om \r\nregulering, vennligst ta kontakt med megler.</div>"
+						},
+						{
+							"nr": "34",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000184",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Konsesjon / Odel",
+							"tekst": "Det er ingen konsesjon eller odel knyttet til salget av denne eiendommen.",
+							"htmltekst": "<div align=\"left\">Det er ingen konsesjon eller odel knyttet til salget av denne eiendommen.</div>"
+						},
+						{
+							"nr": "35",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000188",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Offentlige planer",
+							"tekst": "Kristoffer Aamots gate med flere - Søknaden omfatter opparbeidelse av eksisterende gate, med nytt fortau, trebeplantning, sykkelbane og bussholdeplass. \r\nPlanstatus: Igangsettingstillatelse gitt. Se saksnr.: 201608595 for mer informasjon. \r\n\r\nVitaminveien - Søknaden gjelder opparbeidelse av gaten for å gi mer plass til myke trafikanter. \r\nPlanstatus: Mottatt sak. Se saksnr.: 201816207 for mer informasjon. \r\n\r\nFor informasjon om eventuelle arbeider i nærliggende områder anbefaler vi et søk på plan og bygg sin sakinnsyn portal:\r\nhttps://www.oslo.kommune.no/plan-bygg-og-eiendom/",
+							"htmltekst": "<div align=\"left\">Kristoffer Aamots gate med flere - S&#248;knaden omfatter opparbeidelse av eksisterende gate, med nytt \r\nfortau, trebeplantning, sykkelbane og bussholdeplass. </div>\r\n<div align=\"left\">Planstatus: Igangsettingstillatelse gitt. Se saksnr.: 201608595 for mer informasjon. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Vitaminveien - S&#248;knaden gjelder opparbeidelse av gaten for &#229; gi mer plass til myke trafikanter. </div>\r\n<div align=\"left\">Planstatus: Mottatt sak. Se saksnr.: 201816207 for mer informasjon. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">For informasjon om eventuelle arbeider i n&#230;rliggende omr&#229;der anbefaler vi et s&#248;k p&#229; plan og bygg sin \r\nsakinnsyn portal:</div>\r\n<div align=\"left\">https://www.oslo.kommune.no/plan-bygg-og-eiendom/</div>"
+						},
+						{
+							"nr": "36",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000190",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Servitutter / tinglyste rettigheter og forpliktelser",
+							"tekst": "Ingen servitutter eller heftelser av antatt betydning. Grunnbok kan ses hos megler.",
+							"htmltekst": "<div align=\"left\">Ingen servitutter eller heftelser av antatt betydning. Grunnbok kan ses hos megler.</div>"
+						},
+						{
+							"nr": "37",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000193",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Vei/vann/avløp",
+							"tekst": "Offentlig.",
+							"htmltekst": "<div align=\"left\">Offentlig.</div>"
+						},
+						{
+							"nr": "38",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000196",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Sameie",
+							"tekst": "Sameiet har egen hjemmeside: http://www.lillonydalen.no/\r\n\r\nSameiet består av 227 boliger og 5 næringsseksjoner.",
+							"htmltekst": "<div align=\"left\">Sameiet har egen hjemmeside: http://www.lillonydalen.no/</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Sameiet best&#229;r av 227 boliger og 5 n&#230;ringsseksjoner.</div>"
+						},
+						{
+							"nr": "39",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000205",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Fellesgjeld / lånevilkår",
+							"tekst": "Sameiet har ingen langsiktig gjeld.\r\n\r\nI en tolkningsuttalelse har toll og avgiftsdirektoratet lagt til grunn at salgsverdi pluss andel fellesgjeld er seksjonens fulle verdi. Det skal følgelig beregnes, og betales, dokumentavgift også for seksjonens andel av fellesgjeld i sameiet.",
+							"htmltekst": "<div align=\"left\">Sameiet har ingen langsiktig gjeld.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">I en tolkningsuttalelse har toll og avgiftsdirektoratet lagt til grunn at salgsverdi pluss andel fellesgjeld er \r\nseksjonens fulle verdi. Det skal f&#248;lgelig beregnes, og betales, dokumentavgift ogs&#229; for seksjonens andel \r\nav fellesgjeld i sameiet.</div>"
+						},
+						{
+							"nr": "40",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000209",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Forsikring",
+							"tekst": "Sameiets eiendommer er fullverdiforsikret i W.R. Berkley Insurance Nordic, polisenummer: 202735",
+							"htmltekst": "<div align=\"left\">Sameiets eiendommer er fullverdiforsikret i W.R. Berkley Insurance Nordic, polisenummer: 202735</div>"
+						},
+						{
+							"nr": "41",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000217",
+							"gruppenavn": "Offentlige forhold",
+							"overskrift": "Husdyrhold",
+							"tekst": "Det er tillatt å holde dyr så lenge dyreholdet ikke er til sjenanse eller ulempe for de øvrige beboerne. Se sameiets husordensregler § 11 for mer informasjon.",
+							"htmltekst": "<div align=\"left\">Det er tillatt &#229; holde dyr s&#229; lenge dyreholdet ikke er til sjenanse eller ulempe for de &#248;vrige beboerne. Se \r\nsameiets husordensregler &#167; 11 for mer informasjon.</div>"
+						},
+						{
+							"nr": "42",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000230",
+							"gruppenavn": "Diverse",
+							"overskrift": "Tilbehør",
+							"tekst": "Det gjøres spesielt oppmerksom på at boligens tilbehør og løsøre ikke medfølger handelen med mindre dette fremkommer av nærværende prospekt. Hvitevarer som ikke er integrert i innredningen, medfølger ikke i handelen. Fastmontert og innebygget kjøkken- og baderomsinnredning følger boligen. Med mindre annet er spesifisert i salgsoppgaven gjelder NEFs normgivende liste over løsøre og tilbehør.",
+							"htmltekst": "<div align=\"left\">Det gj&#248;res spesielt oppmerksom p&#229; at boligens tilbeh&#248;r og l&#248;s&#248;re ikke medf&#248;lger handelen med mindre \r\ndette fremkommer av n&#230;rv&#230;rende prospekt. Hvitevarer som ikke er integrert i innredningen, medf&#248;lger \r\nikke i handelen. Fastmontert og innebygget kj&#248;kken- og baderomsinnredning f&#248;lger boligen. Med mindre \r\nannet er spesifisert i salgsoppgaven gjelder NEFs normgivende liste over l&#248;s&#248;re og tilbeh&#248;r.</div>"
+						},
+						{
+							"nr": "43",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000233",
+							"gruppenavn": "Diverse",
+							"overskrift": "Boligselgerforsikring",
+							"tekst": "Selger har ikke tegnet boligselgerforsikring. Selgers egenerklæringsskjema følger vedlagt i salgsoppgaven.",
+							"htmltekst": "<div align=\"left\">Selger har ikke tegnet boligselgerforsikring. Selgers egenerkl&#230;ringsskjema f&#248;lger vedlagt i \r\nsalgsoppgaven.</div>"
+						},
+						{
+							"nr": "44",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000234",
+							"gruppenavn": "Diverse",
+							"overskrift": "Boligkjøperpakke / Boligkjøperforsikring",
+							"tekst": "Partners har i samarbeid med If lansert et nytt og gunstig forsikringskonsept for deg som kunde. Dette innebærer at du får alle relevante dekninger inkludert til en meget konkurransedyktig pris. \r\n\r\nKjøper (ikke juridiske personer) har anledning til å tegne Boligkjøperpakken. Denne kan inkludere bl.a. Husforsikring, Innboforsikring, Dobbel rente dekning, Flytteforsikring og Boligkjøperforsikring. Boligkjøperpakken må senest tegnes på kontraktsmøte og prisen avhenger av boligtypen. Ta kontakt for ytterligere informasjon.",
+							"htmltekst": "<div align=\"left\">Partners har i samarbeid med If lansert et nytt og gunstig forsikringskonsept for deg som kunde. Dette \r\ninneb&#230;rer at du f&#229;r alle relevante dekninger inkludert til en meget konkurransedyktig pris. </div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Kj&#248;per (ikke juridiske personer) har anledning til &#229; tegne Boligkj&#248;perpakken. Denne kan inkludere bl.a. \r\nHusforsikring, Innboforsikring, Dobbel rente dekning, Flytteforsikring og Boligkj&#248;perforsikring. \r\nBoligkj&#248;perpakken m&#229; senest tegnes p&#229; kontraktsm&#248;te og prisen avhenger av boligtypen. Ta kontakt for \r\nytterligere informasjon.</div>"
+						},
+						{
+							"nr": "45",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000236",
+							"gruppenavn": "Diverse",
+							"overskrift": "Budgivning",
+							"tekst": "Alle bud skal inngis skriftlig til megler. Det første budet skal inngis på budskjema påført budgivers signatur. I tillegg må budgiver ha legitimert seg. Senere bud kan inngis per e-post til: ed@schalapartners.no eller SMS: 40 08 78 00 til megler. Bud kan også inngis via budgivningsplattform på nett eller app. Velges denne løsning, er det ikke krav til å sende det første budet på budskjema. Megler skal så snart som mulig bekrefte skriftlig ovenfor budgiver at bud er mottatt. Bud som ikke er skriftlig, eller som har kortere akseptfrist enn til kl. 12.00 dagen etter siste annonserte visning, vil ikke bli formidlet til selger. Et bud er bindende for budgiver når budet er kommet til selgers kunnskap. Selger står fritt til å akseptere eller forkaste ethvert bud, og er således ikke forpliktet til å akseptere det høyeste budet på eiendommen. Megler skal, i den grad det er nødvending og mulig, informere de involverte i budrunden skriftlig om status i budgivningen. Megler er forpliktet til å legge til rette for en forsvarlig avvikling av budrunden, og for at budene skal kunne bli behandlet og videreformidlet skriftlig til alle involverte parter, må ethvert bud ha en tilstrekkelig lang akseptfrist. Selger må skriftlig akseptere budet før budaksept kan formidles til budgiver. Budforhøyelser skal derfor ha akseptfrist på minimum 30 minutter fra budet inngis. For at megler skal kunne avholde forsvarlig budrunde, bes det om at bud gis i god tid før budfristen. Selger og kjøper har krav på å få utlevert kopi av budjournalen straks etter at handel er kommet i stand. Alle som har inngitt bud på eiendommen kan på forespørsel få en kopi av anonymisert budjournal etter at budrunden er avsluttet. For øvrig vises til det \"Forbrukerinformasjon om budgivning\", som er inntatt i salgsoppgaven.",
+							"htmltekst": "<div align=\"left\">Alle bud skal inngis skriftlig til megler. Det f&#248;rste budet skal inngis p&#229; budskjema p&#229;f&#248;rt budgivers \r\nsignatur. I tillegg m&#229; budgiver ha legitimert seg. Senere bud kan inngis per e-post til: \r\ned@schalapartners.no eller SMS: 40 08 78 00 til megler. Bud kan ogs&#229; inngis via budgivningsplattform \r\np&#229; nett eller app. Velges denne l&#248;sning, er det ikke krav til &#229; sende det f&#248;rste budet p&#229; budskjema. Megler \r\nskal s&#229; snart som mulig bekrefte skriftlig ovenfor budgiver at bud er mottatt. Bud som ikke er skriftlig, eller \r\nsom har kortere akseptfrist enn til kl. 12.00 dagen etter siste annonserte visning, vil ikke bli formidlet til \r\nselger. Et bud er bindende for budgiver n&#229;r budet er kommet til selgers kunnskap. Selger st&#229;r fritt til &#229; \r\nakseptere eller forkaste ethvert bud, og er s&#229;ledes ikke forpliktet til &#229; akseptere det h&#248;yeste budet p&#229; \r\neiendommen. Megler skal, i den grad det er n&#248;dvending og mulig, informere de involverte i budrunden \r\nskriftlig om status i budgivningen. Megler er forpliktet til &#229; legge til rette for en forsvarlig avvikling av \r\nbudrunden, og for at budene skal kunne bli behandlet og videreformidlet skriftlig til alle involverte parter, \r\nm&#229; ethvert bud ha en tilstrekkelig lang akseptfrist. Selger m&#229; skriftlig akseptere budet f&#248;r budaksept kan \r\nformidles til budgiver. Budforh&#248;yelser skal derfor ha akseptfrist p&#229; minimum 30 minutter fra budet inngis. \r\nFor at megler skal kunne avholde forsvarlig budrunde, bes det om at bud gis i god tid f&#248;r budfristen. \r\nSelger og kj&#248;per har krav p&#229; &#229; f&#229; utlevert kopi av budjournalen straks etter at handel er kommet i stand. \r\nAlle som har inngitt bud p&#229; eiendommen kan p&#229; foresp&#248;rsel f&#229; en kopi av anonymisert budjournal etter at \r\nbudrunden er avsluttet. For &#248;vrig vises til det &quot;Forbrukerinformasjon om budgivning&quot;, som er inntatt i \r\nsalgsoppgaven.</div>"
+						},
+						{
+							"nr": "46",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000244",
+							"gruppenavn": "Diverse",
+							"overskrift": "Overtagelse",
+							"tekst": "Etter avtale.",
+							"htmltekst": "<div align=\"left\">Etter avtale.</div>"
+						},
+						{
+							"nr": "47",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000249",
+							"gruppenavn": "Diverse",
+							"overskrift": "Diverse",
+							"tekst": "Alle innvendige og utvendige arealangivelser, samt beskrivelser av bygningen er hentet fra vedlagte tilstandsrapport. Salgsoppgaven er basert på selgers opplysninger gitt til takstmann, megler og opplysninger innhentet fra kommunen, eventuelt forretningsfører og andre tilgjengelige kilder. Interessenter oppfordres til å undersøke eiendommen godt, gjerne sammen med sakkyndig, før bud inngis. Det er ikke kontrollert om tomtegrensene stemmer med de grenser/gjerde som fysisk er satt. Det kan være avvik fra dagens rombruk/rombenevnelse i forhold til det opprinnelige byggemeldte/godkjente.\r\n\r\nMeglerforetaket oppfordrer evt. budgivere til å lese gjennom fullstendig prospekt/salgsoppgave med vedlegg.",
+							"htmltekst": "<div align=\"left\">Alle innvendige og utvendige arealangivelser, samt beskrivelser av bygningen er hentet fra vedlagte \r\ntilstandsrapport. Salgsoppgaven er basert p&#229; selgers opplysninger gitt til takstmann, megler og \r\nopplysninger innhentet fra kommunen, eventuelt forretningsf&#248;rer og andre tilgjengelige kilder. \r\nInteressenter oppfordres til &#229; unders&#248;ke eiendommen godt, gjerne sammen med sakkyndig, f&#248;r bud \r\ninngis. Det er ikke kontrollert om tomtegrensene stemmer med de grenser/gjerde som fysisk er satt. Det \r\nkan v&#230;re avvik fra dagens rombruk/rombenevnelse i forhold til det opprinnelige byggemeldte/godkjente.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Meglerforetaket oppfordrer evt. budgivere til &#229; lese gjennom fullstendig prospekt/salgsoppgave med \r\nvedlegg.</div>"
+						},
+						{
+							"nr": "48",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000248",
+							"gruppenavn": "Diverse",
+							"overskrift": "Hvitvaskingsloven",
+							"tekst": "Eiendomsmeglere er fra 1/1-2004 underlagt hvitvaskings-loven. Dette innebærer at eiendomsmegler er forpliktet til å melde mistanke om forsøk på hvitvasking til ØKOKRIM.",
+							"htmltekst": "<div align=\"left\">Eiendomsmeglere er fra 1/1-2004 underlagt hvitvaskings-loven. Dette inneb&#230;rer at eiendomsmegler er \r\nforpliktet til &#229; melde mistanke om fors&#248;k p&#229; hvitvasking til &#216;KOKRIM.</div>"
+						},
+						{
+							"nr": "49",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000259",
+							"gruppenavn": "Diverse",
+							"overskrift": "Solgt 'as is' / Salgsbetingelser",
+							"tekst": "Eiendommen selges som den er, det vil si i den stand den forelå ved besiktigelse, jfr. Lov av 3. juli 1992 nr. 93 om avhending av fast eiendom (avhl.) , § 3-9 hvor det heter: Eigedom selt \"som han er\" el. - Endå om eigedomen er selt \"som han er\" eller med liknande allment atterhald, har eigedomen likevel mangel der dette følger av §§ 3-7 eller 3-8. Eigedomen har også mangel dersom han er i vesentlig ringare stand enn kjøparen hadde grunn til å rekne med ut frå kjøpesummen og tilhøva elles. Kjøper kan derfor ikke påberope seg noen andre bestemmelser etter avhl. kapittel 3, enn det som følger direkte av § 3-9. Dette reduserer selgers ansvar etter avhendingsloven og vil være en del av kontraktsvilkårene, dersom man ikke reserverer seg mot avhl. § 3-9 ved budgiving.\r\n\r\nSelgeren er ikke kjent med at eiendommen er beheftet med mangler i relasjon til offentligrettslige krav utover det som opplyst tidligere, jfr. avhendingslovens, § 3-2. Skulle det vise seg at slike krav likevel ikke er oppfylt, er selgeren ikke ansvarlig for disse.\r\n\r\nMed henvisning til Avhendingslovens § 3-10, oppfordres kjøper til å undersøke eiendommen grundig og gjerne med fagmann før avtale inngås (aksept av bud).",
+							"htmltekst": "<div align=\"left\">Eiendommen selges som den er, det vil si i den stand den forel&#229; ved besiktigelse, jfr. Lov av 3. juli 1992 \r\nnr. 93 om avhending av fast eiendom (avhl.) , &#167; 3-9 hvor det heter: Eigedom selt &quot;som han er&quot; el. - End&#229; \r\nom eigedomen er selt &quot;som han er&quot; eller med liknande allment atterhald, har eigedomen likevel mangel \r\nder dette f&#248;lger av &#167;&#167; 3-7 eller 3-8. Eigedomen har ogs&#229; mangel dersom han er i vesentlig ringare stand \r\nenn kj&#248;paren hadde grunn til &#229; rekne med ut fr&#229; kj&#248;pesummen og tilh&#248;va elles. Kj&#248;per kan derfor ikke \r\np&#229;berope seg noen andre bestemmelser etter avhl. kapittel 3, enn det som f&#248;lger direkte av &#167; 3-9. Dette \r\nreduserer selgers ansvar etter avhendingsloven og vil v&#230;re en del av kontraktsvilk&#229;rene, dersom man \r\nikke reserverer seg mot avhl. &#167; 3-9 ved budgiving.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Selgeren er ikke kjent med at eiendommen er beheftet med mangler i relasjon til offentligrettslige krav \r\nutover det som opplyst tidligere, jfr. avhendingslovens, &#167; 3-2. Skulle det vise seg at slike krav likevel ikke \r\ner oppfylt, er selgeren ikke ansvarlig for disse.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">Med henvisning til Avhendingslovens &#167; 3-10, oppfordres kj&#248;per til &#229; unders&#248;ke eiendommen grundig og \r\ngjerne med fagmann f&#248;r avtale inng&#229;s (aksept av bud).</div>"
+						},
+						{
+							"nr": "50",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000260",
+							"gruppenavn": "Diverse",
+							"overskrift": "Eierseksjonsloven",
+							"tekst": "Det opplyses om at ingen kan eie mer enn to boligseksjoner i sameiet, jfr. Lov om eierseksjoner §23",
+							"htmltekst": "<div align=\"left\">Det opplyses om at ingen kan eie mer enn to boligseksjoner i sameiet, jfr. Lov om eierseksjoner &#167;23</div>"
+						},
+						{
+							"nr": "51",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000258",
+							"gruppenavn": "Diverse",
+							"overskrift": "Avhendingsloven",
+							"tekst": "Frivillig salg av fast eiendom reguleres av Lov om avhending av fast eiendom av 3. juli 1992 nr. 93.",
+							"htmltekst": "<div align=\"left\">Frivillig salg av fast eiendom reguleres av Lov om avhending av fast eiendom av 3. juli 1992 nr. 93.</div>"
+						},
+						{
+							"nr": "52",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000257",
+							"gruppenavn": "Diverse",
+							"overskrift": "Finansiering",
+							"tekst": "Vi har løpende kontakt med finansinstitusjoner som kan tilby lån med konkurransedyktige betingelser. Hvis ønskelig formidler vi gjerne kontakt.",
+							"htmltekst": "<div align=\"left\">Vi har l&#248;pende kontakt med finansinstitusjoner som kan tilby l&#229;n med konkurransedyktige betingelser. \r\nHvis &#248;nskelig formidler vi gjerne kontakt.</div>"
+						},
+						{
+							"nr": "53",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000255",
+							"gruppenavn": "Diverse",
+							"overskrift": "Heftelser",
+							"tekst": "Legalpant tilsvarende 2 G for panterett til sameiet.\r\nIht. lov om Eierseksjonssameier §30, er sameierne overfor sameiets kreditorer ansvarlig i forhold til sin sameiebrøk. Ved manglende betaling av fellesutgifter har sameiet lovbestemt pantesikkerhet i den enkelte eierseksjon inntil 2 gang folketrygdens grunnbeløp.\r\n\r\nPå eiendommen kan det være tinglyst erklæringer/avtaler som for eksempel rett til kommunen til å anlegge vann- og kloakkledninger inkl. reparasjon av disse, bestemmelser om bebyggelsen, gjerder, vei og adkomstrettigheter. Disse erklæringene/avtalene vil følge eiendommen ved salg, og kan ikke slettes. Vennligst ta kontakt med megler for nærmere spesifikasjon av disse.",
+							"htmltekst": "<div align=\"left\">Legalpant tilsvarende 2 G for panterett til sameiet.</div>\r\n<div align=\"left\">Iht. lov om Eierseksjonssameier &#167;30, er sameierne overfor sameiets kreditorer ansvarlig i forhold til sin \r\nsameiebr&#248;k. Ved manglende betaling av fellesutgifter har sameiet lovbestemt pantesikkerhet i den \r\nenkelte eierseksjon inntil 2 gang folketrygdens grunnbel&#248;p.</div>\r\n<div align=\"left\"><br />\r\n</div>\r\n<div align=\"left\">P&#229; eiendommen kan det v&#230;re tinglyst erkl&#230;ringer/avtaler som for eksempel rett til kommunen til &#229; \r\nanlegge vann- og kloakkledninger inkl. reparasjon av disse, bestemmelser om bebyggelsen, gjerder, vei \r\nog adkomstrettigheter. Disse erkl&#230;ringene/avtalene vil f&#248;lge eiendommen ved salg, og kan ikke slettes. \r\nVennligst ta kontakt med megler for n&#230;rmere spesifikasjon av disse.</div>"
+						},
+						{
+							"nr": "54",
+							"visinettportaler": "-1",
+							"compositeTextId": "3000297",
+							"gruppenavn": "Diverse",
+							"overskrift": "Meglers vederlag",
+							"tekst": "Om meglers vederlag er det avtalt 1 % av salgssummen .I tillegg er det avtalt vederlag for oppgjør kr. 5.490,-, tilrettelegging kr 8 990,-, internettannonsering kr. 14.990,-. For visninger er det avtalt kr. 25.00,- i direkte utlegg. Alle tall i dette avsnitt er opplyst inklusive mva.",
+							"htmltekst": "<div align=\"left\">Om meglers vederlag er det avtalt 1 % av salgssummen .I tillegg er det avtalt vederlag for oppgj&#248;r kr. \r\n5.490,-, tilrettelegging kr 8 990,-, internettannonsering kr. 14.990,-. For visninger er det avtalt kr. 25.00,- i \r\ndirekte utlegg. Alle tall i dette avsnitt er opplyst inklusive mva.</div>"
+						}
+					]
+				}
+			],
+			"visninger": [
+				{
+					"visning": [
+						{
+							"nr": "1",
+							"id": "3384079",
+							"fra": "12.05.2019 16:30",
+							"til": "12.05.2019 17:30"
+						}
+					]
+				}
+			],
+			"bilder": [
+				{
+					"bilde": [
+						{
+							"nr": "1",
+							"id": "3182178",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182178_1-jnvavd.jpg",
+							"thumbnailfil": "3182178_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182178_1-jnvavc.jpg",
+							"litebildefil": "3182178_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182178_1-jnvavb.jpg",
+							"standardbildefil": "3182178_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182178_1-jnvavb1.jpg",
+							"storthumbnailfil": "3182178_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182178_1-jnvava.jpg",
+							"originalbildefil": "3182178_1a.jpg",
+							"overskrift": "Velkommen til Fernanda Nissens gate 3D!",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "2",
+							"id": "3182040",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182040_1-vjlscd.jpg",
+							"thumbnailfil": "3182040_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182040_1-vjlscc.jpg",
+							"litebildefil": "3182040_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182040_1-vjlscb.jpg",
+							"standardbildefil": "3182040_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182040_1-vjlscb1.jpg",
+							"storthumbnailfil": "3182040_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182040_1-vjlsca.jpg",
+							"originalbildefil": "3182040_1a.jpg",
+							"overskrift": "Planskisse",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "1240",
+							"height": "1754"
+						},
+						{
+							"nr": "3",
+							"id": "3182161",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182161_1-qenuqd.jpg",
+							"thumbnailfil": "3182161_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182161_1-qenuqc.jpg",
+							"litebildefil": "3182161_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182161_1-qenuqb.jpg",
+							"standardbildefil": "3182161_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182161_1-qenuqb1.jpg",
+							"storthumbnailfil": "3182161_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182161_1-qenuqa.jpg",
+							"originalbildefil": "3182161_1a.jpg",
+							"overskrift": "Vestvendt balkong med meget god utsikt!",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "4",
+							"id": "3182158",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182158_1-tijnwd.jpg",
+							"thumbnailfil": "3182158_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182158_1-tijnwc.jpg",
+							"litebildefil": "3182158_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182158_1-tijnwb.jpg",
+							"standardbildefil": "3182158_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182158_1-tijnwb1.jpg",
+							"storthumbnailfil": "3182158_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182158_1-tijnwa.jpg",
+							"originalbildefil": "3182158_1a.jpg",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "5",
+							"id": "3182160",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182160_1-wsfzjd.jpg",
+							"thumbnailfil": "3182160_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182160_1-wsfzjc.jpg",
+							"litebildefil": "3182160_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182160_1-wsfzjb.jpg",
+							"standardbildefil": "3182160_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182160_1-wsfzjb1.jpg",
+							"storthumbnailfil": "3182160_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182160_1-wsfzja.jpg",
+							"originalbildefil": "3182160_1a.jpg",
+							"overskrift": "Balkongen er på hele 10,5 kvm.",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "6",
+							"id": "3182159",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182159_1-thkjid.jpg",
+							"thumbnailfil": "3182159_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182159_1-thkjic.jpg",
+							"litebildefil": "3182159_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182159_1-thkjib.jpg",
+							"standardbildefil": "3182159_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182159_1-thkjib1.jpg",
+							"storthumbnailfil": "3182159_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182159_1-thkjia.jpg",
+							"originalbildefil": "3182159_1a.jpg",
+							"overskrift": "God plass til grill og sittegruppe",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "7",
+							"id": "3182180",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182180_1-ydyxld.jpg",
+							"thumbnailfil": "3182180_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182180_1-ydyxlc.jpg",
+							"litebildefil": "3182180_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182180_1-ydyxlb.jpg",
+							"standardbildefil": "3182180_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182180_1-ydyxlb1.jpg",
+							"storthumbnailfil": "3182180_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182180_1-ydyxla.jpg",
+							"originalbildefil": "3182180_1a.jpg",
+							"overskrift": "Meget fin åpen/stue kjøkken løsning",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "8",
+							"id": "3182179",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182179_1-dyifzd.jpg",
+							"thumbnailfil": "3182179_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182179_1-dyifzc.jpg",
+							"litebildefil": "3182179_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182179_1-dyifzb.jpg",
+							"standardbildefil": "3182179_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182179_1-dyifzb1.jpg",
+							"storthumbnailfil": "3182179_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182179_1-dyifza.jpg",
+							"originalbildefil": "3182179_1a.jpg",
+							"overskrift": "God plass til sofagruppe",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "9",
+							"id": "3182173",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182173_1-msndvd.jpg",
+							"thumbnailfil": "3182173_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182173_1-msndvc.jpg",
+							"litebildefil": "3182173_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182173_1-msndvb.jpg",
+							"standardbildefil": "3182173_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182173_1-msndvb1.jpg",
+							"storthumbnailfil": "3182173_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182173_1-msndva.jpg",
+							"originalbildefil": "3182173_1a.jpg",
+							"overskrift": "Stilrent HTH-kjøkken",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "10",
+							"id": "3182172",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182172_1-wmovdd.jpg",
+							"thumbnailfil": "3182172_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182172_1-wmovdc.jpg",
+							"litebildefil": "3182172_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182172_1-wmovdb.jpg",
+							"standardbildefil": "3182172_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182172_1-wmovdb1.jpg",
+							"storthumbnailfil": "3182172_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182172_1-wmovda.jpg",
+							"originalbildefil": "3182172_1a.jpg",
+							"overskrift": "Intregerte hvitevarer",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "3280",
+							"height": "4920"
+						},
+						{
+							"nr": "11",
+							"id": "3182157",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182157_1-xvugrd.jpg",
+							"thumbnailfil": "3182157_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182157_1-xvugrc.jpg",
+							"litebildefil": "3182157_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182157_1-xvugrb.jpg",
+							"standardbildefil": "3182157_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182157_1-xvugrb1.jpg",
+							"storthumbnailfil": "3182157_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182157_1-xvugra.jpg",
+							"originalbildefil": "3182157_1a.jpg",
+							"overskrift": "Romslig soverom",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "12",
+							"id": "3182156",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182156_1-ehruhd.jpg",
+							"thumbnailfil": "3182156_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182156_1-ehruhc.jpg",
+							"litebildefil": "3182156_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182156_1-ehruhb.jpg",
+							"standardbildefil": "3182156_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182156_1-ehruhb1.jpg",
+							"storthumbnailfil": "3182156_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182156_1-ehruha.jpg",
+							"originalbildefil": "3182156_1a.jpg",
+							"overskrift": "Garderobeskap medfølger",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "13",
+							"id": "3182177",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182177_1-zuqqod.jpg",
+							"thumbnailfil": "3182177_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182177_1-zuqqoc.jpg",
+							"litebildefil": "3182177_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182177_1-zuqqob.jpg",
+							"standardbildefil": "3182177_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182177_1-zuqqob1.jpg",
+							"storthumbnailfil": "3182177_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182177_1-zuqqoa.jpg",
+							"originalbildefil": "3182177_1a.jpg",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "14",
+							"id": "3182171",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182171_1-fumpgd.jpg",
+							"thumbnailfil": "3182171_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182171_1-fumpgc.jpg",
+							"litebildefil": "3182171_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182171_1-fumpgb.jpg",
+							"standardbildefil": "3182171_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182171_1-fumpgb1.jpg",
+							"storthumbnailfil": "3182171_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182171_1-fumpga.jpg",
+							"originalbildefil": "3182171_1a.jpg",
+							"overskrift": "Entré - velkommen inn!",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "15",
+							"id": "3182170",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182170_1-jzaqgd.jpg",
+							"thumbnailfil": "3182170_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182170_1-jzaqgc.jpg",
+							"litebildefil": "3182170_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182170_1-jzaqgb.jpg",
+							"standardbildefil": "3182170_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182170_1-jzaqgb1.jpg",
+							"storthumbnailfil": "3182170_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182170_1-jzaqga.jpg",
+							"originalbildefil": "3182170_1a.jpg",
+							"overskrift": "Stor entré",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "16",
+							"id": "3182166",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182166_1-pmyrsd.jpg",
+							"thumbnailfil": "3182166_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182166_1-pmyrsc.jpg",
+							"litebildefil": "3182166_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182166_1-pmyrsb.jpg",
+							"standardbildefil": "3182166_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182166_1-pmyrsb1.jpg",
+							"storthumbnailfil": "3182166_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182166_1-pmyrsa.jpg",
+							"originalbildefil": "3182166_1a.jpg",
+							"overskrift": "Lekkert flislagt bad",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "17",
+							"id": "3182167",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182167_1-pnudhd.jpg",
+							"thumbnailfil": "3182167_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182167_1-pnudhc.jpg",
+							"litebildefil": "3182167_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182167_1-pnudhb.jpg",
+							"standardbildefil": "3182167_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182167_1-pnudhb1.jpg",
+							"storthumbnailfil": "3182167_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182167_1-pnudha.jpg",
+							"originalbildefil": "3182167_1a.jpg",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "3280",
+							"height": "4920"
+						},
+						{
+							"nr": "18",
+							"id": "3182169",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182169_1-stbiod.jpg",
+							"thumbnailfil": "3182169_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182169_1-stbioc.jpg",
+							"litebildefil": "3182169_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182169_1-stbiob.jpg",
+							"standardbildefil": "3182169_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182169_1-stbiob1.jpg",
+							"storthumbnailfil": "3182169_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182169_1-stbioa.jpg",
+							"originalbildefil": "3182169_1a.jpg",
+							"overskrift": "Opplegg for vaskemaskin",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "19",
+							"id": "3177404",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\4\\3177404_1-dwqwgd.jpg",
+							"thumbnailfil": "3177404_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\4\\3177404_1-dwqwgc.jpg",
+							"litebildefil": "3177404_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\4\\3177404_1-dwqwgb.jpg",
+							"standardbildefil": "3177404_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\4\\3177404_1-dwqwgb1.jpg",
+							"storthumbnailfil": "3177404_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\4\\3177404_1-dwqwga.jpg",
+							"originalbildefil": "3177404_1a.jpg",
+							"overskrift": "Fasade",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "4920",
+							"height": "3280"
+						},
+						{
+							"nr": "20",
+							"id": "3182165",
+							"versjon": "1",
+							"urlthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182165_1-yiubwd.jpg",
+							"thumbnailfil": "3182165_1d.jpg",
+							"urllitebilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182165_1-yiubwc.jpg",
+							"litebildefil": "3182165_1c.jpg",
+							"urlstandardbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182165_1-yiubwb.jpg",
+							"standardbildefil": "3182165_1b.jpg",
+							"urlstorthumbnail": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182165_1-yiubwb1.jpg",
+							"storthumbnailfil": "3182165_1b1.jpg",
+							"urloriginalbilde": "https://external.webmegler.no/wngetbilde.ashx?/abilde/k343/f\\bilder\\2019\\3000008\\5\\3182165_1-yiubwa.jpg",
+							"originalbildefil": "3182165_1a.jpg",
+							"overskrift": "Fasade",
+							"type_navn": "01.Fasade",
+							"type_bilde": "3100",
+							"width": "3280",
+							"height": "4920"
+						}
+					]
+				}
+			],
+			"dokumenter": [
+				{
+					"dokument": [
+						{
+							"nr": "1",
+							"autoprospekt": "1",
+							"id": "3442982",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/apdokument/i3442982/ptpsrr",
+							"filtype": "pdf",
+							"navn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"mappenavn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"type_dokumentkategorier": "Ferdig salgsoppgave (pdf)",
+							"nettpublisert": "-1",
+							"checksum": "sha1=3E-9D-BB-26-07-9D-6B-B6-2C-BB-F8-3A-D4-31-EA-D6-B2-1E-39-7A"
+						}
+					]
+				}
+			],
+			"alledokumenter": [
+				{
+					"dokument": [
+						{
+							"nr": "1",
+							"autoprospekt": "0",
+							"id": "3436903",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436903/pwvpsqztplm",
+							"filtype": "pdf",
+							"navn": "1-1259 Sameiet Lillo Nydalen husordensregler DJN 2017044065 ( 454070 )",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "2",
+							"autoprospekt": "0",
+							"id": "3436904",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436904/pulldpotmxo",
+							"filtype": "pdf",
+							"navn": "1-1259 Sameiet Lillo Nydalen Protokoll ekstraordinært årsmøte 15.11.2018 DJN 2018041856 ( 501217 )",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "3",
+							"autoprospekt": "0",
+							"id": "3436905",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436905/pkpahnomvcn",
+							"filtype": "pdf",
+							"navn": "1-1259 Sameiet Lillo Nydalen Vedtekter oppdatert 19 april 2018 DJN 2018019481 ( 478200 )",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "4",
+							"autoprospekt": "0",
+							"id": "3436906",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436906/pzdjzajcusz",
+							"filtype": "pdf",
+							"navn": "1-Sameiet Lillo Nydalen- Innkalling til ekstraordinært sameiermøte 15.11.2018 DJN 2018040674 ( 50002",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "5",
+							"autoprospekt": "0",
+							"id": "3436907",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436907/pparjwtbmwr",
+							"filtype": "pdf",
+							"navn": "2-1259 Sameiet Lillo Nydalen innkalling årsmøte 19.4.18 DJN 2018014831 ( 473331 )",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "6",
+							"autoprospekt": "0",
+							"id": "3436908",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3436908/pwifkcyvptt",
+							"filtype": "pdf",
+							"navn": "5-1259 Sameiet Lillo Nydalen protokoll årsmøte 19.4.18 DJN 2018014830 ( 473330 )",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "7",
+							"autoprospekt": "0",
+							"id": "3433912",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433912/peuprupxadm",
+							"filtype": "pdf",
+							"navn": "Arealbekreftelse",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "8",
+							"autoprospekt": "0",
+							"id": "3442241",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3442241/pldegeueugv",
+							"filtype": "pdf",
+							"navn": "Energiattest_Fernanda Nissens gate 3D",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "9",
+							"autoprospekt": "0",
+							"id": "3433896",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433896/pwseiwywenu",
+							"filtype": "pdf",
+							"navn": "Fernanda Nissens gate 3 A-D - Oppføring to boligblokker - Brukstillatelse (Bolig- og næringsareal by",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "10",
+							"autoprospekt": "0",
+							"id": "3433913",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433913/pevtqnffpbq",
+							"filtype": "pdf",
+							"navn": "Ligningsverdi",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "11",
+							"autoprospekt": "0",
+							"id": "3443054",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3443054/pfrhzzrpzbc",
+							"filtype": "pdf",
+							"navn": "Rapport_0033698981905070647051078",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "12",
+							"autoprospekt": "0",
+							"id": "3433911",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433911/pktckxzhjtq",
+							"filtype": "pdf",
+							"navn": "Reguleringskart",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "13",
+							"autoprospekt": "0",
+							"id": "3435098",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3435098/pecyyfnjypi",
+							"filtype": "pdf",
+							"navn": "signert oppdragsavtale elektronisk",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "14",
+							"autoprospekt": "0",
+							"id": "3438774",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3438774/ppisljdmxxz",
+							"filtype": "pdf",
+							"navn": "Vurdering prisantydning",
+							"mappenavn": "Annet",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "15",
+							"autoprospekt": "0",
+							"id": "3442981",
+							"versjon": "3",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3442981/pqxffafzgii",
+							"filtype": "msg",
+							"navn": "Godkjenning salgsoppgave",
+							"mappenavn": "Epost",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "16",
+							"autoprospekt": "0",
+							"id": "3441718",
+							"versjon": "12",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3441718/pdglwcpsbui",
+							"filtype": "html",
+							"navn": "Kort om eiendommen",
+							"mappenavn": "Finn.no",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "17",
+							"autoprospekt": "0",
+							"id": "3429848",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3429848/pwsgvg",
+							"filtype": "pdf",
+							"navn": "Nabolagsprofil",
+							"mappenavn": "Fra Eiendomsprofil.no",
+							"type_dokumentkategorier": "Nabolagsprofil",
+							"nettpublisert": "0",
+							"checksum": "sha1=2B-E2-90-DB-F5-6F-75-AF-AE-7F-53-4C-DB-CF-8C-99-37-47-E9-0C"
+						},
+						{
+							"nr": "18",
+							"autoprospekt": "0",
+							"id": "3429849",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3429849/pzmfwi",
+							"filtype": "xml",
+							"navn": "Nabolagsprofil JSON",
+							"mappenavn": "Fra Eiendomsprofil.no\\json",
+							"type_dokumentkategorier": "Nabolagsprofil",
+							"nettpublisert": "0",
+							"checksum": "sha1=E1-87-65-2B-25-71-EE-0B-DD-3B-EA-9B-A2-16-C7-C6-C9-EF-45-1C"
+						},
+						{
+							"nr": "19",
+							"autoprospekt": "0",
+							"id": "3439690",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3439690/pqlvsm",
+							"filtype": "pdf",
+							"navn": "Egenerklæringsskjema (signert)",
+							"mappenavn": "Fra Idfy",
+							"type_dokumentkategorier": "Egenerklæring",
+							"nettpublisert": "0",
+							"checksum": "sha1=A5-BA-D6-E2-F2-00-89-5F-C9-90-FF-60-0E-D1-99-6E-10-69-85-C9"
+						},
+						{
+							"nr": "20",
+							"autoprospekt": "0",
+							"id": "3435322",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3435322/pmavkh",
+							"filtype": "pdf",
+							"navn": "116_boliginfo20190417.pdf",
+							"mappenavn": "Fra Infoland",
+							"nettpublisert": "0",
+							"checksum": "sha1=EB-FE-B4-B7-FF-AA-D1-6B-15-F6-D3-3B-A8-9E-45-16-09-DE-59-D5"
+						},
+						{
+							"nr": "21",
+							"autoprospekt": "0",
+							"id": "3435323",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3435323/pgsgor",
+							"filtype": "pdf",
+							"navn": "Infoskriv - Sameier.pdf",
+							"mappenavn": "Fra Infoland",
+							"nettpublisert": "0",
+							"checksum": "sha1=A4-09-FF-F2-8C-E2-D9-FE-B0-6F-FC-99-7C-A4-70-BD-A3-AD-45-F0"
+						},
+						{
+							"nr": "22",
+							"autoprospekt": "0",
+							"id": "3433895",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433895/pkfiunwnatq",
+							"filtype": "json",
+							"navn": "Ubekreftet grunnboksrapport inkl eiendommens rettigheter",
+							"mappenavn": "Norkart",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "23",
+							"autoprospekt": "0",
+							"id": "3429889",
+							"versjon": "2",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3429889/plcjiaguwgh",
+							"filtype": "pdf",
+							"navn": "03.oppdragsavtale - schala & partners selveier",
+							"mappenavn": "Overstyrt edokument\\3000020:2900993",
+							"type_dokumentkategorier": "Oppdragsavtale",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "24",
+							"autoprospekt": "0",
+							"id": "3433789",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3433789/pmjpmzeqlef",
+							"filtype": "pdf",
+							"navn": "03.oppdragsavtale - schala & partners selveier (e-signert)",
+							"mappenavn": "Overstyrt edokument\\3000020:2900993",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "25",
+							"autoprospekt": "1",
+							"id": "3442982",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3442982/ptpsrr",
+							"filtype": "pdf",
+							"navn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"mappenavn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"type_dokumentkategorier": "Ferdig salgsoppgave (pdf)",
+							"nettpublisert": "-1",
+							"checksum": "sha1=3E-9D-BB-26-07-9D-6B-B6-2C-BB-F8-3A-D4-31-EA-D6-B2-1E-39-7A"
+						},
+						{
+							"nr": "26",
+							"autoprospekt": "0",
+							"id": "3443114",
+							"versjon": "1",
+							"urldokument": "https://external.webmegler.no/wngetfile.ashx?/k343/akdokument/i3443114/pwlwog",
+							"filtype": "pdf",
+							"navn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"mappenavn": "Salgsoppgave Fernanda Nissens gate 3D",
+							"nettpublisert": "0",
+							"checksum": "sha1=F0-8A-32-FD-EC-63-46-F4-9E-17-5F-22-A9-86-30-56-0D-12-56-BD"
+						}
+					]
+				}
+			],
+			"allelinker": [
+				{
+					"lenke": [
+						{
+							"nr": "1",
+							"id": "3011885",
+							"url": "https://profil.nabolag.no/1767195",
+							"navn": "Interaktiv Nabolagsprofil",
+							"ikkevisiportal": "-1",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "2",
+							"id": "3012490",
+							"url": "https://portal.crmasp.no/NBPortalWeb//PropertyBuyer/GetPolicyFile?fileType=policy&policyId=6dfbd435-9469-e911-a84a-000d3a45a240",
+							"navn": "norwegianbroker Polise(boligkjøper)",
+							"ikkevisiportal": "-1",
+							"nettpublisert": "0"
+						},
+						{
+							"nr": "3",
+							"id": "3012147",
+							"url": "https://s.idfy.io/nhxKLNiZ5ul",
+							"navn": "signeretest Status",
+							"ikkevisiportal": "-1",
+							"nettpublisert": "0"
+						}
+					]
+				}
+			],
+			"lenker": [
+				[]
+			]
+		}

@@ -1,0 +1,73 @@
+.broker {
+    width: 100%;
+    background-color: #1b1b1a;
+    padding: 2%;
+}
+.broker .property-container {
+    margin-bottom: 5rem;
+}
+.broker .vu_img img {
+    cursor: pointer;
+    border-radius: 5%;
+}
+.colleagues .vu_img img {
+    /*max-width: 150px;*/
+}
+.broker-header {
+    /*margin: 0 15%;*/
+    border-radius: 15px;
+    padding: 20px 25px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.broker-header > div {
+    flex:1
+}
+.broker-header .align-right {
+    padding-top: 20px;
+    text-align: right;
+}
+.leiligheter > div {
+    background: #3b3b3b;
+    box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.16);
+    padding: 10px!important;
+    text-align: center;
+    border-radius: 5%   ;
+}
+.leiligheter h1 {
+    font-weight: 600;
+}
+.leiligheter {
+    display: flex;
+    justify-content: center;
+}
+.broker-header > div.header-left {
+    /*margin: 20% auto;*/
+}
+.broker-header > div {
+    height: 100%;
+    padding: 1%;
+    align-items: center;
+    margin: 0 auto;
+    /*text-align: center;*/
+}
+.broker-header > div img {
+    max-width: 250px;
+    cursor: pointer;
+    border-radius: 5%;
+}
+
+@media only screen and (max-width: 900px) {
+    .broker-header {
+        display: block;
+    }
+}
+.broker-body {
+    padding: 1%;
+}
+.broker-property {
+    margin-bottom: 10px;
+}
+.broker-property:hover {
+    opacity: 0.3;
+}
